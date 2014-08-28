@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="ARC class">
-    <HelpKINode Title="ARC Class" Url="html/27e193f1-d724-116b-bfc6-f953e0b97824.htm" />
-    <HelpKINode Title="about ARC class" Url="html/27e193f1-d724-116b-bfc6-f953e0b97824.htm" />
-    <HelpKINode Title="constructor" Url="html/e24c5dc1-2d92-23e4-de17-cb9c5db3e7a0.htm" />
-    <HelpKINode Title="methods" Url="html/7f30479e-e87d-b1cc-a52f-02587364eb30.htm" />
-    <HelpKINode Title="properties" Url="html/28f264ef-f9ab-8597-bc5c-ff1895ee268b.htm" />
+    <HelpKINode Title="ARC Class" Url="html/d07c26ef-4acf-5095-798c-e5541ba9cbb1.htm" />
+    <HelpKINode Title="about ARC class" Url="html/d07c26ef-4acf-5095-798c-e5541ba9cbb1.htm" />
+    <HelpKINode Title="constructor" Url="html/28de6f5d-2e26-70bd-d8d2-068c8b60cae5.htm" />
+    <HelpKINode Title="methods" Url="html/55f2eebe-efd9-8380-451e-fb770042fc01.htm" />
+    <HelpKINode Title="properties" Url="html/c85631db-7a48-4424-bc97-3fe0ee1fc87d.htm" />
   </HelpKINode>
-  <HelpKINode Title="ARC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="ARC.ARC constructor" Url="html/e24c5dc1-2d92-23e4-de17-cb9c5db3e7a0.htm" />
+  <HelpKINode Title="ARC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="ARC.ARC constructor" Url="html/28de6f5d-2e26-70bd-d8d2-068c8b60cae5.htm" />
   <HelpKINode Title="BernsteinHash class">
     <HelpKINode Title="BernsteinHash Class" Url="html/59f3f15d-87c8-b826-842a-e58c8fdee083.htm" />
     <HelpKINode Title="about BernsteinHash class" Url="html/59f3f15d-87c8-b826-842a-e58c8fdee083.htm" />
@@ -18,7 +18,7 @@
   </HelpKINode>
   <HelpKINode Title="BernsteinHash.BernsteinHash constructor" Url="html/8a61ff17-05a4-5863-7586-7453d532c2b4.htm" />
   <HelpKINode Title="BernsteinHash.ComputeHashInternal method" Url="html/e573641a-4a65-d33a-6073-b7b8dc2dfbcf.htm" />
-  <HelpKINode Title="Bits property" Url="html/70bd9164-f6d8-c970-127f-f0a3d273352a.htm" />
+  <HelpKINode Title="Bits property" Url="html/99fda1ca-5f2e-bd10-d89a-ad9fbf323e73.htm" />
   <HelpKINode Title="BuzHashBase class">
     <HelpKINode Title="BuzHashBase Class" Url="html/52ff4cba-31fa-0b1e-e8cf-4b59a0fdf650.htm" />
     <HelpKINode Title="about BuzHashBase class" Url="html/52ff4cba-31fa-0b1e-e8cf-4b59a0fdf650.htm" />
@@ -124,614 +124,608 @@
     <HelpKINode Title="CRC Class" Url="html/4c1ae67a-d28d-02b1-222e-2984c9d44ad1.htm" />
     <HelpKINode Title="about CRC class" Url="html/4c1ae67a-d28d-02b1-222e-2984c9d44ad1.htm" />
     <HelpKINode Title="constructor" Url="html/4216f890-f140-6d53-f01a-2cbf84c8363e.htm" />
+    <HelpKINode Title="fields" Url="html/1f9d0911-d7f4-8419-67b7-d605ee39dde7.htm" />
     <HelpKINode Title="methods" Url="html/0d5a2c24-b2c4-0606-2aef-4996fb280730.htm" />
     <HelpKINode Title="properties" Url="html/5954f842-1a8c-aa11-5f6d-810814dd8d51.htm" />
   </HelpKINode>
   <HelpKINode Title="CRC.ComputeHashInternal method" Url="html/5f959256-4743-be47-35b3-f5be5c95bd76.htm" />
   <HelpKINode Title="CRC.CRC constructor" Url="html/4216f890-f140-6d53-f01a-2cbf84c8363e.htm" />
   <HelpKINode Title="CRC.DefaultSettings property" Url="html/9d900d58-63de-8482-841c-11e1aceafa85.htm" />
+  <HelpKINode Title="CRC.Setting class">
+    <HelpKINode Title="CRC.Setting Class" Url="html/699690cc-d2c1-83c7-e56d-4e4109969c92.htm" />
+    <HelpKINode Title="about CRC.Setting class" Url="html/699690cc-d2c1-83c7-e56d-4e4109969c92.htm" />
+    <HelpKINode Title="constructor" Url="html/a9606bad-4db9-9b86-bc0e-f9e5d52e5401.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CRC.Setting.Bits property" Url="html/99fda1ca-5f2e-bd10-d89a-ad9fbf323e73.htm" />
+  <HelpKINode Title="CRC.Setting.DataDivisionTable property" Url="html/1b6cc89f-2e00-f358-e874-42f3347652eb.htm" />
+  <HelpKINode Title="CRC.Setting.InitialValue property" Url="html/cc9fa667-b34b-2e50-fa89-586bbc0c258c.htm" />
+  <HelpKINode Title="CRC.Setting.Polynomial property" Url="html/15581c84-0239-ed31-56f3-157c81ff2d26.htm" />
+  <HelpKINode Title="CRC.Setting.PreCalculateTable method" Url="html/10fcf54c-009e-5c98-dc04-3286fa7d9dd4.htm" />
+  <HelpKINode Title="CRC.Setting.ReflectIn property" Url="html/6dfce378-13c8-ea46-acd0-2430f6e3fddd.htm" />
+  <HelpKINode Title="CRC.Setting.ReflectOut property" Url="html/cd45e2eb-10d5-1818-b0b6-ac7630acb7a4.htm" />
+  <HelpKINode Title="CRC.Setting.Setting constructor" Url="html/a9606bad-4db9-9b86-bc0e-f9e5d52e5401.htm" />
+  <HelpKINode Title="CRC.Setting.XOrOut property" Url="html/24c810b7-f444-0f29-3f62-1f69159a8eab.htm" />
   <HelpKINode Title="CRC.Settings property" Url="html/961c389d-8e0c-ef1a-5910-f1a81e1c8f90.htm" />
+  <HelpKINode Title="CRC.Standard enumeration" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC.Standards field" Url="html/c5f5627b-c2d4-9b11-b098-c81914901f3e.htm" />
   <HelpKINode Title="CRC10 class">
-    <HelpKINode Title="CRC10 Class" Url="html/d125b93d-407a-0679-34f8-73e44bec3937.htm" />
-    <HelpKINode Title="about CRC10 class" Url="html/d125b93d-407a-0679-34f8-73e44bec3937.htm" />
-    <HelpKINode Title="constructor" Url="html/f62f8bfd-a354-b09e-d94a-e45fbbe6f5d0.htm" />
-    <HelpKINode Title="methods" Url="html/aafddec3-e633-fe8b-402b-784f25ca55f2.htm" />
-    <HelpKINode Title="properties" Url="html/135e9b58-c743-481c-30ce-0b389e45b150.htm" />
+    <HelpKINode Title="CRC10 Class" Url="html/2f96a729-7ec0-e8be-cbbd-62c455286fbc.htm" />
+    <HelpKINode Title="about CRC10 class" Url="html/2f96a729-7ec0-e8be-cbbd-62c455286fbc.htm" />
+    <HelpKINode Title="constructor" Url="html/8e1fdc01-1b1d-eb17-ca6b-0b58467b0a62.htm" />
+    <HelpKINode Title="methods" Url="html/6aac8001-680b-56ee-646b-095bc153a9cb.htm" />
+    <HelpKINode Title="properties" Url="html/6077a94e-78ae-6ee5-00e9-e739c8f65222.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC10 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC10.CRC10 constructor" Url="html/f62f8bfd-a354-b09e-d94a-e45fbbe6f5d0.htm" />
+  <HelpKINode Title="CRC10 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC10.CRC10 constructor" Url="html/8e1fdc01-1b1d-eb17-ca6b-0b58467b0a62.htm" />
   <HelpKINode Title="CRC10_CDMA2000 class">
-    <HelpKINode Title="CRC10_CDMA2000 Class" Url="html/bad5fb81-4297-1215-d8eb-66c5bc47d76f.htm" />
-    <HelpKINode Title="about CRC10_CDMA2000 class" Url="html/bad5fb81-4297-1215-d8eb-66c5bc47d76f.htm" />
-    <HelpKINode Title="constructor" Url="html/88c7e184-f44f-a29d-ab95-50167d9d7f99.htm" />
-    <HelpKINode Title="methods" Url="html/dcb3bea1-89f1-3c5c-a6fa-075416fbb0b3.htm" />
-    <HelpKINode Title="properties" Url="html/53d61ea7-85e8-f941-f16e-08f3c14f8b54.htm" />
+    <HelpKINode Title="CRC10_CDMA2000 Class" Url="html/7448664c-cdde-55e3-73c0-e3d8f6f8761d.htm" />
+    <HelpKINode Title="about CRC10_CDMA2000 class" Url="html/7448664c-cdde-55e3-73c0-e3d8f6f8761d.htm" />
+    <HelpKINode Title="constructor" Url="html/e3439294-5395-7401-2f2c-d5f1b85906f4.htm" />
+    <HelpKINode Title="methods" Url="html/338f504b-7998-b2cd-44ae-a8d7eb46a5dc.htm" />
+    <HelpKINode Title="properties" Url="html/2a0154a6-4f51-2a93-314e-875a00a1ce5e.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC10_CDMA2000 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC10_CDMA2000.CRC10_CDMA2000 constructor" Url="html/88c7e184-f44f-a29d-ab95-50167d9d7f99.htm" />
+  <HelpKINode Title="CRC10_CDMA2000 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC10_CDMA2000.CRC10_CDMA2000 constructor" Url="html/e3439294-5395-7401-2f2c-d5f1b85906f4.htm" />
   <HelpKINode Title="CRC11 class">
-    <HelpKINode Title="CRC11 Class" Url="html/f751f99b-cce6-e353-cf88-5baa1b1d5cac.htm" />
-    <HelpKINode Title="about CRC11 class" Url="html/f751f99b-cce6-e353-cf88-5baa1b1d5cac.htm" />
-    <HelpKINode Title="constructor" Url="html/1f764132-7e62-d48d-e984-e47172c71e94.htm" />
-    <HelpKINode Title="methods" Url="html/d92f1e38-a4a7-146a-ffdf-ac814376117a.htm" />
-    <HelpKINode Title="properties" Url="html/819061be-f1d1-6ba9-24a1-1e07fecff559.htm" />
+    <HelpKINode Title="CRC11 Class" Url="html/16aadaac-af12-d287-d2e4-9fdec7203587.htm" />
+    <HelpKINode Title="about CRC11 class" Url="html/16aadaac-af12-d287-d2e4-9fdec7203587.htm" />
+    <HelpKINode Title="constructor" Url="html/0e36c48e-9752-94da-084e-e583b051daec.htm" />
+    <HelpKINode Title="methods" Url="html/b6cedfde-8969-0bcf-54a7-28612fb7f739.htm" />
+    <HelpKINode Title="properties" Url="html/6ddaf8ff-4bd9-6818-4cf1-b3e628ed8ebe.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC11 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC11.CRC11 constructor" Url="html/1f764132-7e62-d48d-e984-e47172c71e94.htm" />
+  <HelpKINode Title="CRC11 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC11.CRC11 constructor" Url="html/0e36c48e-9752-94da-084e-e583b051daec.htm" />
   <HelpKINode Title="CRC12_3GPP class">
-    <HelpKINode Title="CRC12_3GPP Class" Url="html/daa32ef5-9c98-82c2-b078-a879cc113cfe.htm" />
-    <HelpKINode Title="about CRC12_3GPP class" Url="html/daa32ef5-9c98-82c2-b078-a879cc113cfe.htm" />
-    <HelpKINode Title="constructor" Url="html/53c3e12b-b1c1-6288-a34e-1e57f993fd6b.htm" />
-    <HelpKINode Title="methods" Url="html/b9953072-0adf-f7ef-18aa-ba6abbf220cd.htm" />
-    <HelpKINode Title="properties" Url="html/68b9a76e-3b0b-619c-e54f-68309da47796.htm" />
+    <HelpKINode Title="CRC12_3GPP Class" Url="html/b17d0ad0-94f4-b593-6045-b42dd115a87d.htm" />
+    <HelpKINode Title="about CRC12_3GPP class" Url="html/b17d0ad0-94f4-b593-6045-b42dd115a87d.htm" />
+    <HelpKINode Title="constructor" Url="html/76be2424-539f-83e3-0de3-a1b288571eda.htm" />
+    <HelpKINode Title="methods" Url="html/341bda36-cc2c-adce-871b-8b1f53466964.htm" />
+    <HelpKINode Title="properties" Url="html/f1b5bb0d-886e-96a5-b13e-b20fea3daa24.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC12_3GPP enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC12_3GPP.CRC12_3GPP constructor" Url="html/53c3e12b-b1c1-6288-a34e-1e57f993fd6b.htm" />
+  <HelpKINode Title="CRC12_3GPP enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC12_3GPP.CRC12_3GPP constructor" Url="html/76be2424-539f-83e3-0de3-a1b288571eda.htm" />
   <HelpKINode Title="CRC12_CDMA2000 class">
-    <HelpKINode Title="CRC12_CDMA2000 Class" Url="html/7e5d8688-ef6d-f3c3-bd8a-e07f37740970.htm" />
-    <HelpKINode Title="about CRC12_CDMA2000 class" Url="html/7e5d8688-ef6d-f3c3-bd8a-e07f37740970.htm" />
-    <HelpKINode Title="constructor" Url="html/08e76857-22b3-e7d7-6630-a44a0c6a4896.htm" />
-    <HelpKINode Title="methods" Url="html/ebe3dea8-0908-1496-af4c-e726f3abd9c4.htm" />
-    <HelpKINode Title="properties" Url="html/f6d155cd-99e0-b00b-a4d3-e10200ea0b83.htm" />
+    <HelpKINode Title="CRC12_CDMA2000 Class" Url="html/21bd8007-b6f9-d3a0-aa27-8158c9c260eb.htm" />
+    <HelpKINode Title="about CRC12_CDMA2000 class" Url="html/21bd8007-b6f9-d3a0-aa27-8158c9c260eb.htm" />
+    <HelpKINode Title="constructor" Url="html/ea9eba00-074b-cc1e-85a7-f8c50cc830de.htm" />
+    <HelpKINode Title="methods" Url="html/d59873f5-42a4-411b-40e1-e55572f9abcb.htm" />
+    <HelpKINode Title="properties" Url="html/31c233ea-df47-2381-65e8-8925fb40b156.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC12_CDMA2000 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC12_CDMA2000.CRC12_CDMA2000 constructor" Url="html/08e76857-22b3-e7d7-6630-a44a0c6a4896.htm" />
+  <HelpKINode Title="CRC12_CDMA2000 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC12_CDMA2000.CRC12_CDMA2000 constructor" Url="html/ea9eba00-074b-cc1e-85a7-f8c50cc830de.htm" />
   <HelpKINode Title="CRC12_DECT class">
-    <HelpKINode Title="CRC12_DECT Class" Url="html/49b5b7dc-fbdc-0ae7-92e3-f64f838564be.htm" />
-    <HelpKINode Title="about CRC12_DECT class" Url="html/49b5b7dc-fbdc-0ae7-92e3-f64f838564be.htm" />
-    <HelpKINode Title="constructor" Url="html/dc3006ac-211c-7957-155b-a046bc2c3996.htm" />
-    <HelpKINode Title="methods" Url="html/d327b682-958e-3be5-1859-633698d421e6.htm" />
-    <HelpKINode Title="properties" Url="html/b985edb8-0fe7-8f72-ed5f-90fd70153a0a.htm" />
+    <HelpKINode Title="CRC12_DECT Class" Url="html/4ca09bfe-5ab8-5d41-f5eb-5026d1dde0cd.htm" />
+    <HelpKINode Title="about CRC12_DECT class" Url="html/4ca09bfe-5ab8-5d41-f5eb-5026d1dde0cd.htm" />
+    <HelpKINode Title="constructor" Url="html/6068d0ef-1e6d-0884-63dc-8415373a2943.htm" />
+    <HelpKINode Title="methods" Url="html/eb1c2a14-39df-b32a-9081-9511a67f8a44.htm" />
+    <HelpKINode Title="properties" Url="html/d921f224-903a-ddc2-f69d-4edcbd2b2734.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC12_DECT enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC12_DECT.CRC12_DECT constructor" Url="html/dc3006ac-211c-7957-155b-a046bc2c3996.htm" />
+  <HelpKINode Title="CRC12_DECT enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC12_DECT.CRC12_DECT constructor" Url="html/6068d0ef-1e6d-0884-63dc-8415373a2943.htm" />
   <HelpKINode Title="CRC13_BBC class">
-    <HelpKINode Title="CRC13_BBC Class" Url="html/6754c29e-10a9-e2de-19bf-4fb6f6283bac.htm" />
-    <HelpKINode Title="about CRC13_BBC class" Url="html/6754c29e-10a9-e2de-19bf-4fb6f6283bac.htm" />
-    <HelpKINode Title="constructor" Url="html/e209ef88-de0b-8a51-1b99-5525e1def49f.htm" />
-    <HelpKINode Title="methods" Url="html/fe32f65c-b0a9-3251-26dd-42eee5dd9e4f.htm" />
-    <HelpKINode Title="properties" Url="html/06b4997f-dbf7-bdeb-2329-68c2e2021b4a.htm" />
+    <HelpKINode Title="CRC13_BBC Class" Url="html/fed9839d-5de1-2d61-d925-b52914f2b830.htm" />
+    <HelpKINode Title="about CRC13_BBC class" Url="html/fed9839d-5de1-2d61-d925-b52914f2b830.htm" />
+    <HelpKINode Title="constructor" Url="html/05ad1228-a720-49da-92a4-4395145cc670.htm" />
+    <HelpKINode Title="methods" Url="html/35e8df15-1f1c-b387-fdd9-8e7d0e4d98f2.htm" />
+    <HelpKINode Title="properties" Url="html/212993ef-354a-6b22-ab34-9284199eea57.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC13_BBC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC13_BBC.CRC13_BBC constructor" Url="html/e209ef88-de0b-8a51-1b99-5525e1def49f.htm" />
+  <HelpKINode Title="CRC13_BBC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC13_BBC.CRC13_BBC constructor" Url="html/05ad1228-a720-49da-92a4-4395145cc670.htm" />
   <HelpKINode Title="CRC14_DARC class">
-    <HelpKINode Title="CRC14_DARC Class" Url="html/575c4616-4c50-0013-911e-05de7ce84b68.htm" />
-    <HelpKINode Title="about CRC14_DARC class" Url="html/575c4616-4c50-0013-911e-05de7ce84b68.htm" />
-    <HelpKINode Title="constructor" Url="html/d7834aa2-a4f7-4fa0-d38c-c5eaac0fb7bd.htm" />
-    <HelpKINode Title="methods" Url="html/c0e29776-f8b6-21df-d72d-a067eea0f47e.htm" />
-    <HelpKINode Title="properties" Url="html/d013e314-8747-1736-8949-9def94c0cbc4.htm" />
+    <HelpKINode Title="CRC14_DARC Class" Url="html/86132914-fbfc-e800-2af1-3ad9e913e45c.htm" />
+    <HelpKINode Title="about CRC14_DARC class" Url="html/86132914-fbfc-e800-2af1-3ad9e913e45c.htm" />
+    <HelpKINode Title="constructor" Url="html/462e1f66-cc16-186e-4415-754c6d54b72d.htm" />
+    <HelpKINode Title="methods" Url="html/8fd5bab5-d8fb-c870-1a26-b31f9a94dbef.htm" />
+    <HelpKINode Title="properties" Url="html/4d5fea45-630a-cc1e-9a60-ac1387938dfd.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC14_DARC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC14_DARC.CRC14_DARC constructor" Url="html/d7834aa2-a4f7-4fa0-d38c-c5eaac0fb7bd.htm" />
+  <HelpKINode Title="CRC14_DARC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC14_DARC.CRC14_DARC constructor" Url="html/462e1f66-cc16-186e-4415-754c6d54b72d.htm" />
   <HelpKINode Title="CRC15 class">
-    <HelpKINode Title="CRC15 Class" Url="html/54dd7ab1-7426-4156-46ca-ee19f950cd81.htm" />
-    <HelpKINode Title="about CRC15 class" Url="html/54dd7ab1-7426-4156-46ca-ee19f950cd81.htm" />
-    <HelpKINode Title="constructor" Url="html/cf55e7c2-c1a6-ff87-9750-cb5f9dba46e2.htm" />
-    <HelpKINode Title="methods" Url="html/aceac6bc-f70e-079c-cdcd-b1e4ae99a2d6.htm" />
-    <HelpKINode Title="properties" Url="html/7f7b3d98-5265-3ddb-d5b3-18d20a2e70b1.htm" />
+    <HelpKINode Title="CRC15 Class" Url="html/01cb40d2-5127-8d36-439f-6bd2034c391b.htm" />
+    <HelpKINode Title="about CRC15 class" Url="html/01cb40d2-5127-8d36-439f-6bd2034c391b.htm" />
+    <HelpKINode Title="constructor" Url="html/81cd5186-0c74-053a-5b26-b4edf89ef496.htm" />
+    <HelpKINode Title="methods" Url="html/f8a7a02b-6794-43fa-3fbc-18c6ac2328b9.htm" />
+    <HelpKINode Title="properties" Url="html/a5d36adb-3411-8f26-d621-be2f8ce7f3bb.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC15 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC15.CRC15 constructor" Url="html/cf55e7c2-c1a6-ff87-9750-cb5f9dba46e2.htm" />
+  <HelpKINode Title="CRC15 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC15.CRC15 constructor" Url="html/81cd5186-0c74-053a-5b26-b4edf89ef496.htm" />
   <HelpKINode Title="CRC15_MPT1327 class">
-    <HelpKINode Title="CRC15_MPT1327 Class" Url="html/e1bb1cfe-ef78-1518-a414-15488f94009d.htm" />
-    <HelpKINode Title="about CRC15_MPT1327 class" Url="html/e1bb1cfe-ef78-1518-a414-15488f94009d.htm" />
-    <HelpKINode Title="constructor" Url="html/29cd620e-8351-2f76-9f12-efa6424b4e00.htm" />
-    <HelpKINode Title="methods" Url="html/817b4b97-44b9-e89c-b7f5-d8cebf9f04ad.htm" />
-    <HelpKINode Title="properties" Url="html/2765a946-c861-d3f2-174f-dc2df3bf6d74.htm" />
+    <HelpKINode Title="CRC15_MPT1327 Class" Url="html/5c202016-ac0b-d9b1-e634-01e5e36fa95b.htm" />
+    <HelpKINode Title="about CRC15_MPT1327 class" Url="html/5c202016-ac0b-d9b1-e634-01e5e36fa95b.htm" />
+    <HelpKINode Title="constructor" Url="html/ee1084ab-561d-b622-225a-cf9685aa83a5.htm" />
+    <HelpKINode Title="methods" Url="html/29e25e69-2dd1-0862-56d2-d31968e6721d.htm" />
+    <HelpKINode Title="properties" Url="html/a25ee77d-82e4-0dde-ecc1-416727993cd9.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC15_MPT1327 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC15_MPT1327.CRC15_MPT1327 constructor" Url="html/29cd620e-8351-2f76-9f12-efa6424b4e00.htm" />
+  <HelpKINode Title="CRC15_MPT1327 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC15_MPT1327.CRC15_MPT1327 constructor" Url="html/ee1084ab-561d-b622-225a-cf9685aa83a5.htm" />
   <HelpKINode Title="CRC16_AUGCCITT class">
-    <HelpKINode Title="CRC16_AUGCCITT Class" Url="html/086a0391-68d1-d941-5344-2be668d81ee6.htm" />
-    <HelpKINode Title="about CRC16_AUGCCITT class" Url="html/086a0391-68d1-d941-5344-2be668d81ee6.htm" />
-    <HelpKINode Title="constructor" Url="html/182942db-47b6-4e0e-6af4-655bf00bc199.htm" />
-    <HelpKINode Title="methods" Url="html/e39d02da-b03a-066d-0398-4e1f91249817.htm" />
-    <HelpKINode Title="properties" Url="html/a5b2c624-e320-af03-e721-21bef03dc8b8.htm" />
+    <HelpKINode Title="CRC16_AUGCCITT Class" Url="html/eee4b241-2936-8880-5e77-4676870d7fc4.htm" />
+    <HelpKINode Title="about CRC16_AUGCCITT class" Url="html/eee4b241-2936-8880-5e77-4676870d7fc4.htm" />
+    <HelpKINode Title="constructor" Url="html/1683c56b-3bb9-d0d6-ab90-73a77a289b98.htm" />
+    <HelpKINode Title="methods" Url="html/a737bdb1-7c9b-3172-37ba-234c17774e25.htm" />
+    <HelpKINode Title="properties" Url="html/4373198b-6f9b-d95d-535b-d75532c3a940.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_AUGCCITT enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_AUGCCITT.CRC16_AUGCCITT constructor" Url="html/182942db-47b6-4e0e-6af4-655bf00bc199.htm" />
+  <HelpKINode Title="CRC16_AUGCCITT enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_AUGCCITT.CRC16_AUGCCITT constructor" Url="html/1683c56b-3bb9-d0d6-ab90-73a77a289b98.htm" />
   <HelpKINode Title="CRC16_BUYPASS class">
-    <HelpKINode Title="CRC16_BUYPASS Class" Url="html/70f40b29-e434-aa1e-b973-6cf7497a14e3.htm" />
-    <HelpKINode Title="about CRC16_BUYPASS class" Url="html/70f40b29-e434-aa1e-b973-6cf7497a14e3.htm" />
-    <HelpKINode Title="constructor" Url="html/e6122b18-7097-bd40-b324-b519a24fe3cf.htm" />
-    <HelpKINode Title="methods" Url="html/762969d8-fa5b-c03f-4c63-e40c177d673b.htm" />
-    <HelpKINode Title="properties" Url="html/64916eef-9c40-627e-af76-de9ea47ed05b.htm" />
+    <HelpKINode Title="CRC16_BUYPASS Class" Url="html/3916386f-a713-58b3-6328-79533874b220.htm" />
+    <HelpKINode Title="about CRC16_BUYPASS class" Url="html/3916386f-a713-58b3-6328-79533874b220.htm" />
+    <HelpKINode Title="constructor" Url="html/a7766e21-7430-92be-6711-9f25c046dfe4.htm" />
+    <HelpKINode Title="methods" Url="html/5f261c99-58b1-11c5-a19a-17c8a70cf8df.htm" />
+    <HelpKINode Title="properties" Url="html/2d515b35-baed-fd48-a9b3-aa12fe127cc1.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_BUYPASS enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_BUYPASS.CRC16_BUYPASS constructor" Url="html/e6122b18-7097-bd40-b324-b519a24fe3cf.htm" />
+  <HelpKINode Title="CRC16_BUYPASS enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_BUYPASS.CRC16_BUYPASS constructor" Url="html/a7766e21-7430-92be-6711-9f25c046dfe4.htm" />
   <HelpKINode Title="CRC16_CCITTFALSE class">
-    <HelpKINode Title="CRC16_CCITTFALSE Class" Url="html/00ee0659-6a1b-e2c4-cc6b-345877cf970f.htm" />
-    <HelpKINode Title="about CRC16_CCITTFALSE class" Url="html/00ee0659-6a1b-e2c4-cc6b-345877cf970f.htm" />
-    <HelpKINode Title="constructor" Url="html/6935b107-ed60-0b98-0e4f-84b8c125176c.htm" />
-    <HelpKINode Title="methods" Url="html/743e8ac7-4117-03b6-e976-f69d30932a65.htm" />
-    <HelpKINode Title="properties" Url="html/ddb196c0-7e1c-6873-b465-e251fc7624f1.htm" />
+    <HelpKINode Title="CRC16_CCITTFALSE Class" Url="html/a5802c7b-4dd1-882f-1719-88722969d766.htm" />
+    <HelpKINode Title="about CRC16_CCITTFALSE class" Url="html/a5802c7b-4dd1-882f-1719-88722969d766.htm" />
+    <HelpKINode Title="constructor" Url="html/45e3a584-8f66-2730-0e2e-d947627b54df.htm" />
+    <HelpKINode Title="methods" Url="html/8dc9356e-bead-8bd1-e00e-f77b08acf62a.htm" />
+    <HelpKINode Title="properties" Url="html/be772a53-275b-182f-6d96-9e7629c583e2.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_CCITTFALSE enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_CCITTFALSE.CRC16_CCITTFALSE constructor" Url="html/6935b107-ed60-0b98-0e4f-84b8c125176c.htm" />
+  <HelpKINode Title="CRC16_CCITTFALSE enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_CCITTFALSE.CRC16_CCITTFALSE constructor" Url="html/45e3a584-8f66-2730-0e2e-d947627b54df.htm" />
   <HelpKINode Title="CRC16_CDMA2000 class">
-    <HelpKINode Title="CRC16_CDMA2000 Class" Url="html/dfced679-f753-2ec9-0020-3ae6434f5206.htm" />
-    <HelpKINode Title="about CRC16_CDMA2000 class" Url="html/dfced679-f753-2ec9-0020-3ae6434f5206.htm" />
-    <HelpKINode Title="constructor" Url="html/3bae0d81-9d5a-457d-90cc-e27378a60baf.htm" />
-    <HelpKINode Title="methods" Url="html/8830d415-a999-6e3c-3dc2-0b752b84779d.htm" />
-    <HelpKINode Title="properties" Url="html/6bcaabd2-9531-a18a-5fa2-6965dd9a0f77.htm" />
+    <HelpKINode Title="CRC16_CDMA2000 Class" Url="html/aaf535fa-a034-3e56-9a6c-f375bd863c60.htm" />
+    <HelpKINode Title="about CRC16_CDMA2000 class" Url="html/aaf535fa-a034-3e56-9a6c-f375bd863c60.htm" />
+    <HelpKINode Title="constructor" Url="html/114d10ad-e638-c4d3-0409-0bd5f91a25d1.htm" />
+    <HelpKINode Title="methods" Url="html/a153ce19-2b2f-dd48-2881-23e04d8bbd9c.htm" />
+    <HelpKINode Title="properties" Url="html/4ec3c426-c963-a7da-bef9-64ebed71141c.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_CDMA2000 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_CDMA2000.CRC16_CDMA2000 constructor" Url="html/3bae0d81-9d5a-457d-90cc-e27378a60baf.htm" />
+  <HelpKINode Title="CRC16_CDMA2000 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_CDMA2000.CRC16_CDMA2000 constructor" Url="html/114d10ad-e638-c4d3-0409-0bd5f91a25d1.htm" />
   <HelpKINode Title="CRC16_DDS110 class">
-    <HelpKINode Title="CRC16_DDS110 Class" Url="html/33a7abdf-0bd9-038e-e04d-4a3c96ceb1e9.htm" />
-    <HelpKINode Title="about CRC16_DDS110 class" Url="html/33a7abdf-0bd9-038e-e04d-4a3c96ceb1e9.htm" />
-    <HelpKINode Title="constructor" Url="html/216b72f6-7a2f-c2c6-7c5c-405a907cebce.htm" />
-    <HelpKINode Title="methods" Url="html/abf8f958-5ef1-1156-1537-5277f7aa7c80.htm" />
-    <HelpKINode Title="properties" Url="html/ea96e303-6426-4b9a-9784-b6754180aaef.htm" />
+    <HelpKINode Title="CRC16_DDS110 Class" Url="html/77948150-44c5-0048-be31-5fb0d5d45487.htm" />
+    <HelpKINode Title="about CRC16_DDS110 class" Url="html/77948150-44c5-0048-be31-5fb0d5d45487.htm" />
+    <HelpKINode Title="constructor" Url="html/a6fffee3-99e7-76f2-3c68-db90fe12eae2.htm" />
+    <HelpKINode Title="methods" Url="html/c8128303-bd5c-0c9f-04c9-73538bb7b956.htm" />
+    <HelpKINode Title="properties" Url="html/59f7d4c6-681e-f47a-7a21-7bf227dec376.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_DDS110 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_DDS110.CRC16_DDS110 constructor" Url="html/216b72f6-7a2f-c2c6-7c5c-405a907cebce.htm" />
+  <HelpKINode Title="CRC16_DDS110 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_DDS110.CRC16_DDS110 constructor" Url="html/a6fffee3-99e7-76f2-3c68-db90fe12eae2.htm" />
   <HelpKINode Title="CRC16_DECTR class">
-    <HelpKINode Title="CRC16_DECTR Class" Url="html/eb48e01b-34a9-6b95-4142-2927b9b6c0b0.htm" />
-    <HelpKINode Title="about CRC16_DECTR class" Url="html/eb48e01b-34a9-6b95-4142-2927b9b6c0b0.htm" />
-    <HelpKINode Title="constructor" Url="html/9512e716-2177-6a56-b5d3-d28e8a88818c.htm" />
-    <HelpKINode Title="methods" Url="html/60baa04b-cfed-be53-8b39-fb4cdd1facff.htm" />
-    <HelpKINode Title="properties" Url="html/b988d2aa-f2e8-bcd3-4a21-d8d0be3f5320.htm" />
+    <HelpKINode Title="CRC16_DECTR Class" Url="html/3637a1fd-5e55-bf0b-ac99-51e6423900d6.htm" />
+    <HelpKINode Title="about CRC16_DECTR class" Url="html/3637a1fd-5e55-bf0b-ac99-51e6423900d6.htm" />
+    <HelpKINode Title="constructor" Url="html/2b6eea2a-6b46-324f-a1fe-48c169261ad7.htm" />
+    <HelpKINode Title="methods" Url="html/fa27e57b-0219-cd92-354e-04707b720e07.htm" />
+    <HelpKINode Title="properties" Url="html/9fc7af27-17e4-74c6-bdaa-5f27889e68a5.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_DECTR enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_DECTR.CRC16_DECTR constructor" Url="html/9512e716-2177-6a56-b5d3-d28e8a88818c.htm" />
+  <HelpKINode Title="CRC16_DECTR enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_DECTR.CRC16_DECTR constructor" Url="html/2b6eea2a-6b46-324f-a1fe-48c169261ad7.htm" />
   <HelpKINode Title="CRC16_DECTX class">
-    <HelpKINode Title="CRC16_DECTX Class" Url="html/90e5246d-b78f-be1b-a299-c0f97ff8eab2.htm" />
-    <HelpKINode Title="about CRC16_DECTX class" Url="html/90e5246d-b78f-be1b-a299-c0f97ff8eab2.htm" />
-    <HelpKINode Title="constructor" Url="html/af274474-f09c-82c4-53fd-fbad6048b556.htm" />
-    <HelpKINode Title="methods" Url="html/bf747c48-5a58-2e90-6420-160e00d3aec8.htm" />
-    <HelpKINode Title="properties" Url="html/e7dbf15f-894e-4729-5d2c-0c93169d0805.htm" />
+    <HelpKINode Title="CRC16_DECTX Class" Url="html/4385e60f-01f3-9d23-db06-092b7f046803.htm" />
+    <HelpKINode Title="about CRC16_DECTX class" Url="html/4385e60f-01f3-9d23-db06-092b7f046803.htm" />
+    <HelpKINode Title="constructor" Url="html/9dbe7b8a-b3c0-8040-6913-07939cf548dc.htm" />
+    <HelpKINode Title="methods" Url="html/bbe4384d-6f39-f724-910f-f0bb4459d6fb.htm" />
+    <HelpKINode Title="properties" Url="html/a4517340-c10b-2bee-fb12-fabf54cf09a9.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_DECTX enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_DECTX.CRC16_DECTX constructor" Url="html/af274474-f09c-82c4-53fd-fbad6048b556.htm" />
+  <HelpKINode Title="CRC16_DECTX enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_DECTX.CRC16_DECTX constructor" Url="html/9dbe7b8a-b3c0-8040-6913-07939cf548dc.htm" />
   <HelpKINode Title="CRC16_DNP class">
-    <HelpKINode Title="CRC16_DNP Class" Url="html/fe395941-f64d-c39a-018f-fc1c76f9fc01.htm" />
-    <HelpKINode Title="about CRC16_DNP class" Url="html/fe395941-f64d-c39a-018f-fc1c76f9fc01.htm" />
-    <HelpKINode Title="constructor" Url="html/c4f520f4-0833-6d70-aae0-f24b834dc30a.htm" />
-    <HelpKINode Title="methods" Url="html/f395b151-5232-c7d9-a597-016a6d22eaa0.htm" />
-    <HelpKINode Title="properties" Url="html/685126f0-125b-a377-fe04-dbab93c5af4f.htm" />
+    <HelpKINode Title="CRC16_DNP Class" Url="html/a23eb929-a482-7506-14b6-acb1aeed25ef.htm" />
+    <HelpKINode Title="about CRC16_DNP class" Url="html/a23eb929-a482-7506-14b6-acb1aeed25ef.htm" />
+    <HelpKINode Title="constructor" Url="html/e682119f-24e8-e8cd-0c19-90174a0f8dd1.htm" />
+    <HelpKINode Title="methods" Url="html/4f845fa6-623c-ef0f-ebb2-35a80651d63a.htm" />
+    <HelpKINode Title="properties" Url="html/d337d5a2-031d-8953-a0bd-f1cf8c98c638.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_DNP enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_DNP.CRC16_DNP constructor" Url="html/c4f520f4-0833-6d70-aae0-f24b834dc30a.htm" />
+  <HelpKINode Title="CRC16_DNP enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_DNP.CRC16_DNP constructor" Url="html/e682119f-24e8-e8cd-0c19-90174a0f8dd1.htm" />
   <HelpKINode Title="CRC16_EN13757 class">
-    <HelpKINode Title="CRC16_EN13757 Class" Url="html/deb69619-996b-d280-66d3-96e3095bae53.htm" />
-    <HelpKINode Title="about CRC16_EN13757 class" Url="html/deb69619-996b-d280-66d3-96e3095bae53.htm" />
-    <HelpKINode Title="constructor" Url="html/64bf4e74-d742-b390-81bd-b40fe9941af3.htm" />
-    <HelpKINode Title="methods" Url="html/11fa31bb-6e48-c90d-6374-0d6837a34dae.htm" />
-    <HelpKINode Title="properties" Url="html/ce9c5b23-f06a-e122-cd1e-f1f44a0d0cdf.htm" />
+    <HelpKINode Title="CRC16_EN13757 Class" Url="html/687a18da-aa47-5075-6c20-a21dfc02d5ff.htm" />
+    <HelpKINode Title="about CRC16_EN13757 class" Url="html/687a18da-aa47-5075-6c20-a21dfc02d5ff.htm" />
+    <HelpKINode Title="constructor" Url="html/2da275aa-1f38-490d-576c-fa11cea9b94c.htm" />
+    <HelpKINode Title="methods" Url="html/83459494-ba34-5388-a2f1-fd276414b159.htm" />
+    <HelpKINode Title="properties" Url="html/c3c818ec-9bc2-616f-f079-b5b1326f4897.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_EN13757 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_EN13757.CRC16_EN13757 constructor" Url="html/64bf4e74-d742-b390-81bd-b40fe9941af3.htm" />
+  <HelpKINode Title="CRC16_EN13757 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_EN13757.CRC16_EN13757 constructor" Url="html/2da275aa-1f38-490d-576c-fa11cea9b94c.htm" />
   <HelpKINode Title="CRC16_GENIBUS class">
-    <HelpKINode Title="CRC16_GENIBUS Class" Url="html/198680f5-f639-5fcb-930d-d32671b52b5f.htm" />
-    <HelpKINode Title="about CRC16_GENIBUS class" Url="html/198680f5-f639-5fcb-930d-d32671b52b5f.htm" />
-    <HelpKINode Title="constructor" Url="html/9c2b02e5-e0a7-496d-0f54-a9792f02eb50.htm" />
-    <HelpKINode Title="methods" Url="html/f215c2c1-effe-f618-479e-b1768a1432d0.htm" />
-    <HelpKINode Title="properties" Url="html/05ce50de-55d1-7e20-8a94-f620af851c0d.htm" />
+    <HelpKINode Title="CRC16_GENIBUS Class" Url="html/b4c8442b-63ef-e240-5618-aa9521dc95cb.htm" />
+    <HelpKINode Title="about CRC16_GENIBUS class" Url="html/b4c8442b-63ef-e240-5618-aa9521dc95cb.htm" />
+    <HelpKINode Title="constructor" Url="html/9ff423e3-4e6a-322d-d763-a5e4888309b7.htm" />
+    <HelpKINode Title="methods" Url="html/1ff922af-ef4b-989f-91dc-7def40f132bb.htm" />
+    <HelpKINode Title="properties" Url="html/7dde11ed-c148-1d2c-d5b7-915dafbb5850.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_GENIBUS enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_GENIBUS.CRC16_GENIBUS constructor" Url="html/9c2b02e5-e0a7-496d-0f54-a9792f02eb50.htm" />
+  <HelpKINode Title="CRC16_GENIBUS enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_GENIBUS.CRC16_GENIBUS constructor" Url="html/9ff423e3-4e6a-322d-d763-a5e4888309b7.htm" />
   <HelpKINode Title="CRC16_MAXIM class">
-    <HelpKINode Title="CRC16_MAXIM Class" Url="html/549a2eaf-0f3e-9a2a-adf3-aeb2dd84f35a.htm" />
-    <HelpKINode Title="about CRC16_MAXIM class" Url="html/549a2eaf-0f3e-9a2a-adf3-aeb2dd84f35a.htm" />
-    <HelpKINode Title="constructor" Url="html/f15523dc-112c-019c-acf0-35f00f80f99a.htm" />
-    <HelpKINode Title="methods" Url="html/8c934112-8033-adc1-746e-6d6e54698253.htm" />
-    <HelpKINode Title="properties" Url="html/4ecd21ca-15cd-a7ca-fc1b-1223dce53d54.htm" />
+    <HelpKINode Title="CRC16_MAXIM Class" Url="html/1bb9073c-f4cf-f60b-f1b5-f8c1981bcae2.htm" />
+    <HelpKINode Title="about CRC16_MAXIM class" Url="html/1bb9073c-f4cf-f60b-f1b5-f8c1981bcae2.htm" />
+    <HelpKINode Title="constructor" Url="html/2085abf3-1f95-75fe-8ff4-9e313195bde2.htm" />
+    <HelpKINode Title="methods" Url="html/deb54a4d-e1f3-8b60-20b8-fcb9ee43aaa8.htm" />
+    <HelpKINode Title="properties" Url="html/1389760c-93ec-9dc6-a616-afcd54f64d14.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_MAXIM enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_MAXIM.CRC16_MAXIM constructor" Url="html/f15523dc-112c-019c-acf0-35f00f80f99a.htm" />
+  <HelpKINode Title="CRC16_MAXIM enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_MAXIM.CRC16_MAXIM constructor" Url="html/2085abf3-1f95-75fe-8ff4-9e313195bde2.htm" />
   <HelpKINode Title="CRC16_MCRF4XX class">
-    <HelpKINode Title="CRC16_MCRF4XX Class" Url="html/52c45569-0bf3-0a22-944d-b3cdd987dd0f.htm" />
-    <HelpKINode Title="about CRC16_MCRF4XX class" Url="html/52c45569-0bf3-0a22-944d-b3cdd987dd0f.htm" />
-    <HelpKINode Title="constructor" Url="html/b9a8f11a-20d3-1282-fa88-4d603b7c58c4.htm" />
-    <HelpKINode Title="methods" Url="html/40962f5a-7b3f-4a03-79d8-5b388b63e799.htm" />
-    <HelpKINode Title="properties" Url="html/0a883f96-cfc5-76bd-0549-36f5621aacb5.htm" />
+    <HelpKINode Title="CRC16_MCRF4XX Class" Url="html/0de267b0-b25a-eb36-8c79-e54e1c95aa18.htm" />
+    <HelpKINode Title="about CRC16_MCRF4XX class" Url="html/0de267b0-b25a-eb36-8c79-e54e1c95aa18.htm" />
+    <HelpKINode Title="constructor" Url="html/1934b94c-608f-e85b-d78a-6c774cae4bd1.htm" />
+    <HelpKINode Title="methods" Url="html/252348e4-919d-57ee-d4e8-ffd00fa709bc.htm" />
+    <HelpKINode Title="properties" Url="html/ec63004b-85bc-f142-13e0-230ed592fa54.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_MCRF4XX enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_MCRF4XX.CRC16_MCRF4XX constructor" Url="html/b9a8f11a-20d3-1282-fa88-4d603b7c58c4.htm" />
+  <HelpKINode Title="CRC16_MCRF4XX enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_MCRF4XX.CRC16_MCRF4XX constructor" Url="html/1934b94c-608f-e85b-d78a-6c774cae4bd1.htm" />
   <HelpKINode Title="CRC16_RIELLO class">
-    <HelpKINode Title="CRC16_RIELLO Class" Url="html/c805e26f-5561-50ac-1735-ebe1813f4df0.htm" />
-    <HelpKINode Title="about CRC16_RIELLO class" Url="html/c805e26f-5561-50ac-1735-ebe1813f4df0.htm" />
-    <HelpKINode Title="constructor" Url="html/7982292d-f802-9f5c-be68-5e88260ca3ec.htm" />
-    <HelpKINode Title="methods" Url="html/6f4c9bbe-da75-a498-b954-9c8a0a470b50.htm" />
-    <HelpKINode Title="properties" Url="html/32e23f8c-8b33-c212-64ab-af3cdd7c54c8.htm" />
+    <HelpKINode Title="CRC16_RIELLO Class" Url="html/496b8b2d-14f7-b761-c8fd-f0a4af9daf5d.htm" />
+    <HelpKINode Title="about CRC16_RIELLO class" Url="html/496b8b2d-14f7-b761-c8fd-f0a4af9daf5d.htm" />
+    <HelpKINode Title="constructor" Url="html/c386212f-6770-11b4-32c3-6c82410e4ead.htm" />
+    <HelpKINode Title="methods" Url="html/35ba153c-4c23-f7ab-a25b-9d809715d402.htm" />
+    <HelpKINode Title="properties" Url="html/b0909c30-34f7-b3a1-fd2e-42b5f45e2ef5.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_RIELLO enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_RIELLO.CRC16_RIELLO constructor" Url="html/7982292d-f802-9f5c-be68-5e88260ca3ec.htm" />
+  <HelpKINode Title="CRC16_RIELLO enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_RIELLO.CRC16_RIELLO constructor" Url="html/c386212f-6770-11b4-32c3-6c82410e4ead.htm" />
   <HelpKINode Title="CRC16_T10DIF class">
-    <HelpKINode Title="CRC16_T10DIF Class" Url="html/55d5f4d8-6d2e-11ca-4e5a-3e0e5932ae24.htm" />
-    <HelpKINode Title="about CRC16_T10DIF class" Url="html/55d5f4d8-6d2e-11ca-4e5a-3e0e5932ae24.htm" />
-    <HelpKINode Title="constructor" Url="html/cf045228-55a3-a2f9-6a64-c263c68ba33a.htm" />
-    <HelpKINode Title="methods" Url="html/3271b476-e166-6654-8e5e-af22db4b080d.htm" />
-    <HelpKINode Title="properties" Url="html/38070e9d-a400-9b9d-c2f2-7ab7b73012ce.htm" />
+    <HelpKINode Title="CRC16_T10DIF Class" Url="html/e4975c7c-7b59-f0de-8786-e70a559fb473.htm" />
+    <HelpKINode Title="about CRC16_T10DIF class" Url="html/e4975c7c-7b59-f0de-8786-e70a559fb473.htm" />
+    <HelpKINode Title="constructor" Url="html/43b72dca-d571-199d-39e6-148af9332fdc.htm" />
+    <HelpKINode Title="methods" Url="html/27546448-71ec-5466-00f7-4f0b8466f34d.htm" />
+    <HelpKINode Title="properties" Url="html/799b1850-b821-cc52-34a7-87a5f4f2552c.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_T10DIF enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_T10DIF.CRC16_T10DIF constructor" Url="html/cf045228-55a3-a2f9-6a64-c263c68ba33a.htm" />
+  <HelpKINode Title="CRC16_T10DIF enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_T10DIF.CRC16_T10DIF constructor" Url="html/43b72dca-d571-199d-39e6-148af9332fdc.htm" />
   <HelpKINode Title="CRC16_TELEDISK class">
-    <HelpKINode Title="CRC16_TELEDISK Class" Url="html/78dded64-ce7c-fb1f-6aa4-78b6253ab07b.htm" />
-    <HelpKINode Title="about CRC16_TELEDISK class" Url="html/78dded64-ce7c-fb1f-6aa4-78b6253ab07b.htm" />
-    <HelpKINode Title="constructor" Url="html/095dc7e6-8316-bc21-2a4f-58b634d9dc93.htm" />
-    <HelpKINode Title="methods" Url="html/20088680-9a61-be9d-ba47-f979ba6d28d1.htm" />
-    <HelpKINode Title="properties" Url="html/c89f770b-956f-b0c4-9652-9b74283aa6a2.htm" />
+    <HelpKINode Title="CRC16_TELEDISK Class" Url="html/91bce1af-f23e-c8ec-b0d3-54f108d39818.htm" />
+    <HelpKINode Title="about CRC16_TELEDISK class" Url="html/91bce1af-f23e-c8ec-b0d3-54f108d39818.htm" />
+    <HelpKINode Title="constructor" Url="html/030bcbe4-bf30-7abd-ff4b-7ab55a9171ea.htm" />
+    <HelpKINode Title="methods" Url="html/fd4535b0-e332-3475-7368-eb401dbc3d2b.htm" />
+    <HelpKINode Title="properties" Url="html/4839a3e8-b7d1-ac64-662f-9982d2254342.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_TELEDISK enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_TELEDISK.CRC16_TELEDISK constructor" Url="html/095dc7e6-8316-bc21-2a4f-58b634d9dc93.htm" />
+  <HelpKINode Title="CRC16_TELEDISK enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_TELEDISK.CRC16_TELEDISK constructor" Url="html/030bcbe4-bf30-7abd-ff4b-7ab55a9171ea.htm" />
   <HelpKINode Title="CRC16_TMS37157 class">
-    <HelpKINode Title="CRC16_TMS37157 Class" Url="html/809a85d4-a6fe-e656-59df-0afc9adc0fbd.htm" />
-    <HelpKINode Title="about CRC16_TMS37157 class" Url="html/809a85d4-a6fe-e656-59df-0afc9adc0fbd.htm" />
-    <HelpKINode Title="constructor" Url="html/9292a86a-9340-4392-5e30-fb220efe11ae.htm" />
-    <HelpKINode Title="methods" Url="html/3e9d58fa-9539-7e1a-f0d5-59a99adb51ce.htm" />
-    <HelpKINode Title="properties" Url="html/f79ed1ec-c3d3-c7b0-c837-ab562d3f2787.htm" />
+    <HelpKINode Title="CRC16_TMS37157 Class" Url="html/857bcc2d-5140-b7b7-259c-02ae47f95db5.htm" />
+    <HelpKINode Title="about CRC16_TMS37157 class" Url="html/857bcc2d-5140-b7b7-259c-02ae47f95db5.htm" />
+    <HelpKINode Title="constructor" Url="html/d7714a4c-5f23-ae5a-3113-e3fddc55343a.htm" />
+    <HelpKINode Title="methods" Url="html/a16e669f-3aae-b07f-0ebf-bcca1b4cf594.htm" />
+    <HelpKINode Title="properties" Url="html/73c70197-c582-aa7f-6b59-18d046fb2235.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_TMS37157 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_TMS37157.CRC16_TMS37157 constructor" Url="html/9292a86a-9340-4392-5e30-fb220efe11ae.htm" />
+  <HelpKINode Title="CRC16_TMS37157 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_TMS37157.CRC16_TMS37157 constructor" Url="html/d7714a4c-5f23-ae5a-3113-e3fddc55343a.htm" />
   <HelpKINode Title="CRC16_USB class">
-    <HelpKINode Title="CRC16_USB Class" Url="html/2ca7e25f-c2ea-2680-2510-6369530b01fc.htm" />
-    <HelpKINode Title="about CRC16_USB class" Url="html/2ca7e25f-c2ea-2680-2510-6369530b01fc.htm" />
-    <HelpKINode Title="constructor" Url="html/fc416978-ae3e-643c-2af7-bf1e580faf3d.htm" />
-    <HelpKINode Title="methods" Url="html/35043925-2915-08c7-0a5c-e521bca87748.htm" />
-    <HelpKINode Title="properties" Url="html/6d6fd820-e3cc-1a9b-1a78-9312dd287e4f.htm" />
+    <HelpKINode Title="CRC16_USB Class" Url="html/1f7f158d-0fa9-2342-b5fa-8a3e5bf342ed.htm" />
+    <HelpKINode Title="about CRC16_USB class" Url="html/1f7f158d-0fa9-2342-b5fa-8a3e5bf342ed.htm" />
+    <HelpKINode Title="constructor" Url="html/780f50aa-9622-3e88-1ee4-2872897fc6b7.htm" />
+    <HelpKINode Title="methods" Url="html/0fd25436-77b3-4e59-3573-9958e24d6925.htm" />
+    <HelpKINode Title="properties" Url="html/9d098ea3-4ca4-6759-2673-23a41cdeb599.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC16_USB enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC16_USB.CRC16_USB constructor" Url="html/fc416978-ae3e-643c-2af7-bf1e580faf3d.htm" />
+  <HelpKINode Title="CRC16_USB enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC16_USB.CRC16_USB constructor" Url="html/780f50aa-9622-3e88-1ee4-2872897fc6b7.htm" />
   <HelpKINode Title="CRC24 class">
-    <HelpKINode Title="CRC24 Class" Url="html/7c43f1e3-2f96-1f76-0ed6-0dac037a54cc.htm" />
-    <HelpKINode Title="about CRC24 class" Url="html/7c43f1e3-2f96-1f76-0ed6-0dac037a54cc.htm" />
-    <HelpKINode Title="constructor" Url="html/3682265e-07a9-e58c-6584-2893e57af8ad.htm" />
-    <HelpKINode Title="methods" Url="html/4753d1fe-28b0-39a6-da30-0f819f92ef98.htm" />
-    <HelpKINode Title="properties" Url="html/f876c57e-30bb-2611-9152-e82b9a4e7c56.htm" />
+    <HelpKINode Title="CRC24 Class" Url="html/16c8eecf-1837-5b5e-eecd-3d4715c6a6d0.htm" />
+    <HelpKINode Title="about CRC24 class" Url="html/16c8eecf-1837-5b5e-eecd-3d4715c6a6d0.htm" />
+    <HelpKINode Title="constructor" Url="html/b7fc4d84-626c-ea43-5c97-773be5c48dab.htm" />
+    <HelpKINode Title="methods" Url="html/0d9261b9-bccf-4af4-3fb8-19f9f95c44c3.htm" />
+    <HelpKINode Title="properties" Url="html/fe9429bc-7c26-0d79-e7f8-c733721e7056.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC24 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC24.CRC24 constructor" Url="html/3682265e-07a9-e58c-6584-2893e57af8ad.htm" />
+  <HelpKINode Title="CRC24 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC24.CRC24 constructor" Url="html/b7fc4d84-626c-ea43-5c97-773be5c48dab.htm" />
   <HelpKINode Title="CRC24_FLEXRAYA class">
-    <HelpKINode Title="CRC24_FLEXRAYA Class" Url="html/b1196e3c-872b-ab55-fc61-c57e4a703ae5.htm" />
-    <HelpKINode Title="about CRC24_FLEXRAYA class" Url="html/b1196e3c-872b-ab55-fc61-c57e4a703ae5.htm" />
-    <HelpKINode Title="constructor" Url="html/f3139bdc-6cc5-4220-d95f-6eea3f470a23.htm" />
-    <HelpKINode Title="methods" Url="html/19cb4c5b-ed78-48f0-3c84-59808febc771.htm" />
-    <HelpKINode Title="properties" Url="html/28a22bef-a9a5-e486-e5a5-eefe225118fb.htm" />
+    <HelpKINode Title="CRC24_FLEXRAYA Class" Url="html/a99e7898-fc96-39fa-8762-a60ba1d27864.htm" />
+    <HelpKINode Title="about CRC24_FLEXRAYA class" Url="html/a99e7898-fc96-39fa-8762-a60ba1d27864.htm" />
+    <HelpKINode Title="constructor" Url="html/133a948a-8a05-bf64-0fa0-1a5285d8fcfb.htm" />
+    <HelpKINode Title="methods" Url="html/fda1ceb0-dfe7-8d19-5d26-09f830d3ce28.htm" />
+    <HelpKINode Title="properties" Url="html/7d5d9b6b-5fd5-d8e9-a44d-c6ce3245889b.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC24_FLEXRAYA enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC24_FLEXRAYA.CRC24_FLEXRAYA constructor" Url="html/f3139bdc-6cc5-4220-d95f-6eea3f470a23.htm" />
+  <HelpKINode Title="CRC24_FLEXRAYA enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC24_FLEXRAYA.CRC24_FLEXRAYA constructor" Url="html/133a948a-8a05-bf64-0fa0-1a5285d8fcfb.htm" />
   <HelpKINode Title="CRC24_FLEXRAYB class">
-    <HelpKINode Title="CRC24_FLEXRAYB Class" Url="html/c0226b7a-1b6d-050f-dc33-8389e6ff1d0b.htm" />
-    <HelpKINode Title="about CRC24_FLEXRAYB class" Url="html/c0226b7a-1b6d-050f-dc33-8389e6ff1d0b.htm" />
-    <HelpKINode Title="constructor" Url="html/199820aa-99ca-a123-83c6-b7385cbfe76f.htm" />
-    <HelpKINode Title="methods" Url="html/b244a5d4-f88a-c1b4-3661-141ead903efc.htm" />
-    <HelpKINode Title="properties" Url="html/70e2e737-81e0-d814-3429-53dff6b7b8ff.htm" />
+    <HelpKINode Title="CRC24_FLEXRAYB Class" Url="html/b0abf508-208d-1ab8-d333-14cd6bcd3537.htm" />
+    <HelpKINode Title="about CRC24_FLEXRAYB class" Url="html/b0abf508-208d-1ab8-d333-14cd6bcd3537.htm" />
+    <HelpKINode Title="constructor" Url="html/cf33d4ee-92de-043d-bd52-fe95d7a60ea6.htm" />
+    <HelpKINode Title="methods" Url="html/44945ea1-5f08-e89a-8278-b8435fd771f0.htm" />
+    <HelpKINode Title="properties" Url="html/cdf39607-b7c7-9481-7f28-b7b59ed5ef9a.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC24_FLEXRAYB enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC24_FLEXRAYB.CRC24_FLEXRAYB constructor" Url="html/199820aa-99ca-a123-83c6-b7385cbfe76f.htm" />
+  <HelpKINode Title="CRC24_FLEXRAYB enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC24_FLEXRAYB.CRC24_FLEXRAYB constructor" Url="html/cf33d4ee-92de-043d-bd52-fe95d7a60ea6.htm" />
   <HelpKINode Title="CRC31_PHILIPS class">
-    <HelpKINode Title="CRC31_PHILIPS Class" Url="html/49da032f-88c3-4729-2a71-dccb21d159de.htm" />
-    <HelpKINode Title="about CRC31_PHILIPS class" Url="html/49da032f-88c3-4729-2a71-dccb21d159de.htm" />
-    <HelpKINode Title="constructor" Url="html/99aff640-70be-1d7e-e428-c1af0fbce9f8.htm" />
-    <HelpKINode Title="methods" Url="html/26236fae-6784-5c00-bb57-2cec420b3f46.htm" />
-    <HelpKINode Title="properties" Url="html/a7b14c7e-7a02-a229-b5f7-03d51c009c1f.htm" />
+    <HelpKINode Title="CRC31_PHILIPS Class" Url="html/6c8d8b5f-a2d7-90a0-837c-48b0bc0a4d92.htm" />
+    <HelpKINode Title="about CRC31_PHILIPS class" Url="html/6c8d8b5f-a2d7-90a0-837c-48b0bc0a4d92.htm" />
+    <HelpKINode Title="constructor" Url="html/f5f6995e-60c6-4661-d2e6-b828f343cfcd.htm" />
+    <HelpKINode Title="methods" Url="html/22118c43-e03c-7ef7-0996-8894e1ba472d.htm" />
+    <HelpKINode Title="properties" Url="html/ab037aa8-c965-3aac-50f9-0e477c6edbc8.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC31_PHILIPS enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC31_PHILIPS.CRC31_PHILIPS constructor" Url="html/99aff640-70be-1d7e-e428-c1af0fbce9f8.htm" />
+  <HelpKINode Title="CRC31_PHILIPS enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC31_PHILIPS.CRC31_PHILIPS constructor" Url="html/f5f6995e-60c6-4661-d2e6-b828f343cfcd.htm" />
   <HelpKINode Title="CRC32 class">
-    <HelpKINode Title="CRC32 Class" Url="html/0f1751ad-df65-2b2d-1999-fbbd44007a53.htm" />
-    <HelpKINode Title="about CRC32 class" Url="html/0f1751ad-df65-2b2d-1999-fbbd44007a53.htm" />
-    <HelpKINode Title="constructor" Url="html/6355b63a-3b16-94f5-c85e-76c63192a2be.htm" />
-    <HelpKINode Title="methods" Url="html/fd3904e0-ac57-614c-a820-4b7d7f69ef23.htm" />
-    <HelpKINode Title="properties" Url="html/f8a7f2a0-489c-afd1-959f-67b29a374d0d.htm" />
+    <HelpKINode Title="CRC32 Class" Url="html/d2607050-c2d8-080d-1aee-3190f97bb0ae.htm" />
+    <HelpKINode Title="about CRC32 class" Url="html/d2607050-c2d8-080d-1aee-3190f97bb0ae.htm" />
+    <HelpKINode Title="constructor" Url="html/13c21a4a-be47-1bce-df36-fc684062cf0f.htm" />
+    <HelpKINode Title="methods" Url="html/9589d091-fb79-7d2d-94c1-5fcb29987c83.htm" />
+    <HelpKINode Title="properties" Url="html/6839bc54-d0fa-1ed0-e89c-ee2e0bd98595.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32.CRC32 constructor" Url="html/6355b63a-3b16-94f5-c85e-76c63192a2be.htm" />
+  <HelpKINode Title="CRC32 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32.CRC32 constructor" Url="html/13c21a4a-be47-1bce-df36-fc684062cf0f.htm" />
   <HelpKINode Title="CRC32C class">
-    <HelpKINode Title="CRC32C Class" Url="html/9dce8fe8-7810-b010-010f-864ee4df45c2.htm" />
-    <HelpKINode Title="about CRC32C class" Url="html/9dce8fe8-7810-b010-010f-864ee4df45c2.htm" />
-    <HelpKINode Title="constructor" Url="html/39b2d25f-17e4-9a84-cb5b-7ff624257343.htm" />
-    <HelpKINode Title="methods" Url="html/38e09cd3-f533-8682-6320-4cee0e0f41be.htm" />
-    <HelpKINode Title="properties" Url="html/8d8372c3-5d8d-9651-c856-14dd93f07426.htm" />
+    <HelpKINode Title="CRC32C Class" Url="html/daec01d1-9f90-f19f-7293-5dbef4578e12.htm" />
+    <HelpKINode Title="about CRC32C class" Url="html/daec01d1-9f90-f19f-7293-5dbef4578e12.htm" />
+    <HelpKINode Title="constructor" Url="html/3b3f144c-f585-7c03-34f1-4bfd4fe9795b.htm" />
+    <HelpKINode Title="methods" Url="html/73f61079-34df-b629-b076-6b874e4eb2d9.htm" />
+    <HelpKINode Title="properties" Url="html/9c6cb2ad-7ed3-2445-b9c6-ec067d9159b4.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32C enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32C.CRC32C constructor" Url="html/39b2d25f-17e4-9a84-cb5b-7ff624257343.htm" />
+  <HelpKINode Title="CRC32C enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32C.CRC32C constructor" Url="html/3b3f144c-f585-7c03-34f1-4bfd4fe9795b.htm" />
   <HelpKINode Title="CRC32D class">
-    <HelpKINode Title="CRC32D Class" Url="html/dea94e06-5709-6f9f-664e-5135cf86bd10.htm" />
-    <HelpKINode Title="about CRC32D class" Url="html/dea94e06-5709-6f9f-664e-5135cf86bd10.htm" />
-    <HelpKINode Title="constructor" Url="html/1f69ac32-65df-4944-882c-68a6f8ea8733.htm" />
-    <HelpKINode Title="methods" Url="html/dfe4d4cf-34eb-b2cc-8819-93056373b1b6.htm" />
-    <HelpKINode Title="properties" Url="html/a18dc900-67f0-0abb-bd5a-cc79807c8bee.htm" />
+    <HelpKINode Title="CRC32D Class" Url="html/ab71a8b0-2c3a-a2f3-5c17-a9412304c1b3.htm" />
+    <HelpKINode Title="about CRC32D class" Url="html/ab71a8b0-2c3a-a2f3-5c17-a9412304c1b3.htm" />
+    <HelpKINode Title="constructor" Url="html/d3f649e4-692e-a18d-8065-512bbbad268b.htm" />
+    <HelpKINode Title="methods" Url="html/723fd4d4-959a-65d3-df7b-ccf1d0e51bc5.htm" />
+    <HelpKINode Title="properties" Url="html/3cf1d2fb-a611-9f64-af1c-4073b8d610ac.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32D enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32D.CRC32D constructor" Url="html/1f69ac32-65df-4944-882c-68a6f8ea8733.htm" />
+  <HelpKINode Title="CRC32D enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32D.CRC32D constructor" Url="html/d3f649e4-692e-a18d-8065-512bbbad268b.htm" />
   <HelpKINode Title="CRC32Q class">
-    <HelpKINode Title="CRC32Q Class" Url="html/60953d2a-7077-28c9-0ac5-a79b036d4f75.htm" />
-    <HelpKINode Title="about CRC32Q class" Url="html/60953d2a-7077-28c9-0ac5-a79b036d4f75.htm" />
-    <HelpKINode Title="constructor" Url="html/72e32d8d-f161-3a57-e2ba-bb3985bbcf33.htm" />
-    <HelpKINode Title="methods" Url="html/d54b3667-682f-67b2-7d5c-4ff90e490e01.htm" />
-    <HelpKINode Title="properties" Url="html/6c288ca3-cfc5-6369-14ee-2972655e7bce.htm" />
+    <HelpKINode Title="CRC32Q Class" Url="html/6840964a-bf35-094b-48e9-6421516239d6.htm" />
+    <HelpKINode Title="about CRC32Q class" Url="html/6840964a-bf35-094b-48e9-6421516239d6.htm" />
+    <HelpKINode Title="constructor" Url="html/7705ab54-904d-046d-cbac-484600ee0010.htm" />
+    <HelpKINode Title="methods" Url="html/e1d5ad4f-658e-db1c-1bc4-8656a4ea2be0.htm" />
+    <HelpKINode Title="properties" Url="html/cb02914c-5001-5d6e-eee0-1f55f5d5503a.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32Q enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32Q.CRC32Q constructor" Url="html/72e32d8d-f161-3a57-e2ba-bb3985bbcf33.htm" />
+  <HelpKINode Title="CRC32Q enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32Q.CRC32Q constructor" Url="html/7705ab54-904d-046d-cbac-484600ee0010.htm" />
   <HelpKINode Title="CRC32_BZIP2 class">
-    <HelpKINode Title="CRC32_BZIP2 Class" Url="html/b3f9e3e7-6fd6-b4ba-154f-ef681d3eeefc.htm" />
-    <HelpKINode Title="about CRC32_BZIP2 class" Url="html/b3f9e3e7-6fd6-b4ba-154f-ef681d3eeefc.htm" />
-    <HelpKINode Title="constructor" Url="html/f811b1ce-37ff-0ac7-93cd-c3e39126a652.htm" />
-    <HelpKINode Title="methods" Url="html/a32f7f63-ee04-5b17-bae8-54bbd5ae6396.htm" />
-    <HelpKINode Title="properties" Url="html/e63b3528-dc8c-5da6-dc13-9664eb668604.htm" />
+    <HelpKINode Title="CRC32_BZIP2 Class" Url="html/adadbea2-c6b9-42f7-8e60-da1e5b028b95.htm" />
+    <HelpKINode Title="about CRC32_BZIP2 class" Url="html/adadbea2-c6b9-42f7-8e60-da1e5b028b95.htm" />
+    <HelpKINode Title="constructor" Url="html/3eba3faa-2fc9-8607-16b8-0526ecee3ca2.htm" />
+    <HelpKINode Title="methods" Url="html/60c48cd3-00bb-2b8b-4a5b-bc74d90575e9.htm" />
+    <HelpKINode Title="properties" Url="html/7d54add2-e485-7ef2-d75b-33da0cb49161.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32_BZIP2 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32_BZIP2.CRC32_BZIP2 constructor" Url="html/f811b1ce-37ff-0ac7-93cd-c3e39126a652.htm" />
+  <HelpKINode Title="CRC32_BZIP2 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32_BZIP2.CRC32_BZIP2 constructor" Url="html/3eba3faa-2fc9-8607-16b8-0526ecee3ca2.htm" />
   <HelpKINode Title="CRC32_MPEG2 class">
-    <HelpKINode Title="CRC32_MPEG2 Class" Url="html/9af3f3e9-ee7f-0924-c9f8-720a659ec577.htm" />
-    <HelpKINode Title="about CRC32_MPEG2 class" Url="html/9af3f3e9-ee7f-0924-c9f8-720a659ec577.htm" />
-    <HelpKINode Title="constructor" Url="html/2c334598-cf2e-811b-5161-5ac6e0c70e77.htm" />
-    <HelpKINode Title="methods" Url="html/bb69833e-e192-473e-6778-8cc4f0afc1bf.htm" />
-    <HelpKINode Title="properties" Url="html/9d2a543e-c4a8-52f1-7e74-049892a19567.htm" />
+    <HelpKINode Title="CRC32_MPEG2 Class" Url="html/e5cbcb17-67ad-66c1-0b50-0f8c0d797090.htm" />
+    <HelpKINode Title="about CRC32_MPEG2 class" Url="html/e5cbcb17-67ad-66c1-0b50-0f8c0d797090.htm" />
+    <HelpKINode Title="constructor" Url="html/e37656d3-3af6-c433-d344-8deaec0be910.htm" />
+    <HelpKINode Title="methods" Url="html/dc93b3ed-3a57-fb68-66aa-ace08fd92989.htm" />
+    <HelpKINode Title="properties" Url="html/95ca282d-a484-f8a8-d530-3eba4f6bc87b.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32_MPEG2 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32_MPEG2.CRC32_MPEG2 constructor" Url="html/2c334598-cf2e-811b-5161-5ac6e0c70e77.htm" />
+  <HelpKINode Title="CRC32_MPEG2 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32_MPEG2.CRC32_MPEG2 constructor" Url="html/e37656d3-3af6-c433-d344-8deaec0be910.htm" />
   <HelpKINode Title="CRC32_POSIX class">
-    <HelpKINode Title="CRC32_POSIX Class" Url="html/d794482f-7975-d173-386a-e4233a42cec8.htm" />
-    <HelpKINode Title="about CRC32_POSIX class" Url="html/d794482f-7975-d173-386a-e4233a42cec8.htm" />
-    <HelpKINode Title="constructor" Url="html/75950c65-747f-0bb3-d5df-0851ed982edf.htm" />
-    <HelpKINode Title="methods" Url="html/285a1a40-da08-1c72-3ae8-bbbdb1470241.htm" />
-    <HelpKINode Title="properties" Url="html/bd97fbe6-6049-3fb7-7e9a-0a38ad81dcb8.htm" />
+    <HelpKINode Title="CRC32_POSIX Class" Url="html/4bf416b5-b928-28c3-6d05-d0f69f5b5b6d.htm" />
+    <HelpKINode Title="about CRC32_POSIX class" Url="html/4bf416b5-b928-28c3-6d05-d0f69f5b5b6d.htm" />
+    <HelpKINode Title="constructor" Url="html/97406e29-ab45-fdcd-cfba-05a26f7a4644.htm" />
+    <HelpKINode Title="methods" Url="html/28b93396-6fdb-0b47-a299-e03c993fe6fb.htm" />
+    <HelpKINode Title="properties" Url="html/e23270aa-bee9-066a-29ef-f5239ad1a922.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC32_POSIX enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC32_POSIX.CRC32_POSIX constructor" Url="html/75950c65-747f-0bb3-d5df-0851ed982edf.htm" />
+  <HelpKINode Title="CRC32_POSIX enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC32_POSIX.CRC32_POSIX constructor" Url="html/97406e29-ab45-fdcd-cfba-05a26f7a4644.htm" />
   <HelpKINode Title="CRC3_ROHC class">
-    <HelpKINode Title="CRC3_ROHC Class" Url="html/18d2b832-4b0c-cc74-8aa4-676c67e2dc17.htm" />
-    <HelpKINode Title="about CRC3_ROHC class" Url="html/18d2b832-4b0c-cc74-8aa4-676c67e2dc17.htm" />
-    <HelpKINode Title="constructor" Url="html/0e4a8736-e7dd-fc9a-caec-c5dade90839b.htm" />
-    <HelpKINode Title="methods" Url="html/60db34c7-91db-72da-d9eb-2e7d119dbb5a.htm" />
-    <HelpKINode Title="properties" Url="html/f24a5e51-9150-eeec-a558-bf7039d5d7e5.htm" />
+    <HelpKINode Title="CRC3_ROHC Class" Url="html/cf99103d-7643-31da-4c50-3df8baf41347.htm" />
+    <HelpKINode Title="about CRC3_ROHC class" Url="html/cf99103d-7643-31da-4c50-3df8baf41347.htm" />
+    <HelpKINode Title="constructor" Url="html/d370c238-039a-9063-93db-95bffc1d9dad.htm" />
+    <HelpKINode Title="methods" Url="html/839a6b65-a546-d93a-d589-123129db9854.htm" />
+    <HelpKINode Title="properties" Url="html/0df445b2-5de2-0b3d-d0c3-39f258d811b2.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC3_ROHC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC3_ROHC.CRC3_ROHC constructor" Url="html/0e4a8736-e7dd-fc9a-caec-c5dade90839b.htm" />
+  <HelpKINode Title="CRC3_ROHC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC3_ROHC.CRC3_ROHC constructor" Url="html/d370c238-039a-9063-93db-95bffc1d9dad.htm" />
   <HelpKINode Title="CRC40_GSM class">
-    <HelpKINode Title="CRC40_GSM Class" Url="html/bb00e297-da44-57d7-bd0a-2c6bb0dc9c7d.htm" />
-    <HelpKINode Title="about CRC40_GSM class" Url="html/bb00e297-da44-57d7-bd0a-2c6bb0dc9c7d.htm" />
-    <HelpKINode Title="constructor" Url="html/9ecc5dea-a94f-8ded-3795-0e85f5d3fc0a.htm" />
-    <HelpKINode Title="methods" Url="html/231499a3-1f4f-6792-60c5-0a43cca22321.htm" />
-    <HelpKINode Title="properties" Url="html/adb53095-0b10-820e-7f15-03f349dc551b.htm" />
+    <HelpKINode Title="CRC40_GSM Class" Url="html/ff3e1bc5-abbd-375c-7263-06bb0f6441b4.htm" />
+    <HelpKINode Title="about CRC40_GSM class" Url="html/ff3e1bc5-abbd-375c-7263-06bb0f6441b4.htm" />
+    <HelpKINode Title="constructor" Url="html/baf6596b-d306-c116-3586-056dddae0b76.htm" />
+    <HelpKINode Title="methods" Url="html/eb87dcc5-e468-d6f8-25b0-78559aa04aba.htm" />
+    <HelpKINode Title="properties" Url="html/b6ec93c7-71a1-576c-5715-9a01e40ad00b.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC40_GSM enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC40_GSM.CRC40_GSM constructor" Url="html/9ecc5dea-a94f-8ded-3795-0e85f5d3fc0a.htm" />
+  <HelpKINode Title="CRC40_GSM enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC40_GSM.CRC40_GSM constructor" Url="html/baf6596b-d306-c116-3586-056dddae0b76.htm" />
   <HelpKINode Title="CRC4_ITU class">
-    <HelpKINode Title="CRC4_ITU Class" Url="html/9290cfc5-0f38-b52e-4366-5b2bf8acfac0.htm" />
-    <HelpKINode Title="about CRC4_ITU class" Url="html/9290cfc5-0f38-b52e-4366-5b2bf8acfac0.htm" />
-    <HelpKINode Title="constructor" Url="html/dad572b5-bcde-fee0-fc6e-1b1e9c463a14.htm" />
-    <HelpKINode Title="methods" Url="html/360ed46b-96bd-4906-8037-1f4dc3f92abd.htm" />
-    <HelpKINode Title="properties" Url="html/c4ff5f0f-b9a6-dd7f-951d-82302b8b72c2.htm" />
+    <HelpKINode Title="CRC4_ITU Class" Url="html/f3d721e6-69a2-43db-b6cb-c36fe16e4de9.htm" />
+    <HelpKINode Title="about CRC4_ITU class" Url="html/f3d721e6-69a2-43db-b6cb-c36fe16e4de9.htm" />
+    <HelpKINode Title="constructor" Url="html/a400e066-4308-bd79-f463-aecc60554c4a.htm" />
+    <HelpKINode Title="methods" Url="html/8a32b9ec-6512-c489-1fbb-4378e9cd7a4d.htm" />
+    <HelpKINode Title="properties" Url="html/9d7a8f9d-cf66-606a-3bd6-0a01540e0a5e.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC4_ITU enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC4_ITU.CRC4_ITU constructor" Url="html/dad572b5-bcde-fee0-fc6e-1b1e9c463a14.htm" />
+  <HelpKINode Title="CRC4_ITU enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC4_ITU.CRC4_ITU constructor" Url="html/a400e066-4308-bd79-f463-aecc60554c4a.htm" />
   <HelpKINode Title="CRC5_EPC class">
-    <HelpKINode Title="CRC5_EPC Class" Url="html/8a02d05d-8cd9-7b6a-d7ed-b26831512b6b.htm" />
-    <HelpKINode Title="about CRC5_EPC class" Url="html/8a02d05d-8cd9-7b6a-d7ed-b26831512b6b.htm" />
-    <HelpKINode Title="constructor" Url="html/2553056f-fddd-24af-11e0-7ef58f974e4c.htm" />
-    <HelpKINode Title="methods" Url="html/1f27a019-5202-663c-5496-9abaa2aaa782.htm" />
-    <HelpKINode Title="properties" Url="html/d489bb1c-3058-f1fe-2950-c987f7c09abd.htm" />
+    <HelpKINode Title="CRC5_EPC Class" Url="html/f81b0163-cd5b-f02c-5a0e-ae6d378e4c35.htm" />
+    <HelpKINode Title="about CRC5_EPC class" Url="html/f81b0163-cd5b-f02c-5a0e-ae6d378e4c35.htm" />
+    <HelpKINode Title="constructor" Url="html/b5dd7454-573a-38e1-2b65-57c36e4ab228.htm" />
+    <HelpKINode Title="methods" Url="html/3fea20fe-bf26-5098-6059-a5e850358bc2.htm" />
+    <HelpKINode Title="properties" Url="html/059ada6e-e7c7-3dee-b62c-399acd95ac59.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC5_EPC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC5_EPC.CRC5_EPC constructor" Url="html/2553056f-fddd-24af-11e0-7ef58f974e4c.htm" />
+  <HelpKINode Title="CRC5_EPC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC5_EPC.CRC5_EPC constructor" Url="html/b5dd7454-573a-38e1-2b65-57c36e4ab228.htm" />
   <HelpKINode Title="CRC5_ITU class">
-    <HelpKINode Title="CRC5_ITU Class" Url="html/8b665a73-1362-76ac-9d7a-f5fa90cf0ab0.htm" />
-    <HelpKINode Title="about CRC5_ITU class" Url="html/8b665a73-1362-76ac-9d7a-f5fa90cf0ab0.htm" />
-    <HelpKINode Title="constructor" Url="html/24ef20cb-1a48-7be8-6693-2ef4103761e0.htm" />
-    <HelpKINode Title="methods" Url="html/916f2a77-a10e-8ff5-506d-198dfbe945ee.htm" />
-    <HelpKINode Title="properties" Url="html/20f48a73-97e9-1c7e-480c-5e47ba1a15a2.htm" />
+    <HelpKINode Title="CRC5_ITU Class" Url="html/b068d12b-c347-e4a8-7ca0-68ab9f23174a.htm" />
+    <HelpKINode Title="about CRC5_ITU class" Url="html/b068d12b-c347-e4a8-7ca0-68ab9f23174a.htm" />
+    <HelpKINode Title="constructor" Url="html/879b2d90-131b-2af0-99ef-3cbe322ef30e.htm" />
+    <HelpKINode Title="methods" Url="html/c27b7f88-1282-e509-02ed-a955861cd3d9.htm" />
+    <HelpKINode Title="properties" Url="html/db0939f2-8527-187b-c9e6-5e1c5b18b7a1.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC5_ITU enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC5_ITU.CRC5_ITU constructor" Url="html/24ef20cb-1a48-7be8-6693-2ef4103761e0.htm" />
+  <HelpKINode Title="CRC5_ITU enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC5_ITU.CRC5_ITU constructor" Url="html/879b2d90-131b-2af0-99ef-3cbe322ef30e.htm" />
   <HelpKINode Title="CRC5_USB class">
-    <HelpKINode Title="CRC5_USB Class" Url="html/dcb85c13-95b8-5694-fd95-cb0dcf5bdcb4.htm" />
-    <HelpKINode Title="about CRC5_USB class" Url="html/dcb85c13-95b8-5694-fd95-cb0dcf5bdcb4.htm" />
-    <HelpKINode Title="constructor" Url="html/05affd13-5ba2-6680-6c20-cfc35051bfcf.htm" />
-    <HelpKINode Title="methods" Url="html/bf299df6-5283-9641-5130-266d56e16721.htm" />
-    <HelpKINode Title="properties" Url="html/1dd388d3-1217-bbfe-abe7-29b23344f987.htm" />
+    <HelpKINode Title="CRC5_USB Class" Url="html/de9095b8-d26d-3caf-9ea5-68531da85cc6.htm" />
+    <HelpKINode Title="about CRC5_USB class" Url="html/de9095b8-d26d-3caf-9ea5-68531da85cc6.htm" />
+    <HelpKINode Title="constructor" Url="html/52bd9ef9-9906-2c71-fc5c-800f48c68dd3.htm" />
+    <HelpKINode Title="methods" Url="html/631beed2-1f5f-0436-a38e-8850b0ad3971.htm" />
+    <HelpKINode Title="properties" Url="html/d4c16556-a64b-7b90-7bf8-ab702e792dca.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC5_USB enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC5_USB.CRC5_USB constructor" Url="html/05affd13-5ba2-6680-6c20-cfc35051bfcf.htm" />
+  <HelpKINode Title="CRC5_USB enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC5_USB.CRC5_USB constructor" Url="html/52bd9ef9-9906-2c71-fc5c-800f48c68dd3.htm" />
   <HelpKINode Title="CRC64 class">
-    <HelpKINode Title="CRC64 Class" Url="html/21a41e36-0d65-df8a-dbdb-6caead46b74a.htm" />
-    <HelpKINode Title="about CRC64 class" Url="html/21a41e36-0d65-df8a-dbdb-6caead46b74a.htm" />
-    <HelpKINode Title="constructor" Url="html/85c2a598-ef23-8c3f-9dd5-c7d5d5f9d048.htm" />
-    <HelpKINode Title="methods" Url="html/cd671c9a-ab96-d80d-1ebc-8dede3697bf6.htm" />
-    <HelpKINode Title="properties" Url="html/6c5cca32-5bf6-d190-b46e-f7326e57ccf4.htm" />
+    <HelpKINode Title="CRC64 Class" Url="html/b6d6ab4f-1cbd-a7a1-84c5-91ed74d81854.htm" />
+    <HelpKINode Title="about CRC64 class" Url="html/b6d6ab4f-1cbd-a7a1-84c5-91ed74d81854.htm" />
+    <HelpKINode Title="constructor" Url="html/eedce611-b6e1-8ad5-c23c-ac833b9c285c.htm" />
+    <HelpKINode Title="methods" Url="html/417b8c60-563a-fb2b-0fe2-2a2b1086005d.htm" />
+    <HelpKINode Title="properties" Url="html/b42a8069-2d98-7fc1-73b5-d01919fdbcca.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC64 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC64.CRC64 constructor" Url="html/85c2a598-ef23-8c3f-9dd5-c7d5d5f9d048.htm" />
+  <HelpKINode Title="CRC64 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC64.CRC64 constructor" Url="html/eedce611-b6e1-8ad5-c23c-ac833b9c285c.htm" />
   <HelpKINode Title="CRC64_WE class">
-    <HelpKINode Title="CRC64_WE Class" Url="html/f95b9a1b-71e1-578f-3323-d746ebbf5151.htm" />
-    <HelpKINode Title="about CRC64_WE class" Url="html/f95b9a1b-71e1-578f-3323-d746ebbf5151.htm" />
-    <HelpKINode Title="constructor" Url="html/5b0297db-72c1-2ce3-6a13-917e13669bb8.htm" />
-    <HelpKINode Title="methods" Url="html/8a33d2de-2e63-d618-9435-62fe6019f24d.htm" />
-    <HelpKINode Title="properties" Url="html/c307cb48-46d0-f1cf-69cf-8b2988ea8d23.htm" />
+    <HelpKINode Title="CRC64_WE Class" Url="html/7ec54060-ae5b-f8af-6af4-d6a9e2485a02.htm" />
+    <HelpKINode Title="about CRC64_WE class" Url="html/7ec54060-ae5b-f8af-6af4-d6a9e2485a02.htm" />
+    <HelpKINode Title="constructor" Url="html/f8809060-dda1-1df9-f742-d76365a16cc4.htm" />
+    <HelpKINode Title="methods" Url="html/6d6bbbc9-0449-2b74-1385-77d8195e2933.htm" />
+    <HelpKINode Title="properties" Url="html/752b7541-2604-b9ea-41d2-48551236b56d.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC64_WE enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC64_WE.CRC64_WE constructor" Url="html/5b0297db-72c1-2ce3-6a13-917e13669bb8.htm" />
+  <HelpKINode Title="CRC64_WE enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC64_WE.CRC64_WE constructor" Url="html/f8809060-dda1-1df9-f742-d76365a16cc4.htm" />
   <HelpKINode Title="CRC64_XZ class">
-    <HelpKINode Title="CRC64_XZ Class" Url="html/e7f0a3ec-c991-fc40-1f48-cecd3410ca3d.htm" />
-    <HelpKINode Title="about CRC64_XZ class" Url="html/e7f0a3ec-c991-fc40-1f48-cecd3410ca3d.htm" />
-    <HelpKINode Title="constructor" Url="html/999fb01c-2dbc-e3cf-ae5a-df8b89b5a72b.htm" />
-    <HelpKINode Title="methods" Url="html/aa882954-abcf-1672-c1e8-9a953bf781e2.htm" />
-    <HelpKINode Title="properties" Url="html/4a44062c-809e-1251-799d-871b48075988.htm" />
+    <HelpKINode Title="CRC64_XZ Class" Url="html/76a0b6f2-9da5-ffee-8f94-9b072c9d465b.htm" />
+    <HelpKINode Title="about CRC64_XZ class" Url="html/76a0b6f2-9da5-ffee-8f94-9b072c9d465b.htm" />
+    <HelpKINode Title="constructor" Url="html/728bceba-a120-2deb-6d24-e1260d4c0b5b.htm" />
+    <HelpKINode Title="methods" Url="html/f671d8da-0358-cca2-ae9e-e78fb0772df8.htm" />
+    <HelpKINode Title="properties" Url="html/83fae144-9b8f-8284-5dc9-82ec668af023.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC64_XZ enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC64_XZ.CRC64_XZ constructor" Url="html/999fb01c-2dbc-e3cf-ae5a-df8b89b5a72b.htm" />
+  <HelpKINode Title="CRC64_XZ enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC64_XZ.CRC64_XZ constructor" Url="html/728bceba-a120-2deb-6d24-e1260d4c0b5b.htm" />
   <HelpKINode Title="CRC6_CDMA2000A class">
-    <HelpKINode Title="CRC6_CDMA2000A Class" Url="html/01c53ee5-528f-fe26-7531-2098819c29c0.htm" />
-    <HelpKINode Title="about CRC6_CDMA2000A class" Url="html/01c53ee5-528f-fe26-7531-2098819c29c0.htm" />
-    <HelpKINode Title="constructor" Url="html/d230c2c4-45ed-3b17-14fe-d3b13a56ef94.htm" />
-    <HelpKINode Title="methods" Url="html/0d36c7de-833c-3fc8-bf25-d9c6211420f4.htm" />
-    <HelpKINode Title="properties" Url="html/2ebdbebc-b31f-70ae-727f-3a4c464e052f.htm" />
+    <HelpKINode Title="CRC6_CDMA2000A Class" Url="html/b9b42aed-3724-505b-236c-0e3ceded60e5.htm" />
+    <HelpKINode Title="about CRC6_CDMA2000A class" Url="html/b9b42aed-3724-505b-236c-0e3ceded60e5.htm" />
+    <HelpKINode Title="constructor" Url="html/5abf5d4f-0cc7-34c8-4495-8afa08779d0a.htm" />
+    <HelpKINode Title="methods" Url="html/864482f1-62ea-8f37-a00c-71597bbad2cd.htm" />
+    <HelpKINode Title="properties" Url="html/800d535b-31da-dafe-a715-f21ae6ebee79.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC6_CDMA2000A enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC6_CDMA2000A.CRC6_CDMA2000A constructor" Url="html/d230c2c4-45ed-3b17-14fe-d3b13a56ef94.htm" />
+  <HelpKINode Title="CRC6_CDMA2000A enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC6_CDMA2000A.CRC6_CDMA2000A constructor" Url="html/5abf5d4f-0cc7-34c8-4495-8afa08779d0a.htm" />
   <HelpKINode Title="CRC6_CDMA2000B class">
-    <HelpKINode Title="CRC6_CDMA2000B Class" Url="html/5f5e884f-4eac-8259-4e2f-b620c8b9c91f.htm" />
-    <HelpKINode Title="about CRC6_CDMA2000B class" Url="html/5f5e884f-4eac-8259-4e2f-b620c8b9c91f.htm" />
-    <HelpKINode Title="constructor" Url="html/0164dd60-609f-8fb7-c201-ae36aab845ac.htm" />
-    <HelpKINode Title="methods" Url="html/8f8fe0e6-e4d0-b92b-261b-f08e619bafb5.htm" />
-    <HelpKINode Title="properties" Url="html/f947068d-0a83-757b-ab32-de0f6601d02c.htm" />
+    <HelpKINode Title="CRC6_CDMA2000B Class" Url="html/ad6ce451-8117-e5b7-1094-683f3f8d0bba.htm" />
+    <HelpKINode Title="about CRC6_CDMA2000B class" Url="html/ad6ce451-8117-e5b7-1094-683f3f8d0bba.htm" />
+    <HelpKINode Title="constructor" Url="html/1dbd3f62-00c4-cadf-d6a9-ef42b94c6e20.htm" />
+    <HelpKINode Title="methods" Url="html/ce975015-842e-0bc6-41b3-4cbc758bdde5.htm" />
+    <HelpKINode Title="properties" Url="html/473ec96d-08ad-9f46-858a-4cbb181e561b.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC6_CDMA2000B enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC6_CDMA2000B.CRC6_CDMA2000B constructor" Url="html/0164dd60-609f-8fb7-c201-ae36aab845ac.htm" />
+  <HelpKINode Title="CRC6_CDMA2000B enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC6_CDMA2000B.CRC6_CDMA2000B constructor" Url="html/1dbd3f62-00c4-cadf-d6a9-ef42b94c6e20.htm" />
   <HelpKINode Title="CRC6_DARC class">
-    <HelpKINode Title="CRC6_DARC Class" Url="html/fda9e058-16ad-ac77-e175-5fa18e334171.htm" />
-    <HelpKINode Title="about CRC6_DARC class" Url="html/fda9e058-16ad-ac77-e175-5fa18e334171.htm" />
-    <HelpKINode Title="constructor" Url="html/de3c454d-7ebb-3575-ac8b-7c26a7b7dac4.htm" />
-    <HelpKINode Title="methods" Url="html/3699840c-3777-6a2e-96fd-9e616a228111.htm" />
-    <HelpKINode Title="properties" Url="html/d01eda55-27a8-5b10-e114-96405875d8ae.htm" />
+    <HelpKINode Title="CRC6_DARC Class" Url="html/99a0c0ba-3483-ff9b-bf9a-20b131b94b8f.htm" />
+    <HelpKINode Title="about CRC6_DARC class" Url="html/99a0c0ba-3483-ff9b-bf9a-20b131b94b8f.htm" />
+    <HelpKINode Title="constructor" Url="html/93565ea2-4634-f749-a8b8-024ccd4343ae.htm" />
+    <HelpKINode Title="methods" Url="html/03ddd199-183d-6932-4d51-d2badcb524b8.htm" />
+    <HelpKINode Title="properties" Url="html/4c086346-6d11-d96d-3938-710bf79f9015.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC6_DARC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC6_DARC.CRC6_DARC constructor" Url="html/de3c454d-7ebb-3575-ac8b-7c26a7b7dac4.htm" />
+  <HelpKINode Title="CRC6_DARC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC6_DARC.CRC6_DARC constructor" Url="html/93565ea2-4634-f749-a8b8-024ccd4343ae.htm" />
   <HelpKINode Title="CRC6_ITU class">
-    <HelpKINode Title="CRC6_ITU Class" Url="html/65e79e8c-3973-ddc5-7b2d-d0710c2de90e.htm" />
-    <HelpKINode Title="about CRC6_ITU class" Url="html/65e79e8c-3973-ddc5-7b2d-d0710c2de90e.htm" />
-    <HelpKINode Title="constructor" Url="html/8b96074f-5091-727a-2fea-efae84e56d8b.htm" />
-    <HelpKINode Title="methods" Url="html/6b54f1f2-1c11-ba91-55c5-4a20cb457b70.htm" />
-    <HelpKINode Title="properties" Url="html/14a64916-314b-f0c2-3089-4ffc5b0b6ebb.htm" />
+    <HelpKINode Title="CRC6_ITU Class" Url="html/aea2d159-16ec-2069-fc65-5c1c7728a8f7.htm" />
+    <HelpKINode Title="about CRC6_ITU class" Url="html/aea2d159-16ec-2069-fc65-5c1c7728a8f7.htm" />
+    <HelpKINode Title="constructor" Url="html/c9c5ab73-9e0b-9e94-3034-04ef7823eedd.htm" />
+    <HelpKINode Title="methods" Url="html/2b27dc9b-1459-9e79-31d2-09a0262aeb54.htm" />
+    <HelpKINode Title="properties" Url="html/0ce9594a-33f8-101a-5c75-a7f919b0d2e4.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC6_ITU enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC6_ITU.CRC6_ITU constructor" Url="html/8b96074f-5091-727a-2fea-efae84e56d8b.htm" />
+  <HelpKINode Title="CRC6_ITU enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC6_ITU.CRC6_ITU constructor" Url="html/c9c5ab73-9e0b-9e94-3034-04ef7823eedd.htm" />
   <HelpKINode Title="CRC7 class">
-    <HelpKINode Title="CRC7 Class" Url="html/0c9ebcfe-9a73-8527-f8f1-7d285b7ef0bd.htm" />
-    <HelpKINode Title="about CRC7 class" Url="html/0c9ebcfe-9a73-8527-f8f1-7d285b7ef0bd.htm" />
-    <HelpKINode Title="constructor" Url="html/d60c4b0c-35d7-fb69-b974-ada0ec411c3b.htm" />
-    <HelpKINode Title="methods" Url="html/ebf11bdb-b399-4dba-ff3d-8814d6787b41.htm" />
-    <HelpKINode Title="properties" Url="html/dd935efb-add1-1a76-effd-3ffd15cab9dd.htm" />
+    <HelpKINode Title="CRC7 Class" Url="html/cc79a9f2-7bab-4dfc-81a3-28277f74db84.htm" />
+    <HelpKINode Title="about CRC7 class" Url="html/cc79a9f2-7bab-4dfc-81a3-28277f74db84.htm" />
+    <HelpKINode Title="constructor" Url="html/0e5ef58b-5e4a-840a-b284-1536ef256d87.htm" />
+    <HelpKINode Title="methods" Url="html/0b3501d8-ab17-4c8f-137f-b5119dc84848.htm" />
+    <HelpKINode Title="properties" Url="html/6718238f-1072-891e-55d5-c44a2dbc39b4.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC7 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC7.CRC7 constructor" Url="html/d60c4b0c-35d7-fb69-b974-ada0ec411c3b.htm" />
+  <HelpKINode Title="CRC7 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC7.CRC7 constructor" Url="html/0e5ef58b-5e4a-840a-b284-1536ef256d87.htm" />
   <HelpKINode Title="CRC7_ROHC class">
-    <HelpKINode Title="CRC7_ROHC Class" Url="html/dc61ab42-7d03-a052-4d77-1c654710b1a7.htm" />
-    <HelpKINode Title="about CRC7_ROHC class" Url="html/dc61ab42-7d03-a052-4d77-1c654710b1a7.htm" />
-    <HelpKINode Title="constructor" Url="html/39f68c8a-598b-a5e8-5aeb-afde7f77315a.htm" />
-    <HelpKINode Title="methods" Url="html/46e9a8d7-417c-d6ae-d338-a417f118dbdb.htm" />
-    <HelpKINode Title="properties" Url="html/c7c6e2f2-7f97-80ee-0263-cad44b7493ec.htm" />
+    <HelpKINode Title="CRC7_ROHC Class" Url="html/c300d68b-b6d5-0878-a2e7-415f255f4c96.htm" />
+    <HelpKINode Title="about CRC7_ROHC class" Url="html/c300d68b-b6d5-0878-a2e7-415f255f4c96.htm" />
+    <HelpKINode Title="constructor" Url="html/3c489514-f7f4-0ca8-28e4-811fad4aeff4.htm" />
+    <HelpKINode Title="methods" Url="html/d01baef2-f776-48ff-b0dd-6487128d0aca.htm" />
+    <HelpKINode Title="properties" Url="html/1d22239f-dbdc-fb77-6be4-113b9b11c8b4.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC7_ROHC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC7_ROHC.CRC7_ROHC constructor" Url="html/39f68c8a-598b-a5e8-5aeb-afde7f77315a.htm" />
+  <HelpKINode Title="CRC7_ROHC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC7_ROHC.CRC7_ROHC constructor" Url="html/3c489514-f7f4-0ca8-28e4-811fad4aeff4.htm" />
   <HelpKINode Title="CRC8 class">
-    <HelpKINode Title="CRC8 Class" Url="html/cd9b01a1-fb27-61bd-f2cb-b1109b1f9946.htm" />
-    <HelpKINode Title="about CRC8 class" Url="html/cd9b01a1-fb27-61bd-f2cb-b1109b1f9946.htm" />
-    <HelpKINode Title="constructor" Url="html/135d5581-66d5-9fc3-9cce-52768a1aeef7.htm" />
-    <HelpKINode Title="methods" Url="html/c696b54d-be4a-e577-1abe-1f02c3bd2261.htm" />
-    <HelpKINode Title="properties" Url="html/538ec84d-c73e-2596-bb3f-73debfa65de5.htm" />
+    <HelpKINode Title="CRC8 Class" Url="html/4618acda-0c0a-5f1f-f88b-fc81973bb4fd.htm" />
+    <HelpKINode Title="about CRC8 class" Url="html/4618acda-0c0a-5f1f-f88b-fc81973bb4fd.htm" />
+    <HelpKINode Title="constructor" Url="html/0dc93185-e154-0a66-c10c-b15a1155e3a7.htm" />
+    <HelpKINode Title="methods" Url="html/0ee2136d-ee0e-565c-ecad-c739e35ffa12.htm" />
+    <HelpKINode Title="properties" Url="html/59e58881-fad1-daaa-6464-3e6abd248000.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8.CRC8 constructor" Url="html/135d5581-66d5-9fc3-9cce-52768a1aeef7.htm" />
+  <HelpKINode Title="CRC8 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8.CRC8 constructor" Url="html/0dc93185-e154-0a66-c10c-b15a1155e3a7.htm" />
   <HelpKINode Title="CRC8_CDMA2000 class">
-    <HelpKINode Title="CRC8_CDMA2000 Class" Url="html/88648d58-6c1b-b866-24f8-4cc80593c75d.htm" />
-    <HelpKINode Title="about CRC8_CDMA2000 class" Url="html/88648d58-6c1b-b866-24f8-4cc80593c75d.htm" />
-    <HelpKINode Title="constructor" Url="html/e0d63a7e-e9e5-9904-e37a-f686df1db21a.htm" />
-    <HelpKINode Title="methods" Url="html/bf6993bc-69f3-f1a0-5bc0-876fe5824f62.htm" />
-    <HelpKINode Title="properties" Url="html/488a98ae-c5a4-befd-e6e7-a27336c78c8b.htm" />
+    <HelpKINode Title="CRC8_CDMA2000 Class" Url="html/be4c6362-fca6-8043-dc0d-10e9fb08212d.htm" />
+    <HelpKINode Title="about CRC8_CDMA2000 class" Url="html/be4c6362-fca6-8043-dc0d-10e9fb08212d.htm" />
+    <HelpKINode Title="constructor" Url="html/2f6af520-3d8a-1fc1-641b-2fb74a0e8de5.htm" />
+    <HelpKINode Title="methods" Url="html/37895249-f420-d2cc-490d-a5259f9fe776.htm" />
+    <HelpKINode Title="properties" Url="html/49b39d2b-c9c3-0e62-9c12-64ba5ad31f61.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_CDMA2000 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_CDMA2000.CRC8_CDMA2000 constructor" Url="html/e0d63a7e-e9e5-9904-e37a-f686df1db21a.htm" />
+  <HelpKINode Title="CRC8_CDMA2000 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_CDMA2000.CRC8_CDMA2000 constructor" Url="html/2f6af520-3d8a-1fc1-641b-2fb74a0e8de5.htm" />
   <HelpKINode Title="CRC8_DARC class">
-    <HelpKINode Title="CRC8_DARC Class" Url="html/73eef7ad-d302-5dc4-2aed-7261b3b2773a.htm" />
-    <HelpKINode Title="about CRC8_DARC class" Url="html/73eef7ad-d302-5dc4-2aed-7261b3b2773a.htm" />
-    <HelpKINode Title="constructor" Url="html/bd62be64-0c8c-b89e-1040-7d364b3ad444.htm" />
-    <HelpKINode Title="methods" Url="html/cf69141d-384a-4c06-3fe6-3e86d66ba81c.htm" />
-    <HelpKINode Title="properties" Url="html/e198503f-26f2-a96c-35b1-715a853810bc.htm" />
+    <HelpKINode Title="CRC8_DARC Class" Url="html/77d84851-78ec-c9b8-85ec-6eee7525a7ca.htm" />
+    <HelpKINode Title="about CRC8_DARC class" Url="html/77d84851-78ec-c9b8-85ec-6eee7525a7ca.htm" />
+    <HelpKINode Title="constructor" Url="html/a5b935a5-c582-fcd5-c65c-1d64e1ed2a2e.htm" />
+    <HelpKINode Title="methods" Url="html/b48fd498-6a2e-fb3d-ff75-f36757fc8b3e.htm" />
+    <HelpKINode Title="properties" Url="html/7091c596-0e35-cb16-32d9-c7542c4b1334.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_DARC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_DARC.CRC8_DARC constructor" Url="html/bd62be64-0c8c-b89e-1040-7d364b3ad444.htm" />
+  <HelpKINode Title="CRC8_DARC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_DARC.CRC8_DARC constructor" Url="html/a5b935a5-c582-fcd5-c65c-1d64e1ed2a2e.htm" />
   <HelpKINode Title="CRC8_DVBS2 class">
-    <HelpKINode Title="CRC8_DVBS2 Class" Url="html/f8c95308-7bc1-3509-347b-0df364fbd05c.htm" />
-    <HelpKINode Title="about CRC8_DVBS2 class" Url="html/f8c95308-7bc1-3509-347b-0df364fbd05c.htm" />
-    <HelpKINode Title="constructor" Url="html/02b57344-3e99-1ca5-c918-0f8af5df6c46.htm" />
-    <HelpKINode Title="methods" Url="html/66450e88-e2bd-bb6a-fa90-860f19a988be.htm" />
-    <HelpKINode Title="properties" Url="html/205979da-c119-be38-c0af-41d083b72359.htm" />
+    <HelpKINode Title="CRC8_DVBS2 Class" Url="html/77bcecac-d26f-7b8c-66c1-879e9ad0fe07.htm" />
+    <HelpKINode Title="about CRC8_DVBS2 class" Url="html/77bcecac-d26f-7b8c-66c1-879e9ad0fe07.htm" />
+    <HelpKINode Title="constructor" Url="html/ca1a386e-2ee1-ae35-7cc6-b29572b2d2d0.htm" />
+    <HelpKINode Title="methods" Url="html/78b69241-26ac-da7d-0344-5a7f666befe2.htm" />
+    <HelpKINode Title="properties" Url="html/e89ed751-2bc9-326d-d0e8-bf08f1131953.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_DVBS2 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_DVBS2.CRC8_DVBS2 constructor" Url="html/02b57344-3e99-1ca5-c918-0f8af5df6c46.htm" />
+  <HelpKINode Title="CRC8_DVBS2 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_DVBS2.CRC8_DVBS2 constructor" Url="html/ca1a386e-2ee1-ae35-7cc6-b29572b2d2d0.htm" />
   <HelpKINode Title="CRC8_EBU class">
-    <HelpKINode Title="CRC8_EBU Class" Url="html/e6ac437c-9f11-f499-a2af-a3a9b7e17a2c.htm" />
-    <HelpKINode Title="about CRC8_EBU class" Url="html/e6ac437c-9f11-f499-a2af-a3a9b7e17a2c.htm" />
-    <HelpKINode Title="constructor" Url="html/4c88ca7c-69dd-3f02-000e-45c8ded6e908.htm" />
-    <HelpKINode Title="methods" Url="html/d3220bc1-8be5-154a-c559-72d507757218.htm" />
-    <HelpKINode Title="properties" Url="html/178ad0da-8084-f4e4-9923-1fe427bd5191.htm" />
+    <HelpKINode Title="CRC8_EBU Class" Url="html/77764881-897f-4d05-ae15-dfc7a28ff31b.htm" />
+    <HelpKINode Title="about CRC8_EBU class" Url="html/77764881-897f-4d05-ae15-dfc7a28ff31b.htm" />
+    <HelpKINode Title="constructor" Url="html/67ede160-395a-5eeb-a7a4-61c8260b94df.htm" />
+    <HelpKINode Title="methods" Url="html/9b46c062-ed9f-dcc3-043a-2638ba584ef7.htm" />
+    <HelpKINode Title="properties" Url="html/b869910b-3ba5-2641-ead4-01a80c49368a.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_EBU enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_EBU.CRC8_EBU constructor" Url="html/4c88ca7c-69dd-3f02-000e-45c8ded6e908.htm" />
+  <HelpKINode Title="CRC8_EBU enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_EBU.CRC8_EBU constructor" Url="html/67ede160-395a-5eeb-a7a4-61c8260b94df.htm" />
   <HelpKINode Title="CRC8_ICODE class">
-    <HelpKINode Title="CRC8_ICODE Class" Url="html/4c5e40c5-b108-e767-b2a2-9147f6ca8936.htm" />
-    <HelpKINode Title="about CRC8_ICODE class" Url="html/4c5e40c5-b108-e767-b2a2-9147f6ca8936.htm" />
-    <HelpKINode Title="constructor" Url="html/e9f8cdc2-e905-e2bb-df2a-521b77472983.htm" />
-    <HelpKINode Title="methods" Url="html/cf917286-5ce6-8cdc-3b73-e8103042c366.htm" />
-    <HelpKINode Title="properties" Url="html/04533ebb-46f0-e29e-c3c4-c8d3a83b260c.htm" />
+    <HelpKINode Title="CRC8_ICODE Class" Url="html/f0759e66-0e00-11af-b93f-8b985c765f9e.htm" />
+    <HelpKINode Title="about CRC8_ICODE class" Url="html/f0759e66-0e00-11af-b93f-8b985c765f9e.htm" />
+    <HelpKINode Title="constructor" Url="html/06f6572f-09ab-2bb4-269e-07f4c50be2d5.htm" />
+    <HelpKINode Title="methods" Url="html/cb1c35fb-c4ff-dd08-0611-5eeff01c7106.htm" />
+    <HelpKINode Title="properties" Url="html/89742f9b-1540-7d59-eeac-b714782a404a.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_ICODE enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_ICODE.CRC8_ICODE constructor" Url="html/e9f8cdc2-e905-e2bb-df2a-521b77472983.htm" />
+  <HelpKINode Title="CRC8_ICODE enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_ICODE.CRC8_ICODE constructor" Url="html/06f6572f-09ab-2bb4-269e-07f4c50be2d5.htm" />
   <HelpKINode Title="CRC8_ITU class">
-    <HelpKINode Title="CRC8_ITU Class" Url="html/1a2c66af-4832-7f69-8287-c9704dc58e29.htm" />
-    <HelpKINode Title="about CRC8_ITU class" Url="html/1a2c66af-4832-7f69-8287-c9704dc58e29.htm" />
-    <HelpKINode Title="constructor" Url="html/222b57f1-4052-67ce-c4cd-9b3cb4f4e5af.htm" />
-    <HelpKINode Title="methods" Url="html/88f8d83b-a2dc-fede-364c-0e4d914d1686.htm" />
-    <HelpKINode Title="properties" Url="html/5643a7c4-bbf1-585f-2710-b5f64c9b51c1.htm" />
+    <HelpKINode Title="CRC8_ITU Class" Url="html/72d9a281-db78-ebe3-1111-7aedc10efe50.htm" />
+    <HelpKINode Title="about CRC8_ITU class" Url="html/72d9a281-db78-ebe3-1111-7aedc10efe50.htm" />
+    <HelpKINode Title="constructor" Url="html/5942daec-0a76-7e6f-fb22-68b03d6aff4f.htm" />
+    <HelpKINode Title="methods" Url="html/5694d0fa-6cf0-af8e-9cbc-2ba433453855.htm" />
+    <HelpKINode Title="properties" Url="html/fcc66404-458f-e8b9-a0ec-a201cb1bc881.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_ITU enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_ITU.CRC8_ITU constructor" Url="html/222b57f1-4052-67ce-c4cd-9b3cb4f4e5af.htm" />
+  <HelpKINode Title="CRC8_ITU enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_ITU.CRC8_ITU constructor" Url="html/5942daec-0a76-7e6f-fb22-68b03d6aff4f.htm" />
   <HelpKINode Title="CRC8_MAXIM class">
-    <HelpKINode Title="CRC8_MAXIM Class" Url="html/1c836fab-c6d6-1b6d-764e-51b4054dbffc.htm" />
-    <HelpKINode Title="about CRC8_MAXIM class" Url="html/1c836fab-c6d6-1b6d-764e-51b4054dbffc.htm" />
-    <HelpKINode Title="constructor" Url="html/4effff5e-8a37-6b7f-ed1a-c2987ad9c4f0.htm" />
-    <HelpKINode Title="methods" Url="html/248404fc-20bc-029a-80e1-e795cce03a69.htm" />
-    <HelpKINode Title="properties" Url="html/9d94ea47-c4c8-a2f9-b0a9-710d7ada6385.htm" />
+    <HelpKINode Title="CRC8_MAXIM Class" Url="html/a9c07e5f-5fe5-7df6-8512-09537c993c32.htm" />
+    <HelpKINode Title="about CRC8_MAXIM class" Url="html/a9c07e5f-5fe5-7df6-8512-09537c993c32.htm" />
+    <HelpKINode Title="constructor" Url="html/d3e0c55c-34e7-825b-ec86-8812dc4ca53f.htm" />
+    <HelpKINode Title="methods" Url="html/47898d71-2a7a-d660-080e-8a1a3760b129.htm" />
+    <HelpKINode Title="properties" Url="html/ae96a419-2459-ec51-a058-f67dfaf7202a.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_MAXIM enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_MAXIM.CRC8_MAXIM constructor" Url="html/4effff5e-8a37-6b7f-ed1a-c2987ad9c4f0.htm" />
+  <HelpKINode Title="CRC8_MAXIM enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_MAXIM.CRC8_MAXIM constructor" Url="html/d3e0c55c-34e7-825b-ec86-8812dc4ca53f.htm" />
   <HelpKINode Title="CRC8_ROHC class">
-    <HelpKINode Title="CRC8_ROHC Class" Url="html/304b6bcd-aab0-0549-e463-d23974bfda9e.htm" />
-    <HelpKINode Title="about CRC8_ROHC class" Url="html/304b6bcd-aab0-0549-e463-d23974bfda9e.htm" />
-    <HelpKINode Title="constructor" Url="html/2223882f-5132-f758-c81b-3133a10f10e9.htm" />
-    <HelpKINode Title="methods" Url="html/182e0e78-14fa-76aa-ddb5-051cf4ec3300.htm" />
-    <HelpKINode Title="properties" Url="html/698875ea-9ccc-dbaa-3961-e81a6b39ea51.htm" />
+    <HelpKINode Title="CRC8_ROHC Class" Url="html/eabce01e-9c65-63c6-3206-c936a1d92d2d.htm" />
+    <HelpKINode Title="about CRC8_ROHC class" Url="html/eabce01e-9c65-63c6-3206-c936a1d92d2d.htm" />
+    <HelpKINode Title="constructor" Url="html/8e2b191d-37cf-557d-50a3-40aaab69ce6c.htm" />
+    <HelpKINode Title="methods" Url="html/67003542-2e2b-cdac-2ae8-c274d5800fac.htm" />
+    <HelpKINode Title="properties" Url="html/6bd1d418-11ab-a933-813b-7ae8926a8176.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_ROHC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_ROHC.CRC8_ROHC constructor" Url="html/2223882f-5132-f758-c81b-3133a10f10e9.htm" />
+  <HelpKINode Title="CRC8_ROHC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_ROHC.CRC8_ROHC constructor" Url="html/8e2b191d-37cf-557d-50a3-40aaab69ce6c.htm" />
   <HelpKINode Title="CRC8_WCDMA class">
-    <HelpKINode Title="CRC8_WCDMA Class" Url="html/7c2e8f41-af07-13d6-9244-febd4321e836.htm" />
-    <HelpKINode Title="about CRC8_WCDMA class" Url="html/7c2e8f41-af07-13d6-9244-febd4321e836.htm" />
-    <HelpKINode Title="constructor" Url="html/e4466784-3771-d17d-cccc-0b0ddcfc75bc.htm" />
-    <HelpKINode Title="methods" Url="html/cec17942-762e-8fe0-b8ae-1a52813f453d.htm" />
-    <HelpKINode Title="properties" Url="html/0012e017-077e-f9da-6f0b-80c10b69d59e.htm" />
+    <HelpKINode Title="CRC8_WCDMA Class" Url="html/0ddb4bdf-5a89-4832-001e-5f7b396093d6.htm" />
+    <HelpKINode Title="about CRC8_WCDMA class" Url="html/0ddb4bdf-5a89-4832-001e-5f7b396093d6.htm" />
+    <HelpKINode Title="constructor" Url="html/32ae54ed-61d8-ad52-0daf-245e739d4104.htm" />
+    <HelpKINode Title="methods" Url="html/1b905cb9-34b9-6867-f938-9eff8aa7dbd2.htm" />
+    <HelpKINode Title="properties" Url="html/50009f61-821f-b6fa-3d65-3f2d225551cd.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRC8_WCDMA enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRC8_WCDMA.CRC8_WCDMA constructor" Url="html/e4466784-3771-d17d-cccc-0b0ddcfc75bc.htm" />
+  <HelpKINode Title="CRC8_WCDMA enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRC8_WCDMA.CRC8_WCDMA constructor" Url="html/32ae54ed-61d8-ad52-0daf-245e739d4104.htm" />
   <HelpKINode Title="CRCA class">
-    <HelpKINode Title="CRCA Class" Url="html/383a5245-13d7-ef0e-c3fd-5149b456396a.htm" />
-    <HelpKINode Title="about CRCA class" Url="html/383a5245-13d7-ef0e-c3fd-5149b456396a.htm" />
-    <HelpKINode Title="constructor" Url="html/068fba92-363a-ae3c-a071-8b718052a24a.htm" />
-    <HelpKINode Title="methods" Url="html/d123d2b7-2bc6-4623-6e69-5af340666716.htm" />
-    <HelpKINode Title="properties" Url="html/c444f38d-365c-b1e9-df0e-e47914fdb140.htm" />
+    <HelpKINode Title="CRCA Class" Url="html/c4a4f121-9a3c-1f30-e92a-197bebb3a87b.htm" />
+    <HelpKINode Title="about CRCA class" Url="html/c4a4f121-9a3c-1f30-e92a-197bebb3a87b.htm" />
+    <HelpKINode Title="constructor" Url="html/14cd5b55-5635-a2db-2931-a92e885c6890.htm" />
+    <HelpKINode Title="methods" Url="html/71449f58-eb03-26b0-a460-917f770d8d6c.htm" />
+    <HelpKINode Title="properties" Url="html/e703c358-0ee4-5947-b627-8c95d6f704bc.htm" />
   </HelpKINode>
-  <HelpKINode Title="CRCA enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRCA.CRCA constructor" Url="html/068fba92-363a-ae3c-a071-8b718052a24a.htm" />
-  <HelpKINode Title="CRCSettings class">
-    <HelpKINode Title="CRCSettings Class" Url="html/b08b7478-e57a-4e76-4711-7ed0d5d094ec.htm" />
-    <HelpKINode Title="about CRCSettings class" Url="html/b08b7478-e57a-4e76-4711-7ed0d5d094ec.htm" />
-    <HelpKINode Title="constructor" Url="html/2e1e1e6c-99b7-24f4-ceec-ccca5d640279.htm" />
-    <HelpKINode Title="methods" Url="html/61559aea-d7fe-7efa-6664-5d0ba7a93029.htm" />
-    <HelpKINode Title="properties" Url="html/0f7ebdb7-01d2-009a-7f60-b6dc9daa0d3a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="CRCSettings.Bits property" Url="html/70bd9164-f6d8-c970-127f-f0a3d273352a.htm" />
-  <HelpKINode Title="CRCSettings.CRCSettings constructor" Url="html/2e1e1e6c-99b7-24f4-ceec-ccca5d640279.htm" />
-  <HelpKINode Title="CRCSettings.DataDivisionTable property" Url="html/c16f3d1c-e344-4e19-e20d-44bf67827020.htm" />
-  <HelpKINode Title="CRCSettings.InitialValue property" Url="html/59a60a43-0ec4-bd9b-6841-58706f485e2c.htm" />
-  <HelpKINode Title="CRCSettings.Polynomial property" Url="html/08916896-52bf-41b7-0c23-df0d5c4e0ca6.htm" />
-  <HelpKINode Title="CRCSettings.PreCalculateTable method" Url="html/193f1d58-ce58-e33e-d70e-c87d3349f92e.htm" />
-  <HelpKINode Title="CRCSettings.ReflectIn property" Url="html/6e86b876-50a7-9b1a-bf8a-22e8b3afe0cc.htm" />
-  <HelpKINode Title="CRCSettings.ReflectOut property" Url="html/e5a4f97b-30fb-3f2c-55e4-66929a613c3c.htm" />
-  <HelpKINode Title="CRCSettings.XOrOut property" Url="html/0a74447e-c558-f486-3cc1-3bcc74209f5e.htm" />
-  <HelpKINode Title="CRCStandards class">
-    <HelpKINode Title="CRCStandards Class" Url="html/ebb08279-1922-d008-3131-6e51ab66b218.htm" />
-    <HelpKINode Title="about CRCStandards class" Url="html/ebb08279-1922-d008-3131-6e51ab66b218.htm" />
-    <HelpKINode Title="fields" Url="html/dc0344c9-57a1-8093-b065-b19c359a5781.htm" />
-  </HelpKINode>
-  <HelpKINode Title="CRCStandards.Standard enumeration" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="CRCStandards.Standards field" Url="html/b3962773-939f-6ad6-fde8-426b7201fadd.htm" />
+  <HelpKINode Title="CRCA enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="CRCA.CRCA constructor" Url="html/14cd5b55-5635-a2db-2931-a92e885c6890.htm" />
   <HelpKINode Title="CShift method" Url="html/e6d73204-18b3-ffa5-5b4f-d4b1639016ce.htm" />
-  <HelpKINode Title="DataDivisionTable property" Url="html/c16f3d1c-e344-4e19-e20d-44bf67827020.htm" />
+  <HelpKINode Title="DataDivisionTable property" Url="html/1b6cc89f-2e00-f358-e874-42f3347652eb.htm" />
   <HelpKINode Title="DefaultBuzHash class">
     <HelpKINode Title="DefaultBuzHash Class" Url="html/b2db9032-e727-e2d0-6fc1-8a42ee19ec08.htm" />
     <HelpKINode Title="about DefaultBuzHash class" Url="html/b2db9032-e727-e2d0-6fc1-8a42ee19ec08.htm" />
@@ -874,7 +868,7 @@
   <HelpKINode Title="IHashFunction.ComputeHash method" Url="html/c55a2832-13c2-a8db-fce7-b0e54d082610.htm" />
   <HelpKINode Title="IHashFunction.HashSize property" Url="html/ae31856e-4056-6ab0-1626-7d1bd89acc2d.htm" />
   <HelpKINode Title="Inequality operator" Url="html/a30a56eb-8521-6319-85ab-db438e0eacb4.htm" />
-  <HelpKINode Title="InitialValue property" Url="html/59a60a43-0ec4-bd9b-6841-58706f485e2c.htm" />
+  <HelpKINode Title="InitialValue property" Url="html/cc9fa667-b34b-2e50-fa89-586bbc0c258c.htm" />
   <HelpKINode Title="InitVal property">
     <HelpKINode Title="BuzHashBase.InitVal Property " Url="html/3b8e1bf0-122a-cced-1c75-02e31b4d9437.htm" />
     <HelpKINode Title="JenkinsLookup2.InitVal Property " Url="html/28729c9d-edaa-040f-d0b4-2ec231f65a53.htm" />
@@ -891,14 +885,14 @@
     <HelpKINode Title="SpookyHashV2.InitVal2 Property " Url="html/68d1e9b1-5570-b145-3f4f-ca15e3b0e122.htm" />
   </HelpKINode>
   <HelpKINode Title="JAMCRC class">
-    <HelpKINode Title="JAMCRC Class" Url="html/2a26ed64-c602-6f50-e977-ba9ae8597cd0.htm" />
-    <HelpKINode Title="about JAMCRC class" Url="html/2a26ed64-c602-6f50-e977-ba9ae8597cd0.htm" />
-    <HelpKINode Title="constructor" Url="html/50ded958-d171-8d85-f152-6c7be5a0f09b.htm" />
-    <HelpKINode Title="methods" Url="html/e2bb9e0c-d92b-b633-b5be-bb064d60139a.htm" />
-    <HelpKINode Title="properties" Url="html/b44860dc-c374-e1b6-02ad-8a0c4d4b6e24.htm" />
+    <HelpKINode Title="JAMCRC Class" Url="html/cb434d45-586c-a75f-c9a2-9778894f9cff.htm" />
+    <HelpKINode Title="about JAMCRC class" Url="html/cb434d45-586c-a75f-c9a2-9778894f9cff.htm" />
+    <HelpKINode Title="constructor" Url="html/4c54eaa6-6ac6-d709-f016-9459b9bc9f9f.htm" />
+    <HelpKINode Title="methods" Url="html/e35775b4-85fa-8f12-9e15-152d76acdbb0.htm" />
+    <HelpKINode Title="properties" Url="html/c7dcb4a1-85e9-0012-29a2-2f483c2d9fc1.htm" />
   </HelpKINode>
-  <HelpKINode Title="JAMCRC enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="JAMCRC.JAMCRC constructor" Url="html/50ded958-d171-8d85-f152-6c7be5a0f09b.htm" />
+  <HelpKINode Title="JAMCRC enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="JAMCRC.JAMCRC constructor" Url="html/4c54eaa6-6ac6-d709-f016-9459b9bc9f9f.htm" />
   <HelpKINode Title="JenkinsLookup2 class">
     <HelpKINode Title="JenkinsLookup2 Class" Url="html/5d3d5484-5d2c-6d6a-67d2-ef216fc5d6b5.htm" />
     <HelpKINode Title="about JenkinsLookup2 class" Url="html/5d3d5484-5d2c-6d6a-67d2-ef216fc5d6b5.htm" />
@@ -935,27 +929,27 @@
   <HelpKINode Title="k1 field" Url="html/c73cfe1f-223a-9afa-e41a-9e7d03553cc8.htm" />
   <HelpKINode Title="k2 field" Url="html/6f2bd314-036a-a8ed-767f-db22ac64ed92.htm" />
   <HelpKINode Title="KERMIT class">
-    <HelpKINode Title="KERMIT Class" Url="html/198efb8f-ae02-2abc-f8ce-a508e6c6366c.htm" />
-    <HelpKINode Title="about KERMIT class" Url="html/198efb8f-ae02-2abc-f8ce-a508e6c6366c.htm" />
-    <HelpKINode Title="constructor" Url="html/a273321b-6d34-fae9-72b5-2590dfa2b1c7.htm" />
-    <HelpKINode Title="methods" Url="html/0140ccb3-38a5-def8-6468-ab2cf194db3c.htm" />
-    <HelpKINode Title="properties" Url="html/d67aab4b-1430-02d5-74ce-14fbda076ec5.htm" />
+    <HelpKINode Title="KERMIT Class" Url="html/0bd58cd6-e699-9356-0d9e-e4e5e4087f69.htm" />
+    <HelpKINode Title="about KERMIT class" Url="html/0bd58cd6-e699-9356-0d9e-e4e5e4087f69.htm" />
+    <HelpKINode Title="constructor" Url="html/98431738-6f2a-a6ec-d7f4-ee92300c5fda.htm" />
+    <HelpKINode Title="methods" Url="html/36e2de89-ad60-1c8c-371f-bd9fe4f5f27c.htm" />
+    <HelpKINode Title="properties" Url="html/710bc5e3-9300-e478-ddff-45d2f5c67739.htm" />
   </HelpKINode>
-  <HelpKINode Title="KERMIT enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="KERMIT.KERMIT constructor" Url="html/a273321b-6d34-fae9-72b5-2590dfa2b1c7.htm" />
+  <HelpKINode Title="KERMIT enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="KERMIT.KERMIT constructor" Url="html/98431738-6f2a-a6ec-d7f4-ee92300c5fda.htm" />
   <HelpKINode Title="Left enumeration member" Url="html/dde3437b-cfc3-0658-e6df-56215492c90e.htm" />
   <HelpKINode Title="Low property" Url="html/1f69d4a0-1064-8529-ef6e-33c9a5c7a983.htm" />
   <HelpKINode Title="m field" Url="html/5c0658e0-9619-936c-5532-fe2cd5ba0c7f.htm" />
   <HelpKINode Title="MixConstant field" Url="html/e7cad9db-0a4b-0057-5dcf-cd0402fc97df.htm" />
   <HelpKINode Title="MODBUS class">
-    <HelpKINode Title="MODBUS Class" Url="html/9ea05725-2a89-6ab3-b0e7-218f30a27b88.htm" />
-    <HelpKINode Title="about MODBUS class" Url="html/9ea05725-2a89-6ab3-b0e7-218f30a27b88.htm" />
-    <HelpKINode Title="constructor" Url="html/e3c1bfaa-cbab-b8b7-b78b-594280bf5926.htm" />
-    <HelpKINode Title="methods" Url="html/22ff6ca8-83a3-570e-1e57-da9d713ede82.htm" />
-    <HelpKINode Title="properties" Url="html/00866b98-8148-1d99-385a-e928390216b7.htm" />
+    <HelpKINode Title="MODBUS Class" Url="html/2b9c9550-c0b4-d23b-c2ab-c26c955520bb.htm" />
+    <HelpKINode Title="about MODBUS class" Url="html/2b9c9550-c0b4-d23b-c2ab-c26c955520bb.htm" />
+    <HelpKINode Title="constructor" Url="html/799a1322-1c29-a3c4-ce9d-17ad9c4841e7.htm" />
+    <HelpKINode Title="methods" Url="html/bf245413-96b1-e69d-43c3-59b3acb504ff.htm" />
+    <HelpKINode Title="properties" Url="html/e25e9902-dcde-3092-aa87-bf56c6ee3140.htm" />
   </HelpKINode>
-  <HelpKINode Title="MODBUS enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="MODBUS.MODBUS constructor" Url="html/e3c1bfaa-cbab-b8b7-b78b-594280bf5926.htm" />
+  <HelpKINode Title="MODBUS enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="MODBUS.MODBUS constructor" Url="html/799a1322-1c29-a3c4-ce9d-17ad9c4841e7.htm" />
   <HelpKINode Title="ModifiedBernsteinHash class">
     <HelpKINode Title="ModifiedBernsteinHash Class" Url="html/fa307a54-96e1-b2db-c560-1efafc8f6036.htm" />
     <HelpKINode Title="about ModifiedBernsteinHash class" Url="html/fa307a54-96e1-b2db-c560-1efafc8f6036.htm" />
@@ -1023,8 +1017,8 @@
   <HelpKINode Title="PearsonBase.ComputeHashInternal method" Url="html/b9d07bb9-94cb-2c22-91a3-be0c94740080.htm" />
   <HelpKINode Title="PearsonBase.PearsonBase constructor" Url="html/e0688f8f-6f38-0a62-c8bb-030bd9c3328f.htm" />
   <HelpKINode Title="PearsonBase.T property" Url="html/7a047041-4d51-f49c-48f3-7845e8e8a4e5.htm" />
-  <HelpKINode Title="Polynomial property" Url="html/08916896-52bf-41b7-0c23-df0d5c4e0ca6.htm" />
-  <HelpKINode Title="PreCalculateTable method" Url="html/193f1d58-ce58-e33e-d70e-c87d3349f92e.htm" />
+  <HelpKINode Title="Polynomial property" Url="html/15581c84-0239-ed31-56f3-157c81ff2d26.htm" />
+  <HelpKINode Title="PreCalculateTable method" Url="html/10fcf54c-009e-5c98-dc04-3286fa7d9dd4.htm" />
   <HelpKINode Title="Prime property" Url="html/b333b2c6-a901-5678-483a-89685a7315a7.htm" />
   <HelpKINode Title="ProcessBytes method">
     <HelpKINode Title="FNV1.ProcessBytes Method " Url="html/f1354165-b964-1ffc-9038-a0a0ad2250ee.htm" />
@@ -1041,8 +1035,8 @@
     <HelpKINode Title="FNV1a.ProcessBytes64 Method " Url="html/a27595c3-3d8a-c9fe-be52-962da20c8259.htm" />
     <HelpKINode Title="FNV1Base.ProcessBytes64 Method " Url="html/740a6081-e990-886f-d9f6-58dd1f59620a.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReflectIn property" Url="html/6e86b876-50a7-9b1a-bf8a-22e8b3afe0cc.htm" />
-  <HelpKINode Title="ReflectOut property" Url="html/e5a4f97b-30fb-3f2c-55e4-66929a613c3c.htm" />
+  <HelpKINode Title="ReflectIn property" Url="html/6dfce378-13c8-ea46-acd0-2430f6e3fddd.htm" />
+  <HelpKINode Title="ReflectOut property" Url="html/cd45e2eb-10d5-1818-b0b6-ac7630acb7a4.htm" />
   <HelpKINode Title="RequiresSeekableStream property">
     <HelpKINode Title="HashFunctionBase.RequiresSeekableStream Property " Url="html/cac12fd7-9405-7e0d-79b0-f3772fad027a.htm" />
     <HelpKINode Title="JenkinsLookup3.RequiresSeekableStream Property " Url="html/bdcd66a3-0ca4-a558-3b69-552858ee5430.htm" />
@@ -1055,6 +1049,10 @@
     <HelpKINode Title="MurmurHash1.Seed Property " Url="html/197ffb14-2f04-2173-9b4e-9103a5311a18.htm" />
     <HelpKINode Title="MurmurHash2.Seed Property " Url="html/49477492-ead9-c7f9-0281-b664943d9164.htm" />
     <HelpKINode Title="MurmurHash3.Seed Property " Url="html/a793c214-2bb7-ffe8-70d7-ec836bb034a8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Setting class">
+    <HelpKINode Title="methods" Url="html/e0b88a0a-9fcc-dc26-ca57-bd18df5ff076.htm" />
+    <HelpKINode Title="properties" Url="html/e259dbe1-b728-34df-eb96-fb23b60eab7f.htm" />
   </HelpKINode>
   <HelpKINode Title="Settings property" Url="html/961c389d-8e0c-ef1a-5910-f1a81e1c8f90.htm" />
   <HelpKINode Title="ShiftDirection property" Url="html/ad95bbb2-437f-bfe6-703f-b45d268df27a.htm" />
@@ -1082,82 +1080,88 @@
   <HelpKINode Title="SpookyHashV2.InitVal2 property" Url="html/68d1e9b1-5570-b145-3f4f-ca15e3b0e122.htm" />
   <HelpKINode Title="SpookyHashV2.SpookyHashV2 constructor" Url="html/89bce26b-948b-2735-8e40-a612943a12ab.htm" />
   <HelpKINode Title="SpookyHashV2.ValidHashSizes property" Url="html/7fd0b4af-8898-0bf9-aeda-21a5b5f758fa.htm" />
-  <HelpKINode Title="Standards field" Url="html/b3962773-939f-6ad6-fde8-426b7201fadd.htm" />
+  <HelpKINode Title="Standards field" Url="html/c5f5627b-c2d4-9b11-b098-c81914901f3e.htm" />
   <HelpKINode Title="System.Data.HashFunction namespace" Url="html/9da7cf28-c795-b248-7b32-c12e83c24dcf.htm" />
-  <HelpKINode Title="System.Data.HashFunction.ARC class" Url="html/27e193f1-d724-116b-bfc6-f953e0b97824.htm" />
   <HelpKINode Title="System.Data.HashFunction.BernsteinHash class" Url="html/59f3f15d-87c8-b826-842a-e58c8fdee083.htm" />
   <HelpKINode Title="System.Data.HashFunction.BuzHashBase class" Url="html/52ff4cba-31fa-0b1e-e8cf-4b59a0fdf650.htm" />
   <HelpKINode Title="System.Data.HashFunction.BuzHashBase.CircularShiftDirection enumeration" Url="html/dde3437b-cfc3-0658-e6df-56215492c90e.htm" />
   <HelpKINode Title="System.Data.HashFunction.CityHash class" Url="html/3b5a981a-5031-4864-9f38-f1f9dc5e64b1.htm" />
   <HelpKINode Title="System.Data.HashFunction.CityHash.UInt128 structure" Url="html/aa0a9544-1873-7630-cac0-5edafb41f61d.htm" />
   <HelpKINode Title="System.Data.HashFunction.CRC class" Url="html/4c1ae67a-d28d-02b1-222e-2984c9d44ad1.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC10 class" Url="html/d125b93d-407a-0679-34f8-73e44bec3937.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC10_CDMA2000 class" Url="html/bad5fb81-4297-1215-d8eb-66c5bc47d76f.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC11 class" Url="html/f751f99b-cce6-e353-cf88-5baa1b1d5cac.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC12_3GPP class" Url="html/daa32ef5-9c98-82c2-b078-a879cc113cfe.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC12_CDMA2000 class" Url="html/7e5d8688-ef6d-f3c3-bd8a-e07f37740970.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC12_DECT class" Url="html/49b5b7dc-fbdc-0ae7-92e3-f64f838564be.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC13_BBC class" Url="html/6754c29e-10a9-e2de-19bf-4fb6f6283bac.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC14_DARC class" Url="html/575c4616-4c50-0013-911e-05de7ce84b68.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC15 class" Url="html/54dd7ab1-7426-4156-46ca-ee19f950cd81.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC15_MPT1327 class" Url="html/e1bb1cfe-ef78-1518-a414-15488f94009d.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_AUGCCITT class" Url="html/086a0391-68d1-d941-5344-2be668d81ee6.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_BUYPASS class" Url="html/70f40b29-e434-aa1e-b973-6cf7497a14e3.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_CCITTFALSE class" Url="html/00ee0659-6a1b-e2c4-cc6b-345877cf970f.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_CDMA2000 class" Url="html/dfced679-f753-2ec9-0020-3ae6434f5206.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_DDS110 class" Url="html/33a7abdf-0bd9-038e-e04d-4a3c96ceb1e9.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_DECTR class" Url="html/eb48e01b-34a9-6b95-4142-2927b9b6c0b0.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_DECTX class" Url="html/90e5246d-b78f-be1b-a299-c0f97ff8eab2.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_DNP class" Url="html/fe395941-f64d-c39a-018f-fc1c76f9fc01.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_EN13757 class" Url="html/deb69619-996b-d280-66d3-96e3095bae53.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_GENIBUS class" Url="html/198680f5-f639-5fcb-930d-d32671b52b5f.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_MAXIM class" Url="html/549a2eaf-0f3e-9a2a-adf3-aeb2dd84f35a.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_MCRF4XX class" Url="html/52c45569-0bf3-0a22-944d-b3cdd987dd0f.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_RIELLO class" Url="html/c805e26f-5561-50ac-1735-ebe1813f4df0.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_T10DIF class" Url="html/55d5f4d8-6d2e-11ca-4e5a-3e0e5932ae24.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_TELEDISK class" Url="html/78dded64-ce7c-fb1f-6aa4-78b6253ab07b.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_TMS37157 class" Url="html/809a85d4-a6fe-e656-59df-0afc9adc0fbd.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC16_USB class" Url="html/2ca7e25f-c2ea-2680-2510-6369530b01fc.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC24 class" Url="html/7c43f1e3-2f96-1f76-0ed6-0dac037a54cc.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC24_FLEXRAYA class" Url="html/b1196e3c-872b-ab55-fc61-c57e4a703ae5.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC24_FLEXRAYB class" Url="html/c0226b7a-1b6d-050f-dc33-8389e6ff1d0b.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC31_PHILIPS class" Url="html/49da032f-88c3-4729-2a71-dccb21d159de.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32 class" Url="html/0f1751ad-df65-2b2d-1999-fbbd44007a53.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32C class" Url="html/9dce8fe8-7810-b010-010f-864ee4df45c2.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32D class" Url="html/dea94e06-5709-6f9f-664e-5135cf86bd10.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32Q class" Url="html/60953d2a-7077-28c9-0ac5-a79b036d4f75.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32_BZIP2 class" Url="html/b3f9e3e7-6fd6-b4ba-154f-ef681d3eeefc.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32_MPEG2 class" Url="html/9af3f3e9-ee7f-0924-c9f8-720a659ec577.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC32_POSIX class" Url="html/d794482f-7975-d173-386a-e4233a42cec8.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC3_ROHC class" Url="html/18d2b832-4b0c-cc74-8aa4-676c67e2dc17.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC40_GSM class" Url="html/bb00e297-da44-57d7-bd0a-2c6bb0dc9c7d.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC4_ITU class" Url="html/9290cfc5-0f38-b52e-4366-5b2bf8acfac0.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC5_EPC class" Url="html/8a02d05d-8cd9-7b6a-d7ed-b26831512b6b.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC5_ITU class" Url="html/8b665a73-1362-76ac-9d7a-f5fa90cf0ab0.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC5_USB class" Url="html/dcb85c13-95b8-5694-fd95-cb0dcf5bdcb4.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC64 class" Url="html/21a41e36-0d65-df8a-dbdb-6caead46b74a.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC64_WE class" Url="html/f95b9a1b-71e1-578f-3323-d746ebbf5151.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC64_XZ class" Url="html/e7f0a3ec-c991-fc40-1f48-cecd3410ca3d.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC6_CDMA2000A class" Url="html/01c53ee5-528f-fe26-7531-2098819c29c0.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC6_CDMA2000B class" Url="html/5f5e884f-4eac-8259-4e2f-b620c8b9c91f.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC6_DARC class" Url="html/fda9e058-16ad-ac77-e175-5fa18e334171.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC6_ITU class" Url="html/65e79e8c-3973-ddc5-7b2d-d0710c2de90e.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC7 class" Url="html/0c9ebcfe-9a73-8527-f8f1-7d285b7ef0bd.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC7_ROHC class" Url="html/dc61ab42-7d03-a052-4d77-1c654710b1a7.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8 class" Url="html/cd9b01a1-fb27-61bd-f2cb-b1109b1f9946.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_CDMA2000 class" Url="html/88648d58-6c1b-b866-24f8-4cc80593c75d.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_DARC class" Url="html/73eef7ad-d302-5dc4-2aed-7261b3b2773a.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_DVBS2 class" Url="html/f8c95308-7bc1-3509-347b-0df364fbd05c.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_EBU class" Url="html/e6ac437c-9f11-f499-a2af-a3a9b7e17a2c.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_ICODE class" Url="html/4c5e40c5-b108-e767-b2a2-9147f6ca8936.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_ITU class" Url="html/1a2c66af-4832-7f69-8287-c9704dc58e29.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_MAXIM class" Url="html/1c836fab-c6d6-1b6d-764e-51b4054dbffc.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_ROHC class" Url="html/304b6bcd-aab0-0549-e463-d23974bfda9e.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRC8_WCDMA class" Url="html/7c2e8f41-af07-13d6-9244-febd4321e836.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRCA class" Url="html/383a5245-13d7-ef0e-c3fd-5149b456396a.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRCSettings class" Url="html/b08b7478-e57a-4e76-4711-7ed0d5d094ec.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRCStandards class" Url="html/ebb08279-1922-d008-3131-6e51ab66b218.htm" />
-  <HelpKINode Title="System.Data.HashFunction.CRCStandards.Standard enumeration" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRC.Setting class" Url="html/699690cc-d2c1-83c7-e56d-4e4109969c92.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRC.Standard enumeration" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards namespace" Url="html/df41edc9-457b-f483-6d0e-bdd71a013118.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.ARC class" Url="html/d07c26ef-4acf-5095-798c-e5541ba9cbb1.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC10 class" Url="html/2f96a729-7ec0-e8be-cbbd-62c455286fbc.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC10_CDMA2000 class" Url="html/7448664c-cdde-55e3-73c0-e3d8f6f8761d.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC11 class" Url="html/16aadaac-af12-d287-d2e4-9fdec7203587.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC12_3GPP class" Url="html/b17d0ad0-94f4-b593-6045-b42dd115a87d.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC12_CDMA2000 class" Url="html/21bd8007-b6f9-d3a0-aa27-8158c9c260eb.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC12_DECT class" Url="html/4ca09bfe-5ab8-5d41-f5eb-5026d1dde0cd.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC13_BBC class" Url="html/fed9839d-5de1-2d61-d925-b52914f2b830.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC14_DARC class" Url="html/86132914-fbfc-e800-2af1-3ad9e913e45c.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC15 class" Url="html/01cb40d2-5127-8d36-439f-6bd2034c391b.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC15_MPT1327 class" Url="html/5c202016-ac0b-d9b1-e634-01e5e36fa95b.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_AUGCCITT class" Url="html/eee4b241-2936-8880-5e77-4676870d7fc4.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_BUYPASS class" Url="html/3916386f-a713-58b3-6328-79533874b220.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_CCITTFALSE class" Url="html/a5802c7b-4dd1-882f-1719-88722969d766.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_CDMA2000 class" Url="html/aaf535fa-a034-3e56-9a6c-f375bd863c60.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_DDS110 class" Url="html/77948150-44c5-0048-be31-5fb0d5d45487.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_DECTR class" Url="html/3637a1fd-5e55-bf0b-ac99-51e6423900d6.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_DECTX class" Url="html/4385e60f-01f3-9d23-db06-092b7f046803.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_DNP class" Url="html/a23eb929-a482-7506-14b6-acb1aeed25ef.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_EN13757 class" Url="html/687a18da-aa47-5075-6c20-a21dfc02d5ff.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_GENIBUS class" Url="html/b4c8442b-63ef-e240-5618-aa9521dc95cb.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_MAXIM class" Url="html/1bb9073c-f4cf-f60b-f1b5-f8c1981bcae2.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_MCRF4XX class" Url="html/0de267b0-b25a-eb36-8c79-e54e1c95aa18.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_RIELLO class" Url="html/496b8b2d-14f7-b761-c8fd-f0a4af9daf5d.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_T10DIF class" Url="html/e4975c7c-7b59-f0de-8786-e70a559fb473.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_TELEDISK class" Url="html/91bce1af-f23e-c8ec-b0d3-54f108d39818.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_TMS37157 class" Url="html/857bcc2d-5140-b7b7-259c-02ae47f95db5.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC16_USB class" Url="html/1f7f158d-0fa9-2342-b5fa-8a3e5bf342ed.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC24 class" Url="html/16c8eecf-1837-5b5e-eecd-3d4715c6a6d0.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC24_FLEXRAYA class" Url="html/a99e7898-fc96-39fa-8762-a60ba1d27864.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC24_FLEXRAYB class" Url="html/b0abf508-208d-1ab8-d333-14cd6bcd3537.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC31_PHILIPS class" Url="html/6c8d8b5f-a2d7-90a0-837c-48b0bc0a4d92.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32 class" Url="html/d2607050-c2d8-080d-1aee-3190f97bb0ae.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32C class" Url="html/daec01d1-9f90-f19f-7293-5dbef4578e12.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32D class" Url="html/ab71a8b0-2c3a-a2f3-5c17-a9412304c1b3.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32Q class" Url="html/6840964a-bf35-094b-48e9-6421516239d6.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32_BZIP2 class" Url="html/adadbea2-c6b9-42f7-8e60-da1e5b028b95.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32_MPEG2 class" Url="html/e5cbcb17-67ad-66c1-0b50-0f8c0d797090.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC32_POSIX class" Url="html/4bf416b5-b928-28c3-6d05-d0f69f5b5b6d.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC3_ROHC class" Url="html/cf99103d-7643-31da-4c50-3df8baf41347.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC40_GSM class" Url="html/ff3e1bc5-abbd-375c-7263-06bb0f6441b4.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC4_ITU class" Url="html/f3d721e6-69a2-43db-b6cb-c36fe16e4de9.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC5_EPC class" Url="html/f81b0163-cd5b-f02c-5a0e-ae6d378e4c35.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC5_ITU class" Url="html/b068d12b-c347-e4a8-7ca0-68ab9f23174a.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC5_USB class" Url="html/de9095b8-d26d-3caf-9ea5-68531da85cc6.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC64 class" Url="html/b6d6ab4f-1cbd-a7a1-84c5-91ed74d81854.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC64_WE class" Url="html/7ec54060-ae5b-f8af-6af4-d6a9e2485a02.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC64_XZ class" Url="html/76a0b6f2-9da5-ffee-8f94-9b072c9d465b.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC6_CDMA2000A class" Url="html/b9b42aed-3724-505b-236c-0e3ceded60e5.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC6_CDMA2000B class" Url="html/ad6ce451-8117-e5b7-1094-683f3f8d0bba.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC6_DARC class" Url="html/99a0c0ba-3483-ff9b-bf9a-20b131b94b8f.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC6_ITU class" Url="html/aea2d159-16ec-2069-fc65-5c1c7728a8f7.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC7 class" Url="html/cc79a9f2-7bab-4dfc-81a3-28277f74db84.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC7_ROHC class" Url="html/c300d68b-b6d5-0878-a2e7-415f255f4c96.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8 class" Url="html/4618acda-0c0a-5f1f-f88b-fc81973bb4fd.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_CDMA2000 class" Url="html/be4c6362-fca6-8043-dc0d-10e9fb08212d.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_DARC class" Url="html/77d84851-78ec-c9b8-85ec-6eee7525a7ca.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_DVBS2 class" Url="html/77bcecac-d26f-7b8c-66c1-879e9ad0fe07.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_EBU class" Url="html/77764881-897f-4d05-ae15-dfc7a28ff31b.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_ICODE class" Url="html/f0759e66-0e00-11af-b93f-8b985c765f9e.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_ITU class" Url="html/72d9a281-db78-ebe3-1111-7aedc10efe50.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_MAXIM class" Url="html/a9c07e5f-5fe5-7df6-8512-09537c993c32.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_ROHC class" Url="html/eabce01e-9c65-63c6-3206-c936a1d92d2d.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRC8_WCDMA class" Url="html/0ddb4bdf-5a89-4832-001e-5f7b396093d6.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.CRCA class" Url="html/c4a4f121-9a3c-1f30-e92a-197bebb3a87b.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.JAMCRC class" Url="html/cb434d45-586c-a75f-c9a2-9778894f9cff.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.KERMIT class" Url="html/0bd58cd6-e699-9356-0d9e-e4e5e4087f69.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.MODBUS class" Url="html/2b9c9550-c0b4-d23b-c2ab-c26c955520bb.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.X25 class" Url="html/f49877f9-b61f-e4e4-ab1b-2460143238de.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.XFER class" Url="html/b4966036-eb5e-4297-b50f-96f79c23c359.htm" />
+  <HelpKINode Title="System.Data.HashFunction.CRCStandards.XMODEM class" Url="html/5326021f-695a-7a07-b686-4a399de666f1.htm" />
   <HelpKINode Title="System.Data.HashFunction.DefaultBuzHash class" Url="html/b2db9032-e727-e2d0-6fc1-8a42ee19ec08.htm" />
   <HelpKINode Title="System.Data.HashFunction.ELF64 class" Url="html/f8fbda73-13ce-f689-7e71-cad1302e7e79.htm" />
   <HelpKINode Title="System.Data.HashFunction.FNV1 class" Url="html/f31714aa-d203-09a8-3d80-6621fd6f61dd.htm" />
@@ -1169,12 +1173,9 @@
   <HelpKINode Title="System.Data.HashFunction.HashAlgorithmWrapper&lt;HashAlgorithmT&gt; class" Url="html/697ffc7f-8e9c-3983-a002-72fb3906af3e.htm" />
   <HelpKINode Title="System.Data.HashFunction.HashFunctionBase class" Url="html/c51b5548-085e-6780-4462-b2c4a11edcd2.htm" />
   <HelpKINode Title="System.Data.HashFunction.IHashFunction interface" Url="html/649f4f78-f9ef-d51a-2ef9-06ebcec666ee.htm" />
-  <HelpKINode Title="System.Data.HashFunction.JAMCRC class" Url="html/2a26ed64-c602-6f50-e977-ba9ae8597cd0.htm" />
   <HelpKINode Title="System.Data.HashFunction.JenkinsLookup2 class" Url="html/5d3d5484-5d2c-6d6a-67d2-ef216fc5d6b5.htm" />
   <HelpKINode Title="System.Data.HashFunction.JenkinsLookup3 class" Url="html/171d78df-7a95-5979-03ab-995bbdd8466c.htm" />
   <HelpKINode Title="System.Data.HashFunction.JenkinsOneAtATime class" Url="html/91ac99bd-fd9a-4985-ba1b-96c934ecf2af.htm" />
-  <HelpKINode Title="System.Data.HashFunction.KERMIT class" Url="html/198efb8f-ae02-2abc-f8ce-a508e6c6366c.htm" />
-  <HelpKINode Title="System.Data.HashFunction.MODBUS class" Url="html/9ea05725-2a89-6ab3-b0e7-218f30a27b88.htm" />
   <HelpKINode Title="System.Data.HashFunction.ModifiedBernsteinHash class" Url="html/fa307a54-96e1-b2db-c560-1efafc8f6036.htm" />
   <HelpKINode Title="System.Data.HashFunction.MurmurHash1 class" Url="html/88ac587f-f14e-14de-a769-1963147973b8.htm" />
   <HelpKINode Title="System.Data.HashFunction.MurmurHash2 class" Url="html/a18cf018-0e9a-5fe8-3d3a-730d8f880b6b.htm" />
@@ -1183,9 +1184,6 @@
   <HelpKINode Title="System.Data.HashFunction.SpookyHashV1 class" Url="html/ed120437-c328-c929-0fb5-0d6d0ca654b0.htm" />
   <HelpKINode Title="System.Data.HashFunction.SpookyHashV2 class" Url="html/47cdeac4-c5b9-6d94-0664-3be9276e37ce.htm" />
   <HelpKINode Title="System.Data.HashFunction.WikipediaPearson class" Url="html/9bb2dd0b-ca01-198a-0bef-f18d6844480e.htm" />
-  <HelpKINode Title="System.Data.HashFunction.X25 class" Url="html/7cfad0fe-f8c1-4617-25cd-4666e5912c24.htm" />
-  <HelpKINode Title="System.Data.HashFunction.XFER class" Url="html/7b153ddc-2399-b0c1-7117-d8bb2300eddc.htm" />
-  <HelpKINode Title="System.Data.HashFunction.XMODEM class" Url="html/4b2e582a-0fa6-bca0-f4e3-57a8ffaf702a.htm" />
   <HelpKINode Title="System.Data.HashFunction.xxHash class" Url="html/6d100191-40a6-ed68-cd09-0d8690cd4a31.htm" />
   <HelpKINode Title="T property" Url="html/7a047041-4d51-f49c-48f3-7845e8e8a4e5.htm" />
   <HelpKINode Title="UInt128 structure">
@@ -1212,33 +1210,33 @@
   </HelpKINode>
   <HelpKINode Title="WikipediaPearson.WikipediaPearson constructor" Url="html/4ca42a35-fe2a-5c89-ba21-1fbd3318d013.htm" />
   <HelpKINode Title="X25 class">
-    <HelpKINode Title="X25 Class" Url="html/7cfad0fe-f8c1-4617-25cd-4666e5912c24.htm" />
-    <HelpKINode Title="about X25 class" Url="html/7cfad0fe-f8c1-4617-25cd-4666e5912c24.htm" />
-    <HelpKINode Title="constructor" Url="html/3243b1ec-fb3c-8d0e-8744-1b8c0586f889.htm" />
-    <HelpKINode Title="methods" Url="html/36182581-489a-6733-3e23-b158f4c3fd3d.htm" />
-    <HelpKINode Title="properties" Url="html/aa79a720-fd78-a64e-acb3-b379e4160197.htm" />
+    <HelpKINode Title="X25 Class" Url="html/f49877f9-b61f-e4e4-ab1b-2460143238de.htm" />
+    <HelpKINode Title="about X25 class" Url="html/f49877f9-b61f-e4e4-ab1b-2460143238de.htm" />
+    <HelpKINode Title="constructor" Url="html/5386b820-d279-7648-55d3-03cb138d26b4.htm" />
+    <HelpKINode Title="methods" Url="html/d884c580-a8f2-32d0-5038-4f059fc9a10f.htm" />
+    <HelpKINode Title="properties" Url="html/74e45b0f-75f8-2b4f-6996-f8a1087fb418.htm" />
   </HelpKINode>
-  <HelpKINode Title="X25 enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="X25.X25 constructor" Url="html/3243b1ec-fb3c-8d0e-8744-1b8c0586f889.htm" />
+  <HelpKINode Title="X25 enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="X25.X25 constructor" Url="html/5386b820-d279-7648-55d3-03cb138d26b4.htm" />
   <HelpKINode Title="XFER class">
-    <HelpKINode Title="XFER Class" Url="html/7b153ddc-2399-b0c1-7117-d8bb2300eddc.htm" />
-    <HelpKINode Title="about XFER class" Url="html/7b153ddc-2399-b0c1-7117-d8bb2300eddc.htm" />
-    <HelpKINode Title="constructor" Url="html/d510f8ed-70bf-52ce-15ab-43fa6b510ead.htm" />
-    <HelpKINode Title="methods" Url="html/4c114ba6-4636-6c40-f251-7400c404f2f4.htm" />
-    <HelpKINode Title="properties" Url="html/51d29792-fd5a-3cf7-c100-92fe6ebb2dc8.htm" />
+    <HelpKINode Title="XFER Class" Url="html/b4966036-eb5e-4297-b50f-96f79c23c359.htm" />
+    <HelpKINode Title="about XFER class" Url="html/b4966036-eb5e-4297-b50f-96f79c23c359.htm" />
+    <HelpKINode Title="constructor" Url="html/278fe4a7-2ffe-f764-dc53-dc08a32b389c.htm" />
+    <HelpKINode Title="methods" Url="html/c09eae32-227a-0c33-c70a-fecbc3c1bb3e.htm" />
+    <HelpKINode Title="properties" Url="html/fb5b8800-c3f5-1673-4654-ce9134593bd9.htm" />
   </HelpKINode>
-  <HelpKINode Title="XFER enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="XFER.XFER constructor" Url="html/d510f8ed-70bf-52ce-15ab-43fa6b510ead.htm" />
+  <HelpKINode Title="XFER enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="XFER.XFER constructor" Url="html/278fe4a7-2ffe-f764-dc53-dc08a32b389c.htm" />
   <HelpKINode Title="XMODEM class">
-    <HelpKINode Title="XMODEM Class" Url="html/4b2e582a-0fa6-bca0-f4e3-57a8ffaf702a.htm" />
-    <HelpKINode Title="about XMODEM class" Url="html/4b2e582a-0fa6-bca0-f4e3-57a8ffaf702a.htm" />
-    <HelpKINode Title="constructor" Url="html/17a4f882-0a63-588c-188f-a4000bdb5bc6.htm" />
-    <HelpKINode Title="methods" Url="html/738608b2-106b-b312-87d8-b16696e1b118.htm" />
-    <HelpKINode Title="properties" Url="html/fdd8acf2-a2c4-f97e-9297-2c0757f8c72f.htm" />
+    <HelpKINode Title="XMODEM Class" Url="html/5326021f-695a-7a07-b686-4a399de666f1.htm" />
+    <HelpKINode Title="about XMODEM class" Url="html/5326021f-695a-7a07-b686-4a399de666f1.htm" />
+    <HelpKINode Title="constructor" Url="html/2d15de23-d5cc-eacd-ff3c-83ab1410e397.htm" />
+    <HelpKINode Title="methods" Url="html/11c1cf1e-6c65-4efb-4df6-8e2eec469732.htm" />
+    <HelpKINode Title="properties" Url="html/837f2cf3-0b8f-25f4-eaef-e02c4d220216.htm" />
   </HelpKINode>
-  <HelpKINode Title="XMODEM enumeration member" Url="html/7dace75a-4e88-3e2b-1fdd-10d5294099c1.htm" />
-  <HelpKINode Title="XMODEM.XMODEM constructor" Url="html/17a4f882-0a63-588c-188f-a4000bdb5bc6.htm" />
-  <HelpKINode Title="XOrOut property" Url="html/0a74447e-c558-f486-3cc1-3bcc74209f5e.htm" />
+  <HelpKINode Title="XMODEM enumeration member" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+  <HelpKINode Title="XMODEM.XMODEM constructor" Url="html/2d15de23-d5cc-eacd-ff3c-83ab1410e397.htm" />
+  <HelpKINode Title="XOrOut property" Url="html/24c810b7-f444-0f29-3f62-1f69159a8eab.htm" />
   <HelpKINode Title="xxHash class">
     <HelpKINode Title="xxHash Class" Url="html/6d100191-40a6-ed68-cd09-0d8690cd4a31.htm" />
     <HelpKINode Title="about xxHash class" Url="html/6d100191-40a6-ed68-cd09-0d8690cd4a31.htm" />
