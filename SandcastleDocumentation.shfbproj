@@ -39,18 +39,20 @@
     </DocumentationSources>
     <ApiFilter>
       <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.CityHash_Tests" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities.IntegerManipulation" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities.UnifiedData" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.CRC_Tests" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.FNV" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Jenkins" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Mocks" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Pearson" isExposed="False" />
-<Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Test" isExposed="False" /></ApiFilter>
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.CityHash_Tests" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities.IntegerManipulation" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities.UnifiedData" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.CRC_Tests" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.FNV" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Jenkins" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Mocks" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Pearson" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Test" isExposed="False" />
+    </ApiFilter>
     <VisibleItems>InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected</VisibleItems>
+    <ComponentConfigurations />
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
