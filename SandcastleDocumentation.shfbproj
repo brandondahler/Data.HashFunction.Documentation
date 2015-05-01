@@ -35,10 +35,11 @@
     <CppCommentsFixup>False</CppCommentsFixup>
     <CleanIntermediates>True</CleanIntermediates>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\Data.HashFunction\Data.HashFunction.sln" />
+      <DocumentationSource sourceFile="..\Data.HashFunction\src\Data.HashFunction.sln" />
     </DocumentationSources>
     <ApiFilter>
       <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test" isExposed="False" />
+      <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Blake2" isExposed="False" />
       <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.CityHash_Tests" isExposed="False" />
       <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core" isExposed="False" />
       <Filter entryType="Namespace" fullName="System.Data.HashFunction.Test.Core.Utilities" isExposed="False" />
