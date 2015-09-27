@@ -1,0 +1,879 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="bfd0ecec-9f9b-4d3e-a792-169a7ccec807" Title="System.Data.HashFunction" Url="html/9da7cf28-c795-b248-7b32-c12e83c24dcf.htm">
+    <HelpTOCNode Id="52cd4bbf-4b0b-4aac-b9af-0d75781ac9f3" Title="BernsteinHash Class" Url="html/59f3f15d-87c8-b826-842a-e58c8fdee083.htm">
+      <HelpTOCNode Title="BernsteinHash Constructor " Url="html/8a61ff17-05a4-5863-7586-7453d532c2b4.htm" />
+      <HelpTOCNode Title="BernsteinHash Properties" Url="html/a7cdf140-6cf9-a1d8-03aa-e07ced610596.htm" />
+      <HelpTOCNode Id="647fdcbc-7270-4529-8570-da49ec2585c9" Title="BernsteinHash Methods" Url="html/108b5d1d-675c-6a73-8a18-f36195451aec.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/3a7b27a0-2a46-2df3-060f-bfcaadee6243.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/5ba7880c-aef7-2653-45e2-eb144ec8343c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f76876d1-64d3-44ad-812a-921dea0eb2c7" Title="Blake2B Class" Url="html/1e7a23de-ca71-fae0-54a7-17f192b36226.htm">
+      <HelpTOCNode Id="3242218b-a291-43b9-8ff6-bf0bb5d9f92e" Title="Blake2B Constructor " Url="html/c2eb2822-7e20-d490-3346-501ceab903bb.htm">
+        <HelpTOCNode Title="Blake2B Constructor " Url="html/9768c1c6-02bb-c758-a300-806cc1d9648a.htm" />
+        <HelpTOCNode Title="Blake2B Constructor (Int32)" Url="html/109b1d66-7b54-f838-dbba-5ad5b67b0c96.htm" />
+        <HelpTOCNode Title="Blake2B Constructor (Byte[], Byte[], Byte[])" Url="html/08a2f01f-8fac-197e-d5ae-2d5aa6d17ae4.htm" />
+        <HelpTOCNode Title="Blake2B Constructor (Int32, IEnumerable(Byte), IEnumerable(Byte), IEnumerable(Byte))" Url="html/2a3106bf-0f7b-85ad-351c-2fe474454cef.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Blake2B Properties" Url="html/68d5fa51-a655-e7da-ae05-19c323ce2329.htm" />
+      <HelpTOCNode Id="9a83e8d5-6e59-4a3c-84fe-161cb7d91def" Title="Blake2B Methods" Url="html/e174f4b3-dc2d-89ab-15a4-e68b78401883.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/c91098a0-bd04-5557-9bf6-af5162c6083e.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/1c9643f7-cea6-5c9f-f92b-0fcb6215ebc4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3c43670e-a02b-4d1a-939e-0e8ecb673ee4" Title="BuzHashBase Class" Url="html/52ff4cba-31fa-0b1e-e8cf-4b59a0fdf650.htm">
+      <HelpTOCNode Id="c2b0d313-405d-4100-b188-0f20a88cb8f1" Title="BuzHashBase Constructor " Url="html/b6908c0f-57db-902d-ac09-20a99dbf83f2.htm">
+        <HelpTOCNode Title="BuzHashBase Constructor (IReadOnlyList(UInt64), BuzHashBase.CircularShiftDirection)" Url="html/5b5175d5-809d-ab00-02b0-468ee01d96ab.htm" />
+        <HelpTOCNode Title="BuzHashBase Constructor (IReadOnlyList(UInt64), BuzHashBase.CircularShiftDirection, Int32)" Url="html/296b09c9-c9b4-c4cb-032b-24bf12c55e29.htm" />
+        <HelpTOCNode Title="BuzHashBase Constructor (IReadOnlyList(UInt64), BuzHashBase.CircularShiftDirection, UInt64)" Url="html/63dd455f-89e0-9596-2177-32728758b425.htm" />
+        <HelpTOCNode Title="BuzHashBase Constructor (IReadOnlyList(UInt64), BuzHashBase.CircularShiftDirection, UInt64, Int32)" Url="html/d853db42-a389-8ee8-5e34-590a8718b5de.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0099baf-e1dd-4d44-83cf-c07f89088f06" Title="BuzHashBase Properties" Url="html/27753d2b-682a-b7e3-7b88-d8506c1c999a.htm">
+        <HelpTOCNode Title="InitVal Property " Url="html/3b8e1bf0-122a-cced-1c75-02e31b4d9437.htm" />
+        <HelpTOCNode Title="Rtab Property " Url="html/dcd894c9-730a-596e-2e70-90a565e41c89.htm" />
+        <HelpTOCNode Title="ShiftDirection Property " Url="html/ad95bbb2-437f-bfe6-703f-b45d268df27a.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/085fffd9-a85e-bb79-8b10-6cb5f8ae53f4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="24b1fc5e-3762-4729-9bb3-4cdfebd8f50c" Title="BuzHashBase Methods" Url="html/0a3bb04d-a81d-6117-50cb-fa5812d2e796.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/59018875-98db-9fbd-f0a8-bc27a92eb93d.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/febb37ed-29b3-ac4a-8b41-9b84995f5e0f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="BuzHashBase.CircularShiftDirection Enumeration" Url="html/dde3437b-cfc3-0658-e6df-56215492c90e.htm" />
+    <HelpTOCNode Id="7683d597-6f76-452d-835d-30c50eaa77ee" Title="CityHash Class" Url="html/3b5a981a-5031-4864-9f38-f1f9dc5e64b1.htm">
+      <HelpTOCNode Id="ea283081-800e-4424-82a8-4b5012208c42" Title="CityHash Constructor " Url="html/4c434cca-5b43-9754-56a4-c216013e4781.htm">
+        <HelpTOCNode Title="CityHash Constructor " Url="html/5995a89c-5142-ed6d-1582-fd72012aacf2.htm" />
+        <HelpTOCNode Title="CityHash Constructor (Int32)" Url="html/7157a50e-dfd7-e5cc-8a8f-b691e8b2d68d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6308df9f-05e0-410a-9a02-5b54502c893d" Title="CityHash Properties" Url="html/37b71f1a-285c-7e15-8bbd-155ccd48f193.htm">
+        <HelpTOCNode Title="RequiresSeekableStream Property " Url="html/16a3342d-bd60-5b20-195a-bbdfd61febf1.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/45189645-e858-cdb9-1f6b-e0c58ab4739d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b92b8e57-649b-4d19-b75b-be27fa9f2290" Title="CityHash Methods" Url="html/9a2d11f4-b53d-e34e-5a77-6183cef07e00.htm">
+        <HelpTOCNode Title="ComputeHash128 Method " Url="html/73dc8391-1015-088a-cf65-54ea5f5d82e1.htm" />
+        <HelpTOCNode Title="ComputeHash32 Method " Url="html/6c672de8-7c64-0476-cf5f-cb60c57714e1.htm" />
+        <HelpTOCNode Title="ComputeHash64 Method " Url="html/97d29efd-a135-505c-c57a-ed2f1ee9a8b5.htm" />
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/13ceb036-1243-33e0-5b34-4c1035ce4acb.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/5a82b10c-2abd-6834-0ba6-e3ee357f8eb0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d9e92220-108b-494e-af1f-334649d613ce" Title="CityHash Fields" Url="html/ded51dde-e2b9-247f-9287-ae53900ec25c.htm">
+        <HelpTOCNode Title="c1 Field" Url="html/dd8610ed-af30-f2a2-32a4-645aa6f60ae6.htm" />
+        <HelpTOCNode Title="c2 Field" Url="html/075aeb61-c0f9-c1b4-c7ed-fe068f8332b9.htm" />
+        <HelpTOCNode Title="k0 Field" Url="html/027effb6-dc99-916d-1526-fa3fec2b6805.htm" />
+        <HelpTOCNode Title="k1 Field" Url="html/c73cfe1f-223a-9afa-e41a-9e7d03553cc8.htm" />
+        <HelpTOCNode Title="k2 Field" Url="html/6f2bd314-036a-a8ed-767f-db22ac64ed92.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="71a3b898-0711-4246-b572-db573b8042ad" Title="CRC Class" Url="html/4c1ae67a-d28d-02b1-222e-2984c9d44ad1.htm">
+      <HelpTOCNode Id="b5fe5ce9-dcf7-401e-b311-23db2f196d30" Title="CRC Constructor " Url="html/4216f890-f140-6d53-f01a-2cbf84c8363e.htm">
+        <HelpTOCNode Title="CRC Constructor " Url="html/47a47f54-a5d0-5d3e-6d24-cb4a8c361d0a.htm" />
+        <HelpTOCNode Title="CRC Constructor (CRC.Setting)" Url="html/4e6bcefa-23f7-9a0e-394e-d23fdb395256.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2f44e169-d7d0-4e1e-bced-9834bf25288d" Title="CRC Properties" Url="html/5954f842-1a8c-aa11-5f6d-810814dd8d51.htm">
+        <HelpTOCNode Title="DefaultSettings Property " Url="html/9d900d58-63de-8482-841c-11e1aceafa85.htm" />
+        <HelpTOCNode Title="Settings Property " Url="html/961c389d-8e0c-ef1a-5910-f1a81e1c8f90.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="87c37495-763d-4eae-84bf-70d2e26c62a5" Title="CRC Methods" Url="html/0d5a2c24-b2c4-0606-2aef-4996fb280730.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/a71121a9-8b1b-4ecc-d68e-424e9cac1062.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/eb47a31a-e8fd-cca8-8e74-083b21914e9f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="43a578a6-f3ea-4b75-bbf0-e934b86fcc68" Title="CRC Fields" Url="html/1f9d0911-d7f4-8419-67b7-d605ee39dde7.htm">
+        <HelpTOCNode Title="Standards Field" Url="html/c5f5627b-c2d4-9b11-b098-c81914901f3e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="54420cc5-9406-4928-824d-e37a05cd6d38" Title="CRC.Setting Class" Url="html/699690cc-d2c1-83c7-e56d-4e4109969c92.htm">
+      <HelpTOCNode Title="CRC.Setting Constructor " Url="html/a9606bad-4db9-9b86-bc0e-f9e5d52e5401.htm" />
+      <HelpTOCNode Id="7979de8c-0fec-403e-9e35-332cb2b7cc28" Title="Setting Properties" Url="html/e259dbe1-b728-34df-eb96-fb23b60eab7f.htm">
+        <HelpTOCNode Title="Bits Property " Url="html/99fda1ca-5f2e-bd10-d89a-ad9fbf323e73.htm" />
+        <HelpTOCNode Title="DataDivisionTable Property " Url="html/1b6cc89f-2e00-f358-e874-42f3347652eb.htm" />
+        <HelpTOCNode Title="InitialValue Property " Url="html/cc9fa667-b34b-2e50-fa89-586bbc0c258c.htm" />
+        <HelpTOCNode Title="Polynomial Property " Url="html/15581c84-0239-ed31-56f3-157c81ff2d26.htm" />
+        <HelpTOCNode Title="ReflectIn Property " Url="html/6dfce378-13c8-ea46-acd0-2430f6e3fddd.htm" />
+        <HelpTOCNode Title="ReflectOut Property " Url="html/cd45e2eb-10d5-1818-b0b6-ac7630acb7a4.htm" />
+        <HelpTOCNode Title="XOrOut Property " Url="html/24c810b7-f444-0f29-3f62-1f69159a8eab.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6ba9e3c-6a0e-4772-9363-bd1e36e0ee3a" Title="Setting Methods" Url="html/e0b88a0a-9fcc-dc26-ca57-bd18df5ff076.htm">
+        <HelpTOCNode Title="PreCalculateTable Method " Url="html/10fcf54c-009e-5c98-dc04-3286fa7d9dd4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="CRC.Standard Enumeration" Url="html/894cc814-f36c-ef7f-fb53-6b992f4a6ee4.htm" />
+    <HelpTOCNode Id="6e8ad4ef-785f-40f0-9502-152dba38a587" Title="DefaultBuzHash Class" Url="html/b2db9032-e727-e2d0-6fc1-8a42ee19ec08.htm">
+      <HelpTOCNode Id="de14dc64-6c2c-4bbc-82c8-d5195020cb98" Title="DefaultBuzHash Constructor " Url="html/53ea21dc-3abb-34ed-ee6b-e10200d1987d.htm">
+        <HelpTOCNode Title="DefaultBuzHash Constructor " Url="html/7940f531-a3cb-aee0-c046-454baf5a34f4.htm" />
+        <HelpTOCNode Title="DefaultBuzHash Constructor (Int32)" Url="html/c364d88f-d143-03ce-04d0-083ebe7afee0.htm" />
+        <HelpTOCNode Title="DefaultBuzHash Constructor (BuzHashBase.CircularShiftDirection)" Url="html/aca26369-63c7-c54c-d20a-1e296432f765.htm" />
+        <HelpTOCNode Title="DefaultBuzHash Constructor (BuzHashBase.CircularShiftDirection, Int32)" Url="html/b0dafc37-1c5d-e8d3-84d9-213405e1a91a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DefaultBuzHash Properties" Url="html/55090a41-318b-80f9-09ee-da30f1d90b11.htm" />
+      <HelpTOCNode Title="DefaultBuzHash Methods" Url="html/a6e2e0a6-ab1b-8098-ebd2-d1402f03f616.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="32c27938-9cf9-4198-bbfe-c6c7893d7409" Title="ELF64 Class" Url="html/f8fbda73-13ce-f689-7e71-cad1302e7e79.htm">
+      <HelpTOCNode Title="ELF64 Constructor " Url="html/e3aaf261-b230-cf4e-d8c7-4cde21b61383.htm" />
+      <HelpTOCNode Title="ELF64 Properties" Url="html/84ac99a4-de33-3d00-82b1-749f07c26e4f.htm" />
+      <HelpTOCNode Id="70ce5083-4744-4b3d-ada8-07d22fee97b9" Title="ELF64 Methods" Url="html/c99a9e75-779e-8f08-ceb5-54f8dc0a4634.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/1830131c-d331-76a3-c18e-79dc851fcdff.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/eed2b8c1-a054-42d6-3ac9-7762c1ef4eb8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7781bb87-6fb6-4481-923b-9b5ddbcad13e" Title="FNV1 Class" Url="html/f31714aa-d203-09a8-3d80-6621fd6f61dd.htm">
+      <HelpTOCNode Id="d862791f-6c4a-4bd8-b04b-39c5f54407d4" Title="FNV1 Constructor " Url="html/e78ce3a6-2049-dab9-8422-68371303077c.htm">
+        <HelpTOCNode Title="FNV1 Constructor " Url="html/8f4ea991-3a9a-0978-b53b-f309113377b0.htm" />
+        <HelpTOCNode Title="FNV1 Constructor (Int32)" Url="html/71d8c465-9217-6cb1-93cd-dbd91f2f06af.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FNV1 Properties" Url="html/4f38c8ea-2476-596d-26a2-b97e48ea31aa.htm" />
+      <HelpTOCNode Id="7c4997f8-46e4-4627-82ad-ca932e25d8bc" Title="FNV1 Methods" Url="html/967b5fc5-9bd8-98e2-e1f5-3291a580b4d1.htm">
+        <HelpTOCNode Title="ProcessBytes Method " Url="html/64ba497a-cb8d-dba3-9558-b3682967f77e.htm" />
+        <HelpTOCNode Title="ProcessBytes32 Method " Url="html/7997ddf1-227b-3a8c-572e-12dc64c41d78.htm" />
+        <HelpTOCNode Title="ProcessBytes64 Method " Url="html/e7e5cb49-5653-6f33-5117-884d501e375c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c43605b5-b7ff-4dca-902c-e889347a7f18" Title="FNV1a Class" Url="html/a6d9c922-8878-55c0-12dc-ae51dadfc82d.htm">
+      <HelpTOCNode Id="cd1c58d6-e2e8-459f-960c-2712743cd82c" Title="FNV1a Constructor " Url="html/7f695da0-de55-8d84-7598-05a6e6a2ad33.htm">
+        <HelpTOCNode Title="FNV1a Constructor " Url="html/5379c796-485d-9125-134d-c346ebf66b68.htm" />
+        <HelpTOCNode Title="FNV1a Constructor (Int32)" Url="html/5e68b6cf-ca68-51a7-78b0-1fab997c3d03.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FNV1a Properties" Url="html/1a93c7dc-e6e2-f471-35ba-99eaba74fedc.htm" />
+      <HelpTOCNode Id="64ddd0bb-a35b-44d2-b78a-f7afd33b10b7" Title="FNV1a Methods" Url="html/5bfa23c8-85ae-c159-c4b3-d41708ce2c40.htm">
+        <HelpTOCNode Title="ProcessBytes Method " Url="html/3b71ffe8-5c01-57b9-886f-62b65809db56.htm" />
+        <HelpTOCNode Title="ProcessBytes32 Method " Url="html/b34768ef-4ebe-c18d-8f7f-42da6b5ab139.htm" />
+        <HelpTOCNode Title="ProcessBytes64 Method " Url="html/65bd5498-e0c9-5580-9002-8f53329b88e1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2c01d384-82aa-408d-8f1a-7b930a3fbf0d" Title="FNV1Base Class" Url="html/71dce7f3-dfa3-8084-7f77-20e12ac1f98e.htm">
+      <HelpTOCNode Id="ffbffc18-c73f-40e2-b75a-3baa3759dd19" Title="FNV1Base Constructor " Url="html/5d545fa8-6abb-9c62-4c6a-01fb7567b444.htm">
+        <HelpTOCNode Title="FNV1Base Constructor " Url="html/b90b8e67-ada4-c488-cc57-e0d194c24f3f.htm" />
+        <HelpTOCNode Title="FNV1Base Constructor (Int32)" Url="html/56806740-6c34-2710-b03a-73f97f8c8030.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5f2048a3-dce3-48eb-a54e-751862310f8c" Title="FNV1Base Properties" Url="html/06b64fc2-1209-c606-f22f-8bec66da1cc8.htm">
+        <HelpTOCNode Title="HashParameters Property " Url="html/407e4e2c-a40c-69c4-ac8c-c7e629f14bdc.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/8eb91954-71d6-8d39-cff9-b85c31ce4a00.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="25dd7d2d-c224-432a-a5b6-9cf7f7d6cbc3" Title="FNV1Base Methods" Url="html/26998592-0831-e0b4-86f4-3e2227777f4c.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/a7ed5c85-3228-ea87-9323-95d6a60eceab.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/1cb3c713-1974-3db7-b19c-e265cf2da115.htm" />
+        <HelpTOCNode Title="ProcessBytes Method " Url="html/7a5b0ab9-ebe1-c2ef-49f8-d87dc990811b.htm" />
+        <HelpTOCNode Title="ProcessBytes32 Method " Url="html/3a937ed9-61e4-f332-4f94-9f481a071adb.htm" />
+        <HelpTOCNode Title="ProcessBytes64 Method " Url="html/982f312c-ad30-5fc4-f40b-07cf8c661472.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="555fe0bd-43f0-4ebf-8fad-a0892c7b8450" Title="FNVPrimeOffset Class" Url="html/fd5b578b-84bc-a10c-c8d2-963f54524027.htm">
+      <HelpTOCNode Title="FNVPrimeOffset Constructor " Url="html/b70cd222-a5d6-bf8e-09e8-ce226af6cb4a.htm" />
+      <HelpTOCNode Id="f1b11afb-7308-4007-b99b-60455a898303" Title="FNVPrimeOffset Properties" Url="html/0d002d29-bcec-37f2-64d5-505154d4f48b.htm">
+        <HelpTOCNode Title="Offset Property " Url="html/9ade93b9-a4c7-23d0-f4d6-f9f44ad0ba12.htm" />
+        <HelpTOCNode Title="Prime Property " Url="html/b333b2c6-a901-5678-483a-89685a7315a7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FNVPrimeOffset Methods" Url="html/4437c9df-510d-13e7-9449-9d7665bd69ed.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0a51cf02-91d2-4cb2-9ecd-65bc6ef2d56c" Title="HashAlgorithmWrapper Class" Url="html/3462eb18-2468-c7e6-b652-2c1ce3fb69ad.htm">
+      <HelpTOCNode Id="edb74526-53a3-4ab2-b1a0-7e9d78565a0f" Title="HashAlgorithmWrapper Constructor " Url="html/09091755-8f22-3e1a-82e1-7ea4f5c0e495.htm">
+        <HelpTOCNode Title="HashAlgorithmWrapper Constructor (HashAlgorithm)" Url="html/4a4b70fb-9c7f-849d-5744-497ea6e17fad.htm" />
+        <HelpTOCNode Title="HashAlgorithmWrapper Constructor (HashAlgorithm, Boolean)" Url="html/19d61770-c366-54c2-999a-629909122f4b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="45bd4acd-faaa-4ce3-bdfb-ecd1bab06af1" Title="HashAlgorithmWrapper Properties" Url="html/051ea22b-2488-e444-f7c2-df7654d2ae82.htm">
+        <HelpTOCNode Title="HashSize Property " Url="html/c9e61434-17d0-7b60-5810-37e0c04497b5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="faecb0c1-8757-4784-bc3c-0b6a91f57f1e" Title="HashAlgorithmWrapper Methods" Url="html/a10bdced-e8d7-75bd-84a3-9696a051b6e7.htm">
+        <HelpTOCNode Id="f1bd6799-cfa2-4c8a-9215-728ab73785d2" Title="ComputeHash Method " Url="html/c2b5cb27-a7f8-ce08-6ee2-6e5a6262dc71.htm">
+          <HelpTOCNode Title="ComputeHash Method (Byte[])" Url="html/9a31f2f9-4df0-940b-9ce3-8e65349b4b00.htm" />
+          <HelpTOCNode Title="ComputeHash Method (Stream)" Url="html/b8d1d874-59f5-7800-f1ca-081903407625.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ff94f813-a19c-4090-99ff-65494baaa1bf" Title="Dispose Method " Url="html/bc58be96-b26e-db19-aaee-47124359bfe7.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/5f69b754-459c-0a8f-6ed0-9f110f347a5d.htm" />
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/b3def66c-6067-9e30-a78d-43b497308aac.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Finalize Method " Url="html/744ee929-2f27-0d29-58e6-8565e9dccc34.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="81adf344-374e-47b4-b670-d8f92006ae60" Title="HashAlgorithmWrapper(HashAlgorithmT) Class" Url="html/697ffc7f-8e9c-3983-a002-72fb3906af3e.htm">
+      <HelpTOCNode Title="HashAlgorithmWrapper(HashAlgorithmT) Constructor " Url="html/5adbd4c9-6f79-d9f1-65b8-35eb361519a5.htm" />
+      <HelpTOCNode Id="2feafe18-f713-4d38-9c7d-63002176a23c" Title="HashAlgorithmWrapper(HashAlgorithmT) Properties" Url="html/2fa755b2-546b-2c85-ce57-1da2792ad746.htm">
+        <HelpTOCNode Title="HashSize Property " Url="html/14082f00-b876-6ea9-74a9-6dfe5345e74c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b59d19d1-9d49-4370-8358-4d00cc69775d" Title="HashAlgorithmWrapper(HashAlgorithmT) Methods" Url="html/32f452d6-4d33-9fcb-0806-17ed07a27559.htm">
+        <HelpTOCNode Id="5dc246d4-2547-426f-a439-c218166d2cbe" Title="ComputeHash Method " Url="html/f24cdbb4-8b37-9c5d-7dac-e8634eb92398.htm">
+          <HelpTOCNode Title="ComputeHash Method (Byte[])" Url="html/21f0caee-cd63-5bc7-625c-4a4a8e405841.htm" />
+          <HelpTOCNode Title="ComputeHash Method (Stream)" Url="html/9d716a0b-4040-bbc9-f0c4-eb789db4b3e1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="42afdc39-107b-4b46-a0d0-bf32dfc2ce70" Title="Dispose Method " Url="html/dc4938f4-ba85-a6cf-a815-3ca93f7ea2cc.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/d050da4c-c8be-7e37-5f71-a07a31a65657.htm" />
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/917c3308-2e51-2b2b-326a-deeb063ba7f4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Finalize Method " Url="html/0e19656f-08f9-fd84-182c-2be5c421a444.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2311440c-8351-4a0c-afbf-6be387b59fb9" Title="HashFunctionAsyncBase Class" Url="html/7c9cf831-9825-8de2-a979-1f8ec72fc75c.htm">
+      <HelpTOCNode Title="HashFunctionAsyncBase Constructor " Url="html/24d0df13-30b9-6991-3b02-e4b9992d12e4.htm" />
+      <HelpTOCNode Title="HashFunctionAsyncBase Properties" Url="html/a48b1588-bd68-b8eb-680f-9f4162a1c7c1.htm" />
+      <HelpTOCNode Id="3290480b-9d83-4af5-89e3-2bed99ab029b" Title="HashFunctionAsyncBase Methods" Url="html/609b8d74-8e9b-fe58-09df-31fa59066353.htm">
+        <HelpTOCNode Title="ComputeHashAsync Method " Url="html/0c3800df-67db-eb4d-bf1d-10a1acff5930.htm" />
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/833742ed-0b9f-7371-5483-897f40fbc605.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="73e379ee-2a0f-49c7-bf09-4a34e9ac7581" Title="HashFunctionBase Class" Url="html/c51b5548-085e-6780-4462-b2c4a11edcd2.htm">
+      <HelpTOCNode Title="HashFunctionBase Constructor " Url="html/f3e4f5f7-5c58-43df-b31f-8751234156c5.htm" />
+      <HelpTOCNode Id="67a6b07c-1912-4420-aaba-0b052c5c0879" Title="HashFunctionBase Properties" Url="html/cf41c2ef-fac3-10e6-9f10-0b5624fbc062.htm">
+        <HelpTOCNode Title="HashSize Property " Url="html/8b128d5e-6380-6c1c-cdba-eaf4766c6019.htm" />
+        <HelpTOCNode Title="RequiresSeekableStream Property " Url="html/cac12fd7-9405-7e0d-79b0-f3772fad027a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9da16289-fced-42c9-bec3-b3c1f3fb798c" Title="HashFunctionBase Methods" Url="html/2a14ea37-356f-d00d-38dc-931cc8c5521f.htm">
+        <HelpTOCNode Id="031cdaa9-2b5f-4ae1-90e8-5bb22055f788" Title="ComputeHash Method " Url="html/66e57e8d-c1b6-f43e-43c9-fc885f879547.htm">
+          <HelpTOCNode Title="ComputeHash Method (Byte[])" Url="html/f51d9604-8592-30a7-6a30-bf963a2ad510.htm" />
+          <HelpTOCNode Title="ComputeHash Method (Stream)" Url="html/787eb446-5a08-d4ea-fde3-955fa4463198.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/0d085bd8-0169-ffe6-e5e0-a9b8512cace6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4f35799a-902c-40a0-a37c-fff06a045b39" Title="IHashFunction Interface" Url="html/649f4f78-f9ef-d51a-2ef9-06ebcec666ee.htm">
+      <HelpTOCNode Id="66403351-5449-4358-a550-296859f0ddab" Title="IHashFunction Properties" Url="html/fd54ba93-6c41-b76e-7ec1-8bb8270aeab2.htm">
+        <HelpTOCNode Title="HashSize Property " Url="html/ae31856e-4056-6ab0-1626-7d1bd89acc2d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="35055612-f275-493e-a91d-b3e675b12489" Title="IHashFunction Methods" Url="html/bdd72378-931b-c29c-9896-03ccff305ef7.htm">
+        <HelpTOCNode Id="97d47462-8572-45f1-a5da-4cfbf2576a45" Title="ComputeHash Method " Url="html/c55a2832-13c2-a8db-fce7-b0e54d082610.htm">
+          <HelpTOCNode Title="ComputeHash Method (Byte[])" Url="html/c4b31dc8-c535-2176-5587-b620243c2099.htm" />
+          <HelpTOCNode Title="ComputeHash Method (Stream)" Url="html/741a82dd-987a-e599-50f0-f83c0990416d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="470ecfd2-ad77-4bcd-bc61-acbca73309df" Title="IHashFunction_Extensions Class" Url="html/e3f59a5e-9bd7-eec6-8082-dba067daabae.htm">
+      <HelpTOCNode Id="0ba241a3-4003-4cc1-9dbe-af35e40de9fa" Title="IHashFunction_Extensions Methods" Url="html/7a6d78ad-121e-6332-0570-fd592481e18c.htm">
+        <HelpTOCNode Id="ae6f789c-1f4a-43c8-96f9-fe17b0b87e01" Title="ComputeHash Method " Url="html/6553da8c-2d1f-262b-9c46-1f22273a2abc.htm">
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Boolean)" Url="html/5287921d-d0fe-9c4e-6eb4-7dcdaea938fd.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Byte)" Url="html/642b937f-a753-d666-0b3e-0d6ebfe8105e.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Char)" Url="html/82287b01-6186-6097-332a-9634ac6dd7c4.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Double)" Url="html/b946bfa0-3adc-4e70-81d6-e5d111030ae0.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Int16)" Url="html/6346a17b-87fd-9701-de07-4f5a8ae5bf31.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Int32)" Url="html/b878f288-dd16-6dc7-0fa5-6fe6eec45d95.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Int64)" Url="html/be626718-fba6-8f95-cce3-3ee89d8b08c6.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, SByte)" Url="html/41fdc3fd-a39a-8e87-0d00-6aab78517f43.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Single)" Url="html/d5d265c8-6ab8-297c-bba7-299630c0e70f.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, String)" Url="html/b132fae8-951b-3a42-66df-a453f06a9052.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, UInt16)" Url="html/7340458d-15d6-7039-b6b5-2888ebff9eb6.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, UInt32)" Url="html/6cf8b532-f9c6-a766-153d-7b3cf31057c8.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, UInt64)" Url="html/fd1cbbdf-1517-e2f8-73b9-6b3afb64cfdf.htm" />
+          <HelpTOCNode Title="ComputeHash(ModelT) Method (IHashFunction, ModelT)" Url="html/b214261a-6555-484c-77c8-599f2fb47dff.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Boolean, Int32)" Url="html/982e9117-be3d-5650-a1cc-8468816fc8e9.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Byte, Int32)" Url="html/433dd412-ddca-d6ae-a5d0-97c828b79bac.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Byte[], Int32)" Url="html/f8da4389-defe-d7dc-5000-5abb9af0ce12.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Char, Int32)" Url="html/f31290d0-df19-3a60-68a2-d13771f5c727.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Double, Int32)" Url="html/34651ab9-be08-2691-cd84-396d7b245215.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Int16, Int32)" Url="html/cf097034-e1c2-eb67-17f0-e1fa176ec005.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Int32, Int32)" Url="html/ddfcd45e-a50e-f204-93f5-3d667d8c3d31.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Int64, Int32)" Url="html/4a820880-b455-09fb-b6f9-e7b86d758e35.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, SByte, Int32)" Url="html/ce0945dc-f991-b1db-3865-839785752cfb.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, Single, Int32)" Url="html/b6f0e6c3-5362-4e88-cfad-08e827a48260.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, String, Int32)" Url="html/fc143de6-4b73-8ff9-064e-902a5fdc3536.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, UInt16, Int32)" Url="html/52eb42fe-77d2-caa7-8b01-2ac8b2c02b73.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, UInt32, Int32)" Url="html/30a5a60f-1071-573d-cb6e-43a686b9005f.htm" />
+          <HelpTOCNode Title="ComputeHash Method (IHashFunction, UInt64, Int32)" Url="html/e4005259-38e9-b2e4-7975-827e6ff73305.htm" />
+          <HelpTOCNode Title="ComputeHash(ModelT) Method (IHashFunction, ModelT, Int32)" Url="html/4b1269e3-306e-538d-63b4-220b80f543ad.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="826717ae-6694-4642-945c-cbe4a576460b" Title="IHashFunctionAsync Interface" Url="html/00707ed8-b8a2-9d19-2ed5-a217ac07575e.htm">
+      <HelpTOCNode Title="IHashFunctionAsync Properties" Url="html/f0985018-b69b-9303-2a75-29bed5666068.htm" />
+      <HelpTOCNode Id="36bed13c-4b6b-47a7-a50c-28dc4b74ca2c" Title="IHashFunctionAsync Methods" Url="html/b0484923-d106-acac-4383-23bbcdc4be77.htm">
+        <HelpTOCNode Title="ComputeHashAsync Method " Url="html/4c8142d1-8f32-9f0b-bbb1-3770bc6d1242.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb259862-ff32-4b65-9ec9-4e808df65305" Title="JenkinsLookup2 Class" Url="html/5d3d5484-5d2c-6d6a-67d2-ef216fc5d6b5.htm">
+      <HelpTOCNode Id="3b36f9ec-9ce3-484c-adfe-8f214720f885" Title="JenkinsLookup2 Constructor " Url="html/e1c6767a-de02-5396-9d60-16326ab9dafe.htm">
+        <HelpTOCNode Title="JenkinsLookup2 Constructor " Url="html/b8fe7cd2-abeb-39ac-83d0-369c6d65c48c.htm" />
+        <HelpTOCNode Title="JenkinsLookup2 Constructor (UInt32)" Url="html/4e05f055-a2e3-7626-aa25-1cb025dc513e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6778ee9c-b663-41c0-9aee-345c698911a7" Title="JenkinsLookup2 Properties" Url="html/12ddcc40-389a-99b2-b451-57500a88c03b.htm">
+        <HelpTOCNode Title="InitVal Property " Url="html/28729c9d-edaa-040f-d0b4-2ec231f65a53.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3cb79f7f-1275-40e8-9a0f-ba0b614e80f5" Title="JenkinsLookup2 Methods" Url="html/5d949181-091b-1bf2-4ddf-2ac2e6a1267a.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/9689ddc8-c1a1-c152-fe9b-20db8b767e05.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/f6ebdf13-61be-c0a6-6e45-0116fcbd9361.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f96ee04f-cc61-4ace-ab06-63d3bc10af02" Title="JenkinsLookup3 Class" Url="html/171d78df-7a95-5979-03ab-995bbdd8466c.htm">
+      <HelpTOCNode Id="b40dfbd3-3a56-488e-b8c7-b65e7c049edd" Title="JenkinsLookup3 Constructor " Url="html/2baa5b84-bf22-e78e-8cea-b80450d735e3.htm">
+        <HelpTOCNode Title="JenkinsLookup3 Constructor " Url="html/6ac0cd98-a0c7-6afc-ff3a-9d757625fb37.htm" />
+        <HelpTOCNode Title="JenkinsLookup3 Constructor (Int32)" Url="html/a2d911d0-b9e1-3b92-64ac-2641cd23ac11.htm" />
+        <HelpTOCNode Title="JenkinsLookup3 Constructor (UInt32)" Url="html/36b93af6-b89d-396d-329d-4c42c0af9be8.htm" />
+        <HelpTOCNode Title="JenkinsLookup3 Constructor (Int32, UInt32)" Url="html/4eade4e5-59d1-8489-3f37-03eb86aa38da.htm" />
+        <HelpTOCNode Title="JenkinsLookup3 Constructor (UInt32, UInt32)" Url="html/4896869b-1377-380d-06cf-eb3f78fdeffe.htm" />
+        <HelpTOCNode Title="JenkinsLookup3 Constructor (Int32, UInt32, UInt32)" Url="html/820305da-f17a-05da-2086-522bc258155c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d14c3e4a-e672-4c31-b6ec-1f4012a8563f" Title="JenkinsLookup3 Properties" Url="html/4c749196-8d73-c73e-76a6-7a7815770186.htm">
+        <HelpTOCNode Title="InitVal1 Property " Url="html/6db495f7-50a9-e087-1ee9-d27d45986ad2.htm" />
+        <HelpTOCNode Title="InitVal2 Property " Url="html/a39058a0-51e4-a741-e418-b9287ae73bba.htm" />
+        <HelpTOCNode Title="RequiresSeekableStream Property " Url="html/bdcd66a3-0ca4-a558-3b69-552858ee5430.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/23c7f5e7-4bb5-e706-59df-fa135e3902ad.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="19298e79-7649-40f0-ab44-a2878976378e" Title="JenkinsLookup3 Methods" Url="html/8ce40b0b-891f-0064-2dbf-50ac8e140584.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/5a833c4b-4d4a-c081-de7d-f6b43e021221.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/8eb329e6-15d4-f816-6b44-2bb43b1a9be1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e5ad0156-63d0-4b33-b0d5-1e189bca053e" Title="JenkinsOneAtATime Class" Url="html/91ac99bd-fd9a-4985-ba1b-96c934ecf2af.htm">
+      <HelpTOCNode Title="JenkinsOneAtATime Constructor " Url="html/7a49af6c-00b4-d823-6de5-a20e127c8220.htm" />
+      <HelpTOCNode Title="JenkinsOneAtATime Properties" Url="html/40d57807-9d74-c96a-a197-f11aa266e7b7.htm" />
+      <HelpTOCNode Id="ffba9455-5ff8-4ee5-ad00-3fe552d2961f" Title="JenkinsOneAtATime Methods" Url="html/117aaf81-f032-57d3-6398-fee930dec8e3.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/6c49783f-da0a-d1a6-9350-ee62d2fdbb6e.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/51cf5910-d654-8a95-5dd4-4323c280e373.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="05daaf21-dfbc-45dc-837c-00425747b241" Title="ModifiedBernsteinHash Class" Url="html/fa307a54-96e1-b2db-c560-1efafc8f6036.htm">
+      <HelpTOCNode Title="ModifiedBernsteinHash Constructor " Url="html/ddb457af-ac00-6fc6-100f-68f5563423a2.htm" />
+      <HelpTOCNode Title="ModifiedBernsteinHash Properties" Url="html/acc2b517-b559-e513-21ee-2c9400b55c71.htm" />
+      <HelpTOCNode Id="6c5d06b1-e22f-4185-a649-3ce753328dc2" Title="ModifiedBernsteinHash Methods" Url="html/e3d96ac8-361e-9cce-800c-ee01d191438d.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/8d7bc45f-672b-6aa9-011b-175d2104e341.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/3ce44d37-c014-9822-e884-77aa598f7fa2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="556d8bdc-ce71-4762-8e2a-6c0dfe590a40" Title="MurmurHash1 Class" Url="html/88ac587f-f14e-14de-a769-1963147973b8.htm">
+      <HelpTOCNode Id="d5bfcc75-e04d-44d6-a3b0-e0654a5e59e4" Title="MurmurHash1 Constructor " Url="html/31fb49c2-d307-0cb8-cfa5-4dbb6ff6b864.htm">
+        <HelpTOCNode Title="MurmurHash1 Constructor " Url="html/c5bfd710-48a5-da70-6a3f-489eb80b4ad9.htm" />
+        <HelpTOCNode Title="MurmurHash1 Constructor (UInt32)" Url="html/e6168670-41af-6e06-901e-b7312884ac9d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c9ac0645-81c5-476c-a707-0bc51062ebf2" Title="MurmurHash1 Properties" Url="html/28c585af-1865-e6d3-e4b0-636ab0c84079.htm">
+        <HelpTOCNode Title="RequiresSeekableStream Property " Url="html/ca20d156-59fe-adfa-4f59-1f7e2590287b.htm" />
+        <HelpTOCNode Title="Seed Property " Url="html/197ffb14-2f04-2173-9b4e-9103a5311a18.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7291f7fd-dca2-4af7-8404-520f70cef7db" Title="MurmurHash1 Methods" Url="html/b52f555a-ba56-77c1-3119-63966fbe8c8c.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/4ba93d93-445d-8e2a-685b-208f7566aeb0.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/c96a0301-0d1f-d72b-1ce3-13cc1105e756.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="62718ac9-b2cf-41dc-a650-6aed492dffb3" Title="MurmurHash1 Fields" Url="html/c133eb39-a2c5-90e7-c11d-3e563ae992c7.htm">
+        <HelpTOCNode Title="m Field" Url="html/5c0658e0-9619-936c-5532-fe2cd5ba0c7f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="29618478-1103-4f94-a8e2-5bfb93cba952" Title="MurmurHash2 Class" Url="html/a18cf018-0e9a-5fe8-3d3a-730d8f880b6b.htm">
+      <HelpTOCNode Id="b1097bba-8c73-4c66-b0d0-33df9511813c" Title="MurmurHash2 Constructor " Url="html/2eb39f17-3818-dada-10c4-7fdbb065ea08.htm">
+        <HelpTOCNode Title="MurmurHash2 Constructor " Url="html/32857f71-12ca-543c-84ce-9e679b39375b.htm" />
+        <HelpTOCNode Title="MurmurHash2 Constructor (Int32)" Url="html/61f27e18-534d-6bfa-4dd4-534f3e667d33.htm" />
+        <HelpTOCNode Title="MurmurHash2 Constructor (UInt64)" Url="html/7fcfa31e-ec19-2917-1e87-12589ca8cb35.htm" />
+        <HelpTOCNode Title="MurmurHash2 Constructor (Int32, UInt64)" Url="html/8b7e7ea1-5fbb-0827-d44c-8da02c634939.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3bde00dd-a2ae-43b7-ba1b-89a9a074325e" Title="MurmurHash2 Properties" Url="html/b00dd65d-86a6-ef23-0f75-503cd8840fb8.htm">
+        <HelpTOCNode Title="RequiresSeekableStream Property " Url="html/2e09cc91-1319-ae76-beb9-4a9d42a29685.htm" />
+        <HelpTOCNode Title="Seed Property " Url="html/49477492-ead9-c7f9-0281-b664943d9164.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/f1431fa0-a9b6-e3a4-07bc-2da3ed0a22e7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3b744cbc-6ed0-4747-bebf-16dde1036fe5" Title="MurmurHash2 Methods" Url="html/64405f5b-2d30-6948-fe83-44a58ed0524f.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/1f21f3db-9287-4b0c-ece7-cc6dbd1d756a.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/2fe0c87b-fc8b-501e-213c-b58e4fff197d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6eb87dd5-9eb2-4e8e-b9f6-6d63c938fe9e" Title="MurmurHash2 Fields" Url="html/8377ae25-5445-71a9-f2de-bba8fb9fdd5e.htm">
+        <HelpTOCNode Title="MixConstant Field" Url="html/e7cad9db-0a4b-0057-5dcf-cd0402fc97df.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5d836cc9-eb4d-4ec6-a06d-d8b9cedceeb2" Title="MurmurHash3 Class" Url="html/e5637093-edca-76ab-aaf3-290a48b1afee.htm">
+      <HelpTOCNode Id="6ad69722-69d8-4ff7-a7c9-65006f97ffe6" Title="MurmurHash3 Constructor " Url="html/733a86de-f6c5-644c-1707-6e8ef5646433.htm">
+        <HelpTOCNode Title="MurmurHash3 Constructor " Url="html/9074a00f-6c1a-18b2-96a8-2ac3c16cf1d8.htm" />
+        <HelpTOCNode Title="MurmurHash3 Constructor (Int32)" Url="html/7caeb68a-2582-07bf-d5e7-57c23bcef784.htm" />
+        <HelpTOCNode Title="MurmurHash3 Constructor (UInt32)" Url="html/5d2687a6-5238-c397-1320-1467d09f0741.htm" />
+        <HelpTOCNode Title="MurmurHash3 Constructor (Int32, UInt32)" Url="html/9721b044-babc-1b79-6bb2-555cb4ad8285.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ea021aa5-9462-4c06-bc03-6e1e574cb3b9" Title="MurmurHash3 Properties" Url="html/52fab2d7-0d39-9122-8cb9-6f21b40a1560.htm">
+        <HelpTOCNode Title="Seed Property " Url="html/a793c214-2bb7-ffe8-70d7-ec836bb034a8.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/be9a9c9f-ce10-42b6-b033-30b5dec2c2b9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="efef7571-4261-486e-b4c2-3ebb70fcc040" Title="MurmurHash3 Methods" Url="html/2ea3237e-aaac-4cf1-5d02-833d0ff73421.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/3ed71dfa-989f-d082-913d-a04b7a799ca5.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/bc6e14e2-39d2-9f7b-078e-33ba4dfa34aa.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0058561f-3e62-4b2f-81ea-e27262b92779" Title="MurmurHash3 Fields" Url="html/ce1731cf-b847-3ab8-d99e-d23b0cfdca7b.htm">
+        <HelpTOCNode Title="c1_128 Field" Url="html/6b68be26-10be-407d-36f8-86a0770947c2.htm" />
+        <HelpTOCNode Title="c1_32 Field" Url="html/02419c8f-a8b0-d6bf-2663-8ffc4701b6b8.htm" />
+        <HelpTOCNode Title="c2_128 Field" Url="html/3e079ccd-e155-be7b-4f34-62dade18d6d3.htm" />
+        <HelpTOCNode Title="c2_32 Field" Url="html/3152fd3c-e532-7e5c-45d2-022029237a99.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce7876fe-b1a6-4ee9-a5b9-6b71cc9dde74" Title="PearsonBase Class" Url="html/701f6a11-72e0-dd39-76a9-b4ee9ee82988.htm">
+      <HelpTOCNode Id="08bdd664-2aa7-41be-8d60-04141560f9df" Title="PearsonBase Constructor " Url="html/e0688f8f-6f38-0a62-c8bb-030bd9c3328f.htm">
+        <HelpTOCNode Title="PearsonBase Constructor (IReadOnlyList(Byte))" Url="html/c842dc37-5765-6eb6-bbfb-6e3c309ac523.htm" />
+        <HelpTOCNode Title="PearsonBase Constructor (IReadOnlyList(Byte), Int32)" Url="html/11d86acb-f3ab-d484-5df3-fdaae05fd1b7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d50eb70d-4f11-4a56-8cf4-07967ca4057b" Title="PearsonBase Properties" Url="html/85e3baa9-708c-32b0-1429-3e8a5a18e011.htm">
+        <HelpTOCNode Title="T Property " Url="html/7a047041-4d51-f49c-48f3-7845e8e8a4e5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8aaa5d4-5a81-42c6-843a-3a94acc77ebc" Title="PearsonBase Methods" Url="html/b1e418e9-d0ab-588c-8c05-8771fbbc38fe.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/78d36ccf-0b7d-25d4-83cf-4a51c582e698.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/edcf348e-4bbb-b4d1-cceb-f8678abe8617.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="867d4850-0455-4ff6-83f0-9a3f0be13fc7" Title="SpookyHashV1 Class" Url="html/ed120437-c328-c929-0fb5-0d6d0ca654b0.htm">
+      <HelpTOCNode Id="3b60765d-f9d6-42c7-9a7a-666cc67f00b6" Title="SpookyHashV1 Constructor " Url="html/644e0b7c-cd88-decd-198c-99c6c0897f97.htm">
+        <HelpTOCNode Title="SpookyHashV1 Constructor " Url="html/4887fbfd-f462-9f97-82f6-1b0b066cd419.htm" />
+        <HelpTOCNode Title="SpookyHashV1 Constructor (Int32)" Url="html/22f2e7c4-42a0-2d17-ee54-dc84a2f176a1.htm" />
+        <HelpTOCNode Title="SpookyHashV1 Constructor (UInt64)" Url="html/6d0881d5-36b5-c32b-baef-8d1dff894a81.htm" />
+        <HelpTOCNode Title="SpookyHashV1 Constructor (Int32, UInt64)" Url="html/89e39559-c285-8a4e-2890-39473740fdf4.htm" />
+        <HelpTOCNode Title="SpookyHashV1 Constructor (UInt64, UInt64)" Url="html/f4053fc9-01c4-cd08-cf92-0f8a93934226.htm" />
+        <HelpTOCNode Title="SpookyHashV1 Constructor (Int32, UInt64, UInt64)" Url="html/fee1923a-0744-e6af-5cd7-065a35c26fd7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f8248c80-743f-4600-ba1b-8fd298e5b1b3" Title="SpookyHashV1 Properties" Url="html/9ad550fd-96ea-fffd-a4a6-8a877e561b62.htm">
+        <HelpTOCNode Title="InitVal1 Property " Url="html/d74e8eca-5dee-5785-36d8-20125aeba066.htm" />
+        <HelpTOCNode Title="InitVal2 Property " Url="html/0eebdbe8-0dcb-0801-8e59-967c1f1ee1d1.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/2d77bc72-d711-02c5-9336-1186268ccbf2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d5bace1e-fb10-4933-b256-a1b1674f470b" Title="SpookyHashV1 Methods" Url="html/fd6b117e-06d0-8296-8fe8-d1e93949bda1.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/d7be28a2-ae1f-3e51-305b-4e40091f71e7.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/80ea98b9-8e15-2e1f-2fee-d9b992b9c869.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab02c0af-3901-4f4c-bb98-7765a9e31c1e" Title="SpookyHashV2 Class" Url="html/47cdeac4-c5b9-6d94-0664-3be9276e37ce.htm">
+      <HelpTOCNode Id="be426e4b-de6c-4024-8ec4-b9bf09158de2" Title="SpookyHashV2 Constructor " Url="html/89bce26b-948b-2735-8e40-a612943a12ab.htm">
+        <HelpTOCNode Title="SpookyHashV2 Constructor " Url="html/490500b0-a133-ee52-9915-e55cd54590ca.htm" />
+        <HelpTOCNode Title="SpookyHashV2 Constructor (Int32)" Url="html/cfa8e682-60ea-e1c9-d7ca-0388d8d28182.htm" />
+        <HelpTOCNode Title="SpookyHashV2 Constructor (UInt64)" Url="html/fb91fbdc-2d7e-18c1-e677-39884dc58111.htm" />
+        <HelpTOCNode Title="SpookyHashV2 Constructor (Int32, UInt64)" Url="html/a09f617b-a823-4a6b-b7f6-f41dbcca2090.htm" />
+        <HelpTOCNode Title="SpookyHashV2 Constructor (UInt64, UInt64)" Url="html/7451a1de-3d74-2736-be4b-4e6bbd5bb58a.htm" />
+        <HelpTOCNode Title="SpookyHashV2 Constructor (Int32, UInt64, UInt64)" Url="html/6e3cc0ae-99a8-6ab9-0331-f1b0d2f2ae11.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="274b9dce-6144-48d5-bb48-bc445f82c2c2" Title="SpookyHashV2 Properties" Url="html/77c5433f-14b0-66fe-d620-8bb2f2df75b3.htm">
+        <HelpTOCNode Title="InitVal1 Property " Url="html/67e81f64-fb8e-16ec-6e7a-4461d30d065f.htm" />
+        <HelpTOCNode Title="InitVal2 Property " Url="html/68d1e9b1-5570-b145-3f4f-ca15e3b0e122.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/7fd0b4af-8898-0bf9-aeda-21a5b5f758fa.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="47052f89-4b9c-4c2c-bf7d-8f047fbbf93a" Title="SpookyHashV2 Methods" Url="html/d8a259d7-27e1-9a3d-a2ab-3bb8a4c21860.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/4d26ff1e-4829-21ed-b549-53c5e88c889b.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/c6fcf208-554d-3823-42e4-0bcd77626f62.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5da6fe0f-92e0-48fb-a8e3-f838cbcd87e1" Title="WikipediaPearson Class" Url="html/9bb2dd0b-ca01-198a-0bef-f18d6844480e.htm">
+      <HelpTOCNode Id="96a26ba5-7cb1-4711-9690-88c5c7e98b60" Title="WikipediaPearson Constructor " Url="html/4ca42a35-fe2a-5c89-ba21-1fbd3318d013.htm">
+        <HelpTOCNode Title="WikipediaPearson Constructor " Url="html/9a1b9c50-1882-808c-a338-ceda9095436f.htm" />
+        <HelpTOCNode Title="WikipediaPearson Constructor (Int32)" Url="html/40134990-eb5b-3bb3-eaf9-ba9a1a924ddf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="WikipediaPearson Properties" Url="html/7a7f951b-fcfb-6c8c-89b4-ba45f20984fd.htm" />
+      <HelpTOCNode Title="WikipediaPearson Methods" Url="html/cf65e825-abb5-3489-ef9a-bb17946d88fb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="94a23b84-a01b-4087-9ddd-2f350fc7a86e" Title="xxHash Class" Url="html/6d100191-40a6-ed68-cd09-0d8690cd4a31.htm">
+      <HelpTOCNode Id="b510fcc1-7b89-4033-8367-94635c6e7cb3" Title="xxHash Constructor " Url="html/522750f2-31b8-d67a-7960-6d6e1bf7a90e.htm">
+        <HelpTOCNode Title="xxHash Constructor " Url="html/722859d7-c406-27b8-d923-643d24b6a428.htm" />
+        <HelpTOCNode Title="xxHash Constructor (Int32)" Url="html/f22c99f4-0ded-382a-9ecd-e2c41b94ea52.htm" />
+        <HelpTOCNode Title="xxHash Constructor (UInt64)" Url="html/6ad543ff-5483-eb31-76b7-c40696f6704a.htm" />
+        <HelpTOCNode Title="xxHash Constructor (Int32, UInt64)" Url="html/33250357-1d48-7920-6b3e-9fe84f8bc20a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8245f151-4d07-4a2c-bf2a-7261ced5eadb" Title="xxHash Properties" Url="html/71e0a14f-223d-d599-0bf3-e25233d503e2.htm">
+        <HelpTOCNode Title="InitVal Property " Url="html/35174f80-04f6-ec43-a1df-0c57b4f5003d.htm" />
+        <HelpTOCNode Title="ValidHashSizes Property " Url="html/dab6fd70-740f-14f6-e97d-032c42d55fbf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6cacc97b-e8c6-4873-89c6-d4f4f9dbc201" Title="xxHash Methods" Url="html/6edd9a0c-2001-4df9-502c-105ebcd7f771.htm">
+        <HelpTOCNode Title="ComputeHashAsyncInternal Method " Url="html/793bbf2d-e56c-f15e-01ee-064a0739b29f.htm" />
+        <HelpTOCNode Title="ComputeHashInternal Method " Url="html/f4d84318-d3f9-04c5-098b-da7e8e49e699.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d1b20929-096a-4872-96f5-1159212bd292" Title="System.Data.HashFunction.CRCStandards" Url="html/df41edc9-457b-f483-6d0e-bdd71a013118.htm">
+    <HelpTOCNode Id="1e289df3-079f-424f-ae2f-acc339f95f27" Title="ARC Class" Url="html/d07c26ef-4acf-5095-798c-e5541ba9cbb1.htm">
+      <HelpTOCNode Title="ARC Constructor " Url="html/28de6f5d-2e26-70bd-d8d2-068c8b60cae5.htm" />
+      <HelpTOCNode Title="ARC Properties" Url="html/c85631db-7a48-4424-bc97-3fe0ee1fc87d.htm" />
+      <HelpTOCNode Title="ARC Methods" Url="html/55f2eebe-efd9-8380-451e-fb770042fc01.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c6087933-daee-43cf-8fda-043b61172b6d" Title="CRC10 Class" Url="html/2f96a729-7ec0-e8be-cbbd-62c455286fbc.htm">
+      <HelpTOCNode Title="CRC10 Constructor " Url="html/8e1fdc01-1b1d-eb17-ca6b-0b58467b0a62.htm" />
+      <HelpTOCNode Title="CRC10 Properties" Url="html/6077a94e-78ae-6ee5-00e9-e739c8f65222.htm" />
+      <HelpTOCNode Title="CRC10 Methods" Url="html/6aac8001-680b-56ee-646b-095bc153a9cb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="53d84564-0fe5-4915-8168-7993621a4845" Title="CRC10_CDMA2000 Class" Url="html/7448664c-cdde-55e3-73c0-e3d8f6f8761d.htm">
+      <HelpTOCNode Title="CRC10_CDMA2000 Constructor " Url="html/e3439294-5395-7401-2f2c-d5f1b85906f4.htm" />
+      <HelpTOCNode Title="CRC10_CDMA2000 Properties" Url="html/2a0154a6-4f51-2a93-314e-875a00a1ce5e.htm" />
+      <HelpTOCNode Title="CRC10_CDMA2000 Methods" Url="html/338f504b-7998-b2cd-44ae-a8d7eb46a5dc.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="878b2fc8-263f-4073-a68a-ad7fe068fbc2" Title="CRC11 Class" Url="html/16aadaac-af12-d287-d2e4-9fdec7203587.htm">
+      <HelpTOCNode Title="CRC11 Constructor " Url="html/0e36c48e-9752-94da-084e-e583b051daec.htm" />
+      <HelpTOCNode Title="CRC11 Properties" Url="html/6ddaf8ff-4bd9-6818-4cf1-b3e628ed8ebe.htm" />
+      <HelpTOCNode Title="CRC11 Methods" Url="html/b6cedfde-8969-0bcf-54a7-28612fb7f739.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6269e6f5-a4e3-4c70-aaef-d07b8c14c499" Title="CRC12_3GPP Class" Url="html/b17d0ad0-94f4-b593-6045-b42dd115a87d.htm">
+      <HelpTOCNode Title="CRC12_3GPP Constructor " Url="html/76be2424-539f-83e3-0de3-a1b288571eda.htm" />
+      <HelpTOCNode Title="CRC12_3GPP Properties" Url="html/f1b5bb0d-886e-96a5-b13e-b20fea3daa24.htm" />
+      <HelpTOCNode Title="CRC12_3GPP Methods" Url="html/341bda36-cc2c-adce-871b-8b1f53466964.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a6dc5217-a595-433d-92fa-82a1863d1c02" Title="CRC12_CDMA2000 Class" Url="html/21bd8007-b6f9-d3a0-aa27-8158c9c260eb.htm">
+      <HelpTOCNode Title="CRC12_CDMA2000 Constructor " Url="html/ea9eba00-074b-cc1e-85a7-f8c50cc830de.htm" />
+      <HelpTOCNode Title="CRC12_CDMA2000 Properties" Url="html/31c233ea-df47-2381-65e8-8925fb40b156.htm" />
+      <HelpTOCNode Title="CRC12_CDMA2000 Methods" Url="html/d59873f5-42a4-411b-40e1-e55572f9abcb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d26feaeb-564a-44c3-a829-8861a54f26e0" Title="CRC12_DECT Class" Url="html/4ca09bfe-5ab8-5d41-f5eb-5026d1dde0cd.htm">
+      <HelpTOCNode Title="CRC12_DECT Constructor " Url="html/6068d0ef-1e6d-0884-63dc-8415373a2943.htm" />
+      <HelpTOCNode Title="CRC12_DECT Properties" Url="html/d921f224-903a-ddc2-f69d-4edcbd2b2734.htm" />
+      <HelpTOCNode Title="CRC12_DECT Methods" Url="html/eb1c2a14-39df-b32a-9081-9511a67f8a44.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f6d7cc28-7aa6-41a6-811e-c06655984f9a" Title="CRC13_BBC Class" Url="html/fed9839d-5de1-2d61-d925-b52914f2b830.htm">
+      <HelpTOCNode Title="CRC13_BBC Constructor " Url="html/05ad1228-a720-49da-92a4-4395145cc670.htm" />
+      <HelpTOCNode Title="CRC13_BBC Properties" Url="html/212993ef-354a-6b22-ab34-9284199eea57.htm" />
+      <HelpTOCNode Title="CRC13_BBC Methods" Url="html/35e8df15-1f1c-b387-fdd9-8e7d0e4d98f2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="bc1d0aa1-024d-447f-bf00-20092fa35792" Title="CRC14_DARC Class" Url="html/86132914-fbfc-e800-2af1-3ad9e913e45c.htm">
+      <HelpTOCNode Title="CRC14_DARC Constructor " Url="html/462e1f66-cc16-186e-4415-754c6d54b72d.htm" />
+      <HelpTOCNode Title="CRC14_DARC Properties" Url="html/4d5fea45-630a-cc1e-9a60-ac1387938dfd.htm" />
+      <HelpTOCNode Title="CRC14_DARC Methods" Url="html/8fd5bab5-d8fb-c870-1a26-b31f9a94dbef.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7ee6b588-6798-49f5-b95b-6617c01db40c" Title="CRC15 Class" Url="html/01cb40d2-5127-8d36-439f-6bd2034c391b.htm">
+      <HelpTOCNode Title="CRC15 Constructor " Url="html/81cd5186-0c74-053a-5b26-b4edf89ef496.htm" />
+      <HelpTOCNode Title="CRC15 Properties" Url="html/a5d36adb-3411-8f26-d621-be2f8ce7f3bb.htm" />
+      <HelpTOCNode Title="CRC15 Methods" Url="html/f8a7a02b-6794-43fa-3fbc-18c6ac2328b9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="876d727d-4e00-411c-86ff-4ae0acf4be6f" Title="CRC15_MPT1327 Class" Url="html/5c202016-ac0b-d9b1-e634-01e5e36fa95b.htm">
+      <HelpTOCNode Title="CRC15_MPT1327 Constructor " Url="html/ee1084ab-561d-b622-225a-cf9685aa83a5.htm" />
+      <HelpTOCNode Title="CRC15_MPT1327 Properties" Url="html/a25ee77d-82e4-0dde-ecc1-416727993cd9.htm" />
+      <HelpTOCNode Title="CRC15_MPT1327 Methods" Url="html/29e25e69-2dd1-0862-56d2-d31968e6721d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="27eb983c-b273-422f-b872-36cb32e41af3" Title="CRC16_AUGCCITT Class" Url="html/eee4b241-2936-8880-5e77-4676870d7fc4.htm">
+      <HelpTOCNode Title="CRC16_AUGCCITT Constructor " Url="html/1683c56b-3bb9-d0d6-ab90-73a77a289b98.htm" />
+      <HelpTOCNode Title="CRC16_AUGCCITT Properties" Url="html/4373198b-6f9b-d95d-535b-d75532c3a940.htm" />
+      <HelpTOCNode Title="CRC16_AUGCCITT Methods" Url="html/a737bdb1-7c9b-3172-37ba-234c17774e25.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="249e8677-8548-4bc0-815b-25470097ffe0" Title="CRC16_BUYPASS Class" Url="html/3916386f-a713-58b3-6328-79533874b220.htm">
+      <HelpTOCNode Title="CRC16_BUYPASS Constructor " Url="html/a7766e21-7430-92be-6711-9f25c046dfe4.htm" />
+      <HelpTOCNode Title="CRC16_BUYPASS Properties" Url="html/2d515b35-baed-fd48-a9b3-aa12fe127cc1.htm" />
+      <HelpTOCNode Title="CRC16_BUYPASS Methods" Url="html/5f261c99-58b1-11c5-a19a-17c8a70cf8df.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f1434f54-6970-490c-a9e9-bf94b72853ab" Title="CRC16_CCITTFALSE Class" Url="html/a5802c7b-4dd1-882f-1719-88722969d766.htm">
+      <HelpTOCNode Title="CRC16_CCITTFALSE Constructor " Url="html/45e3a584-8f66-2730-0e2e-d947627b54df.htm" />
+      <HelpTOCNode Title="CRC16_CCITTFALSE Properties" Url="html/be772a53-275b-182f-6d96-9e7629c583e2.htm" />
+      <HelpTOCNode Title="CRC16_CCITTFALSE Methods" Url="html/8dc9356e-bead-8bd1-e00e-f77b08acf62a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="dae209e5-e100-4181-bc46-d36f521033bb" Title="CRC16_CDMA2000 Class" Url="html/aaf535fa-a034-3e56-9a6c-f375bd863c60.htm">
+      <HelpTOCNode Title="CRC16_CDMA2000 Constructor " Url="html/114d10ad-e638-c4d3-0409-0bd5f91a25d1.htm" />
+      <HelpTOCNode Title="CRC16_CDMA2000 Properties" Url="html/4ec3c426-c963-a7da-bef9-64ebed71141c.htm" />
+      <HelpTOCNode Title="CRC16_CDMA2000 Methods" Url="html/a153ce19-2b2f-dd48-2881-23e04d8bbd9c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b1270546-be34-4e01-98f9-b7d96131454a" Title="CRC16_DDS110 Class" Url="html/77948150-44c5-0048-be31-5fb0d5d45487.htm">
+      <HelpTOCNode Title="CRC16_DDS110 Constructor " Url="html/a6fffee3-99e7-76f2-3c68-db90fe12eae2.htm" />
+      <HelpTOCNode Title="CRC16_DDS110 Properties" Url="html/59f7d4c6-681e-f47a-7a21-7bf227dec376.htm" />
+      <HelpTOCNode Title="CRC16_DDS110 Methods" Url="html/c8128303-bd5c-0c9f-04c9-73538bb7b956.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7a927bed-f6ee-48c7-87c9-973ee4ddda39" Title="CRC16_DECTR Class" Url="html/3637a1fd-5e55-bf0b-ac99-51e6423900d6.htm">
+      <HelpTOCNode Title="CRC16_DECTR Constructor " Url="html/2b6eea2a-6b46-324f-a1fe-48c169261ad7.htm" />
+      <HelpTOCNode Title="CRC16_DECTR Properties" Url="html/9fc7af27-17e4-74c6-bdaa-5f27889e68a5.htm" />
+      <HelpTOCNode Title="CRC16_DECTR Methods" Url="html/fa27e57b-0219-cd92-354e-04707b720e07.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="577d4be7-2e1b-4d48-9100-1f1c300aa040" Title="CRC16_DECTX Class" Url="html/4385e60f-01f3-9d23-db06-092b7f046803.htm">
+      <HelpTOCNode Title="CRC16_DECTX Constructor " Url="html/9dbe7b8a-b3c0-8040-6913-07939cf548dc.htm" />
+      <HelpTOCNode Title="CRC16_DECTX Properties" Url="html/a4517340-c10b-2bee-fb12-fabf54cf09a9.htm" />
+      <HelpTOCNode Title="CRC16_DECTX Methods" Url="html/bbe4384d-6f39-f724-910f-f0bb4459d6fb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7fc0e482-ca84-4d83-b181-b9092b86cbe7" Title="CRC16_DNP Class" Url="html/a23eb929-a482-7506-14b6-acb1aeed25ef.htm">
+      <HelpTOCNode Title="CRC16_DNP Constructor " Url="html/e682119f-24e8-e8cd-0c19-90174a0f8dd1.htm" />
+      <HelpTOCNode Title="CRC16_DNP Properties" Url="html/d337d5a2-031d-8953-a0bd-f1cf8c98c638.htm" />
+      <HelpTOCNode Title="CRC16_DNP Methods" Url="html/4f845fa6-623c-ef0f-ebb2-35a80651d63a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4f5fa28-ab66-426d-8e37-03905c357576" Title="CRC16_EN13757 Class" Url="html/687a18da-aa47-5075-6c20-a21dfc02d5ff.htm">
+      <HelpTOCNode Title="CRC16_EN13757 Constructor " Url="html/2da275aa-1f38-490d-576c-fa11cea9b94c.htm" />
+      <HelpTOCNode Title="CRC16_EN13757 Properties" Url="html/c3c818ec-9bc2-616f-f079-b5b1326f4897.htm" />
+      <HelpTOCNode Title="CRC16_EN13757 Methods" Url="html/83459494-ba34-5388-a2f1-fd276414b159.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e4374c7-4cae-4e38-97b0-1045ed90c2b1" Title="CRC16_GENIBUS Class" Url="html/b4c8442b-63ef-e240-5618-aa9521dc95cb.htm">
+      <HelpTOCNode Title="CRC16_GENIBUS Constructor " Url="html/9ff423e3-4e6a-322d-d763-a5e4888309b7.htm" />
+      <HelpTOCNode Title="CRC16_GENIBUS Properties" Url="html/7dde11ed-c148-1d2c-d5b7-915dafbb5850.htm" />
+      <HelpTOCNode Title="CRC16_GENIBUS Methods" Url="html/1ff922af-ef4b-989f-91dc-7def40f132bb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0111099f-0f0e-4d1a-9bc1-b92b9f17f13c" Title="CRC16_MAXIM Class" Url="html/1bb9073c-f4cf-f60b-f1b5-f8c1981bcae2.htm">
+      <HelpTOCNode Title="CRC16_MAXIM Constructor " Url="html/2085abf3-1f95-75fe-8ff4-9e313195bde2.htm" />
+      <HelpTOCNode Title="CRC16_MAXIM Properties" Url="html/1389760c-93ec-9dc6-a616-afcd54f64d14.htm" />
+      <HelpTOCNode Title="CRC16_MAXIM Methods" Url="html/deb54a4d-e1f3-8b60-20b8-fcb9ee43aaa8.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f6f5afd8-2300-4e8c-999b-d9d7bad348a7" Title="CRC16_MCRF4XX Class" Url="html/0de267b0-b25a-eb36-8c79-e54e1c95aa18.htm">
+      <HelpTOCNode Title="CRC16_MCRF4XX Constructor " Url="html/1934b94c-608f-e85b-d78a-6c774cae4bd1.htm" />
+      <HelpTOCNode Title="CRC16_MCRF4XX Properties" Url="html/ec63004b-85bc-f142-13e0-230ed592fa54.htm" />
+      <HelpTOCNode Title="CRC16_MCRF4XX Methods" Url="html/252348e4-919d-57ee-d4e8-ffd00fa709bc.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b56bf8ba-ad7d-4425-a7ea-b6370744de0e" Title="CRC16_RIELLO Class" Url="html/496b8b2d-14f7-b761-c8fd-f0a4af9daf5d.htm">
+      <HelpTOCNode Title="CRC16_RIELLO Constructor " Url="html/c386212f-6770-11b4-32c3-6c82410e4ead.htm" />
+      <HelpTOCNode Title="CRC16_RIELLO Properties" Url="html/b0909c30-34f7-b3a1-fd2e-42b5f45e2ef5.htm" />
+      <HelpTOCNode Title="CRC16_RIELLO Methods" Url="html/35ba153c-4c23-f7ab-a25b-9d809715d402.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="54784b94-c3d0-41e5-89a7-8617b80836b1" Title="CRC16_T10DIF Class" Url="html/e4975c7c-7b59-f0de-8786-e70a559fb473.htm">
+      <HelpTOCNode Title="CRC16_T10DIF Constructor " Url="html/43b72dca-d571-199d-39e6-148af9332fdc.htm" />
+      <HelpTOCNode Title="CRC16_T10DIF Properties" Url="html/799b1850-b821-cc52-34a7-87a5f4f2552c.htm" />
+      <HelpTOCNode Title="CRC16_T10DIF Methods" Url="html/27546448-71ec-5466-00f7-4f0b8466f34d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="33cf2691-5e6c-48e3-9ac5-52cef2d6bfce" Title="CRC16_TELEDISK Class" Url="html/91bce1af-f23e-c8ec-b0d3-54f108d39818.htm">
+      <HelpTOCNode Title="CRC16_TELEDISK Constructor " Url="html/030bcbe4-bf30-7abd-ff4b-7ab55a9171ea.htm" />
+      <HelpTOCNode Title="CRC16_TELEDISK Properties" Url="html/4839a3e8-b7d1-ac64-662f-9982d2254342.htm" />
+      <HelpTOCNode Title="CRC16_TELEDISK Methods" Url="html/fd4535b0-e332-3475-7368-eb401dbc3d2b.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0a0cce64-69af-4b29-9aeb-f015f0104398" Title="CRC16_TMS37157 Class" Url="html/857bcc2d-5140-b7b7-259c-02ae47f95db5.htm">
+      <HelpTOCNode Title="CRC16_TMS37157 Constructor " Url="html/d7714a4c-5f23-ae5a-3113-e3fddc55343a.htm" />
+      <HelpTOCNode Title="CRC16_TMS37157 Properties" Url="html/73c70197-c582-aa7f-6b59-18d046fb2235.htm" />
+      <HelpTOCNode Title="CRC16_TMS37157 Methods" Url="html/a16e669f-3aae-b07f-0ebf-bcca1b4cf594.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8fdbbb98-bf23-47d5-bb81-16fa9554e186" Title="CRC16_USB Class" Url="html/1f7f158d-0fa9-2342-b5fa-8a3e5bf342ed.htm">
+      <HelpTOCNode Title="CRC16_USB Constructor " Url="html/780f50aa-9622-3e88-1ee4-2872897fc6b7.htm" />
+      <HelpTOCNode Title="CRC16_USB Properties" Url="html/9d098ea3-4ca4-6759-2673-23a41cdeb599.htm" />
+      <HelpTOCNode Title="CRC16_USB Methods" Url="html/0fd25436-77b3-4e59-3573-9958e24d6925.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a8419a9c-389e-42f7-b1e2-d458de8577bb" Title="CRC24 Class" Url="html/16c8eecf-1837-5b5e-eecd-3d4715c6a6d0.htm">
+      <HelpTOCNode Title="CRC24 Constructor " Url="html/b7fc4d84-626c-ea43-5c97-773be5c48dab.htm" />
+      <HelpTOCNode Title="CRC24 Properties" Url="html/fe9429bc-7c26-0d79-e7f8-c733721e7056.htm" />
+      <HelpTOCNode Title="CRC24 Methods" Url="html/0d9261b9-bccf-4af4-3fb8-19f9f95c44c3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a36fb93a-aef7-4b10-a82b-d980ba34c2b1" Title="CRC24_FLEXRAYA Class" Url="html/a99e7898-fc96-39fa-8762-a60ba1d27864.htm">
+      <HelpTOCNode Title="CRC24_FLEXRAYA Constructor " Url="html/133a948a-8a05-bf64-0fa0-1a5285d8fcfb.htm" />
+      <HelpTOCNode Title="CRC24_FLEXRAYA Properties" Url="html/7d5d9b6b-5fd5-d8e9-a44d-c6ce3245889b.htm" />
+      <HelpTOCNode Title="CRC24_FLEXRAYA Methods" Url="html/fda1ceb0-dfe7-8d19-5d26-09f830d3ce28.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fd7c0e7c-9f72-473b-805e-ea4dee7d01c7" Title="CRC24_FLEXRAYB Class" Url="html/b0abf508-208d-1ab8-d333-14cd6bcd3537.htm">
+      <HelpTOCNode Title="CRC24_FLEXRAYB Constructor " Url="html/cf33d4ee-92de-043d-bd52-fe95d7a60ea6.htm" />
+      <HelpTOCNode Title="CRC24_FLEXRAYB Properties" Url="html/cdf39607-b7c7-9481-7f28-b7b59ed5ef9a.htm" />
+      <HelpTOCNode Title="CRC24_FLEXRAYB Methods" Url="html/44945ea1-5f08-e89a-8278-b8435fd771f0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d34b6c63-ebe1-406e-a956-3a1ccca95e91" Title="CRC3_ROHC Class" Url="html/cf99103d-7643-31da-4c50-3df8baf41347.htm">
+      <HelpTOCNode Title="CRC3_ROHC Constructor " Url="html/d370c238-039a-9063-93db-95bffc1d9dad.htm" />
+      <HelpTOCNode Title="CRC3_ROHC Properties" Url="html/0df445b2-5de2-0b3d-d0c3-39f258d811b2.htm" />
+      <HelpTOCNode Title="CRC3_ROHC Methods" Url="html/839a6b65-a546-d93a-d589-123129db9854.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9302d3ac-b292-4374-9e94-6d331e13c180" Title="CRC31_PHILIPS Class" Url="html/6c8d8b5f-a2d7-90a0-837c-48b0bc0a4d92.htm">
+      <HelpTOCNode Title="CRC31_PHILIPS Constructor " Url="html/f5f6995e-60c6-4661-d2e6-b828f343cfcd.htm" />
+      <HelpTOCNode Title="CRC31_PHILIPS Properties" Url="html/ab037aa8-c965-3aac-50f9-0e477c6edbc8.htm" />
+      <HelpTOCNode Title="CRC31_PHILIPS Methods" Url="html/22118c43-e03c-7ef7-0996-8894e1ba472d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="12277e09-41de-4648-901f-5931fe4587f6" Title="CRC32 Class" Url="html/d2607050-c2d8-080d-1aee-3190f97bb0ae.htm">
+      <HelpTOCNode Title="CRC32 Constructor " Url="html/13c21a4a-be47-1bce-df36-fc684062cf0f.htm" />
+      <HelpTOCNode Title="CRC32 Properties" Url="html/6839bc54-d0fa-1ed0-e89c-ee2e0bd98595.htm" />
+      <HelpTOCNode Title="CRC32 Methods" Url="html/9589d091-fb79-7d2d-94c1-5fcb29987c83.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="495f8610-cfdd-483b-886b-dd75c15212e5" Title="CRC32_BZIP2 Class" Url="html/adadbea2-c6b9-42f7-8e60-da1e5b028b95.htm">
+      <HelpTOCNode Title="CRC32_BZIP2 Constructor " Url="html/3eba3faa-2fc9-8607-16b8-0526ecee3ca2.htm" />
+      <HelpTOCNode Title="CRC32_BZIP2 Properties" Url="html/7d54add2-e485-7ef2-d75b-33da0cb49161.htm" />
+      <HelpTOCNode Title="CRC32_BZIP2 Methods" Url="html/60c48cd3-00bb-2b8b-4a5b-bc74d90575e9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="31c08c7d-16e6-4999-b9dc-1fbc1bc68af0" Title="CRC32_MPEG2 Class" Url="html/e5cbcb17-67ad-66c1-0b50-0f8c0d797090.htm">
+      <HelpTOCNode Title="CRC32_MPEG2 Constructor " Url="html/e37656d3-3af6-c433-d344-8deaec0be910.htm" />
+      <HelpTOCNode Title="CRC32_MPEG2 Properties" Url="html/95ca282d-a484-f8a8-d530-3eba4f6bc87b.htm" />
+      <HelpTOCNode Title="CRC32_MPEG2 Methods" Url="html/dc93b3ed-3a57-fb68-66aa-ace08fd92989.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3f3131ea-1c93-4e0f-83ba-e3671a9d3cb4" Title="CRC32_POSIX Class" Url="html/4bf416b5-b928-28c3-6d05-d0f69f5b5b6d.htm">
+      <HelpTOCNode Title="CRC32_POSIX Constructor " Url="html/97406e29-ab45-fdcd-cfba-05a26f7a4644.htm" />
+      <HelpTOCNode Title="CRC32_POSIX Properties" Url="html/e23270aa-bee9-066a-29ef-f5239ad1a922.htm" />
+      <HelpTOCNode Title="CRC32_POSIX Methods" Url="html/28b93396-6fdb-0b47-a299-e03c993fe6fb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="eb0bf07d-9b01-4214-afb8-93f4b25592a6" Title="CRC32C Class" Url="html/daec01d1-9f90-f19f-7293-5dbef4578e12.htm">
+      <HelpTOCNode Title="CRC32C Constructor " Url="html/3b3f144c-f585-7c03-34f1-4bfd4fe9795b.htm" />
+      <HelpTOCNode Title="CRC32C Properties" Url="html/9c6cb2ad-7ed3-2445-b9c6-ec067d9159b4.htm" />
+      <HelpTOCNode Title="CRC32C Methods" Url="html/73f61079-34df-b629-b076-6b874e4eb2d9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="bdaa2684-7f30-4cc4-81e6-3e5d77e26a08" Title="CRC32D Class" Url="html/ab71a8b0-2c3a-a2f3-5c17-a9412304c1b3.htm">
+      <HelpTOCNode Title="CRC32D Constructor " Url="html/d3f649e4-692e-a18d-8065-512bbbad268b.htm" />
+      <HelpTOCNode Title="CRC32D Properties" Url="html/3cf1d2fb-a611-9f64-af1c-4073b8d610ac.htm" />
+      <HelpTOCNode Title="CRC32D Methods" Url="html/723fd4d4-959a-65d3-df7b-ccf1d0e51bc5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="49ed022d-4995-4f1f-95d0-a264a33e29a3" Title="CRC32Q Class" Url="html/6840964a-bf35-094b-48e9-6421516239d6.htm">
+      <HelpTOCNode Title="CRC32Q Constructor " Url="html/7705ab54-904d-046d-cbac-484600ee0010.htm" />
+      <HelpTOCNode Title="CRC32Q Properties" Url="html/cb02914c-5001-5d6e-eee0-1f55f5d5503a.htm" />
+      <HelpTOCNode Title="CRC32Q Methods" Url="html/e1d5ad4f-658e-db1c-1bc4-8656a4ea2be0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce66e19d-2817-4d79-992b-703120a798bd" Title="CRC4_ITU Class" Url="html/f3d721e6-69a2-43db-b6cb-c36fe16e4de9.htm">
+      <HelpTOCNode Title="CRC4_ITU Constructor " Url="html/a400e066-4308-bd79-f463-aecc60554c4a.htm" />
+      <HelpTOCNode Title="CRC4_ITU Properties" Url="html/9d7a8f9d-cf66-606a-3bd6-0a01540e0a5e.htm" />
+      <HelpTOCNode Title="CRC4_ITU Methods" Url="html/8a32b9ec-6512-c489-1fbb-4378e9cd7a4d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5ed2b165-4394-4643-9dfc-2c7bb291fb96" Title="CRC40_GSM Class" Url="html/ff3e1bc5-abbd-375c-7263-06bb0f6441b4.htm">
+      <HelpTOCNode Title="CRC40_GSM Constructor " Url="html/baf6596b-d306-c116-3586-056dddae0b76.htm" />
+      <HelpTOCNode Title="CRC40_GSM Properties" Url="html/b6ec93c7-71a1-576c-5715-9a01e40ad00b.htm" />
+      <HelpTOCNode Title="CRC40_GSM Methods" Url="html/eb87dcc5-e468-d6f8-25b0-78559aa04aba.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2ddc5846-a320-4e72-a7ce-fba086ac64f5" Title="CRC5_EPC Class" Url="html/f81b0163-cd5b-f02c-5a0e-ae6d378e4c35.htm">
+      <HelpTOCNode Title="CRC5_EPC Constructor " Url="html/b5dd7454-573a-38e1-2b65-57c36e4ab228.htm" />
+      <HelpTOCNode Title="CRC5_EPC Properties" Url="html/059ada6e-e7c7-3dee-b62c-399acd95ac59.htm" />
+      <HelpTOCNode Title="CRC5_EPC Methods" Url="html/3fea20fe-bf26-5098-6059-a5e850358bc2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ee6a56fc-bdf3-425d-a7d5-bafeb274d6ed" Title="CRC5_ITU Class" Url="html/b068d12b-c347-e4a8-7ca0-68ab9f23174a.htm">
+      <HelpTOCNode Title="CRC5_ITU Constructor " Url="html/879b2d90-131b-2af0-99ef-3cbe322ef30e.htm" />
+      <HelpTOCNode Title="CRC5_ITU Properties" Url="html/db0939f2-8527-187b-c9e6-5e1c5b18b7a1.htm" />
+      <HelpTOCNode Title="CRC5_ITU Methods" Url="html/c27b7f88-1282-e509-02ed-a955861cd3d9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="47682b77-6bb0-4b98-86eb-5827134497fb" Title="CRC5_USB Class" Url="html/de9095b8-d26d-3caf-9ea5-68531da85cc6.htm">
+      <HelpTOCNode Title="CRC5_USB Constructor " Url="html/52bd9ef9-9906-2c71-fc5c-800f48c68dd3.htm" />
+      <HelpTOCNode Title="CRC5_USB Properties" Url="html/d4c16556-a64b-7b90-7bf8-ab702e792dca.htm" />
+      <HelpTOCNode Title="CRC5_USB Methods" Url="html/631beed2-1f5f-0436-a38e-8850b0ad3971.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e58ac3ec-203c-4ec6-b35c-a9824bd9b03f" Title="CRC6_CDMA2000A Class" Url="html/b9b42aed-3724-505b-236c-0e3ceded60e5.htm">
+      <HelpTOCNode Title="CRC6_CDMA2000A Constructor " Url="html/5abf5d4f-0cc7-34c8-4495-8afa08779d0a.htm" />
+      <HelpTOCNode Title="CRC6_CDMA2000A Properties" Url="html/800d535b-31da-dafe-a715-f21ae6ebee79.htm" />
+      <HelpTOCNode Title="CRC6_CDMA2000A Methods" Url="html/864482f1-62ea-8f37-a00c-71597bbad2cd.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9f948736-757d-467d-addf-bb6ff8cc641a" Title="CRC6_CDMA2000B Class" Url="html/ad6ce451-8117-e5b7-1094-683f3f8d0bba.htm">
+      <HelpTOCNode Title="CRC6_CDMA2000B Constructor " Url="html/1dbd3f62-00c4-cadf-d6a9-ef42b94c6e20.htm" />
+      <HelpTOCNode Title="CRC6_CDMA2000B Properties" Url="html/473ec96d-08ad-9f46-858a-4cbb181e561b.htm" />
+      <HelpTOCNode Title="CRC6_CDMA2000B Methods" Url="html/ce975015-842e-0bc6-41b3-4cbc758bdde5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8e36b364-b71e-4db6-bee5-02e8be99a26e" Title="CRC6_DARC Class" Url="html/99a0c0ba-3483-ff9b-bf9a-20b131b94b8f.htm">
+      <HelpTOCNode Title="CRC6_DARC Constructor " Url="html/93565ea2-4634-f749-a8b8-024ccd4343ae.htm" />
+      <HelpTOCNode Title="CRC6_DARC Properties" Url="html/4c086346-6d11-d96d-3938-710bf79f9015.htm" />
+      <HelpTOCNode Title="CRC6_DARC Methods" Url="html/03ddd199-183d-6932-4d51-d2badcb524b8.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="254ff5b4-e170-43a0-9930-bdda28da28e4" Title="CRC6_ITU Class" Url="html/aea2d159-16ec-2069-fc65-5c1c7728a8f7.htm">
+      <HelpTOCNode Title="CRC6_ITU Constructor " Url="html/c9c5ab73-9e0b-9e94-3034-04ef7823eedd.htm" />
+      <HelpTOCNode Title="CRC6_ITU Properties" Url="html/0ce9594a-33f8-101a-5c75-a7f919b0d2e4.htm" />
+      <HelpTOCNode Title="CRC6_ITU Methods" Url="html/2b27dc9b-1459-9e79-31d2-09a0262aeb54.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6d5ccbb5-b6dd-451e-aa77-f0749d9e0fb7" Title="CRC64 Class" Url="html/b6d6ab4f-1cbd-a7a1-84c5-91ed74d81854.htm">
+      <HelpTOCNode Title="CRC64 Constructor " Url="html/eedce611-b6e1-8ad5-c23c-ac833b9c285c.htm" />
+      <HelpTOCNode Title="CRC64 Properties" Url="html/b42a8069-2d98-7fc1-73b5-d01919fdbcca.htm" />
+      <HelpTOCNode Title="CRC64 Methods" Url="html/417b8c60-563a-fb2b-0fe2-2a2b1086005d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3dbcd348-09f6-4055-b8c5-c82029fcdb08" Title="CRC64_WE Class" Url="html/7ec54060-ae5b-f8af-6af4-d6a9e2485a02.htm">
+      <HelpTOCNode Title="CRC64_WE Constructor " Url="html/f8809060-dda1-1df9-f742-d76365a16cc4.htm" />
+      <HelpTOCNode Title="CRC64_WE Properties" Url="html/752b7541-2604-b9ea-41d2-48551236b56d.htm" />
+      <HelpTOCNode Title="CRC64_WE Methods" Url="html/6d6bbbc9-0449-2b74-1385-77d8195e2933.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="691cb4ee-ef99-4427-8b34-acf50f4f909f" Title="CRC64_XZ Class" Url="html/76a0b6f2-9da5-ffee-8f94-9b072c9d465b.htm">
+      <HelpTOCNode Title="CRC64_XZ Constructor " Url="html/728bceba-a120-2deb-6d24-e1260d4c0b5b.htm" />
+      <HelpTOCNode Title="CRC64_XZ Properties" Url="html/83fae144-9b8f-8284-5dc9-82ec668af023.htm" />
+      <HelpTOCNode Title="CRC64_XZ Methods" Url="html/f671d8da-0358-cca2-ae9e-e78fb0772df8.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="541df07f-46d9-442f-9ca3-1d3dc2acd9fd" Title="CRC7 Class" Url="html/cc79a9f2-7bab-4dfc-81a3-28277f74db84.htm">
+      <HelpTOCNode Title="CRC7 Constructor " Url="html/0e5ef58b-5e4a-840a-b284-1536ef256d87.htm" />
+      <HelpTOCNode Title="CRC7 Properties" Url="html/6718238f-1072-891e-55d5-c44a2dbc39b4.htm" />
+      <HelpTOCNode Title="CRC7 Methods" Url="html/0b3501d8-ab17-4c8f-137f-b5119dc84848.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="668df2a4-3044-4291-8de3-435bd0c644c2" Title="CRC7_ROHC Class" Url="html/c300d68b-b6d5-0878-a2e7-415f255f4c96.htm">
+      <HelpTOCNode Title="CRC7_ROHC Constructor " Url="html/3c489514-f7f4-0ca8-28e4-811fad4aeff4.htm" />
+      <HelpTOCNode Title="CRC7_ROHC Properties" Url="html/1d22239f-dbdc-fb77-6be4-113b9b11c8b4.htm" />
+      <HelpTOCNode Title="CRC7_ROHC Methods" Url="html/d01baef2-f776-48ff-b0dd-6487128d0aca.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe2032fc-4673-4fe8-bc0f-0c8616d244a9" Title="CRC8 Class" Url="html/4618acda-0c0a-5f1f-f88b-fc81973bb4fd.htm">
+      <HelpTOCNode Title="CRC8 Constructor " Url="html/0dc93185-e154-0a66-c10c-b15a1155e3a7.htm" />
+      <HelpTOCNode Title="CRC8 Properties" Url="html/59e58881-fad1-daaa-6464-3e6abd248000.htm" />
+      <HelpTOCNode Title="CRC8 Methods" Url="html/0ee2136d-ee0e-565c-ecad-c739e35ffa12.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="34c85ca0-3c0b-46fa-9c90-943c9c647577" Title="CRC8_CDMA2000 Class" Url="html/be4c6362-fca6-8043-dc0d-10e9fb08212d.htm">
+      <HelpTOCNode Title="CRC8_CDMA2000 Constructor " Url="html/2f6af520-3d8a-1fc1-641b-2fb74a0e8de5.htm" />
+      <HelpTOCNode Title="CRC8_CDMA2000 Properties" Url="html/49b39d2b-c9c3-0e62-9c12-64ba5ad31f61.htm" />
+      <HelpTOCNode Title="CRC8_CDMA2000 Methods" Url="html/37895249-f420-d2cc-490d-a5259f9fe776.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fd6f44d7-9163-4209-95e1-96bf69148c99" Title="CRC8_DARC Class" Url="html/77d84851-78ec-c9b8-85ec-6eee7525a7ca.htm">
+      <HelpTOCNode Title="CRC8_DARC Constructor " Url="html/a5b935a5-c582-fcd5-c65c-1d64e1ed2a2e.htm" />
+      <HelpTOCNode Title="CRC8_DARC Properties" Url="html/7091c596-0e35-cb16-32d9-c7542c4b1334.htm" />
+      <HelpTOCNode Title="CRC8_DARC Methods" Url="html/b48fd498-6a2e-fb3d-ff75-f36757fc8b3e.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="22348169-6f65-4d8c-a9e5-1f9304642704" Title="CRC8_DVBS2 Class" Url="html/77bcecac-d26f-7b8c-66c1-879e9ad0fe07.htm">
+      <HelpTOCNode Title="CRC8_DVBS2 Constructor " Url="html/ca1a386e-2ee1-ae35-7cc6-b29572b2d2d0.htm" />
+      <HelpTOCNode Title="CRC8_DVBS2 Properties" Url="html/e89ed751-2bc9-326d-d0e8-bf08f1131953.htm" />
+      <HelpTOCNode Title="CRC8_DVBS2 Methods" Url="html/78b69241-26ac-da7d-0344-5a7f666befe2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="87060b10-6d23-4a86-8443-ba5096366f39" Title="CRC8_EBU Class" Url="html/77764881-897f-4d05-ae15-dfc7a28ff31b.htm">
+      <HelpTOCNode Title="CRC8_EBU Constructor " Url="html/67ede160-395a-5eeb-a7a4-61c8260b94df.htm" />
+      <HelpTOCNode Title="CRC8_EBU Properties" Url="html/b869910b-3ba5-2641-ead4-01a80c49368a.htm" />
+      <HelpTOCNode Title="CRC8_EBU Methods" Url="html/9b46c062-ed9f-dcc3-043a-2638ba584ef7.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="067eed11-9bd0-428e-b0e9-596e8cde9a49" Title="CRC8_ICODE Class" Url="html/f0759e66-0e00-11af-b93f-8b985c765f9e.htm">
+      <HelpTOCNode Title="CRC8_ICODE Constructor " Url="html/06f6572f-09ab-2bb4-269e-07f4c50be2d5.htm" />
+      <HelpTOCNode Title="CRC8_ICODE Properties" Url="html/89742f9b-1540-7d59-eeac-b714782a404a.htm" />
+      <HelpTOCNode Title="CRC8_ICODE Methods" Url="html/cb1c35fb-c4ff-dd08-0611-5eeff01c7106.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6dd0462c-4cb7-4779-af15-2bd51e8dca41" Title="CRC8_ITU Class" Url="html/72d9a281-db78-ebe3-1111-7aedc10efe50.htm">
+      <HelpTOCNode Title="CRC8_ITU Constructor " Url="html/5942daec-0a76-7e6f-fb22-68b03d6aff4f.htm" />
+      <HelpTOCNode Title="CRC8_ITU Properties" Url="html/fcc66404-458f-e8b9-a0ec-a201cb1bc881.htm" />
+      <HelpTOCNode Title="CRC8_ITU Methods" Url="html/5694d0fa-6cf0-af8e-9cbc-2ba433453855.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="054b9476-e785-4215-998a-1cbebe2d9515" Title="CRC8_MAXIM Class" Url="html/a9c07e5f-5fe5-7df6-8512-09537c993c32.htm">
+      <HelpTOCNode Title="CRC8_MAXIM Constructor " Url="html/d3e0c55c-34e7-825b-ec86-8812dc4ca53f.htm" />
+      <HelpTOCNode Title="CRC8_MAXIM Properties" Url="html/ae96a419-2459-ec51-a058-f67dfaf7202a.htm" />
+      <HelpTOCNode Title="CRC8_MAXIM Methods" Url="html/47898d71-2a7a-d660-080e-8a1a3760b129.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5dfd7f3b-fe31-4097-97a2-bab6701020e2" Title="CRC8_ROHC Class" Url="html/eabce01e-9c65-63c6-3206-c936a1d92d2d.htm">
+      <HelpTOCNode Title="CRC8_ROHC Constructor " Url="html/8e2b191d-37cf-557d-50a3-40aaab69ce6c.htm" />
+      <HelpTOCNode Title="CRC8_ROHC Properties" Url="html/6bd1d418-11ab-a933-813b-7ae8926a8176.htm" />
+      <HelpTOCNode Title="CRC8_ROHC Methods" Url="html/67003542-2e2b-cdac-2ae8-c274d5800fac.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="10d07cdf-a9d7-4d90-a2c9-6baab32f926c" Title="CRC8_WCDMA Class" Url="html/0ddb4bdf-5a89-4832-001e-5f7b396093d6.htm">
+      <HelpTOCNode Title="CRC8_WCDMA Constructor " Url="html/32ae54ed-61d8-ad52-0daf-245e739d4104.htm" />
+      <HelpTOCNode Title="CRC8_WCDMA Properties" Url="html/50009f61-821f-b6fa-3d65-3f2d225551cd.htm" />
+      <HelpTOCNode Title="CRC8_WCDMA Methods" Url="html/1b905cb9-34b9-6867-f938-9eff8aa7dbd2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c5caac9f-46b7-40f2-8485-aeac61f9a9be" Title="CRCA Class" Url="html/c4a4f121-9a3c-1f30-e92a-197bebb3a87b.htm">
+      <HelpTOCNode Title="CRCA Constructor " Url="html/14cd5b55-5635-a2db-2931-a92e885c6890.htm" />
+      <HelpTOCNode Title="CRCA Properties" Url="html/e703c358-0ee4-5947-b627-8c95d6f704bc.htm" />
+      <HelpTOCNode Title="CRCA Methods" Url="html/71449f58-eb03-26b0-a460-917f770d8d6c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c5c31ae3-c0c0-459c-8a64-ae75c29e00d0" Title="JAMCRC Class" Url="html/cb434d45-586c-a75f-c9a2-9778894f9cff.htm">
+      <HelpTOCNode Title="JAMCRC Constructor " Url="html/4c54eaa6-6ac6-d709-f016-9459b9bc9f9f.htm" />
+      <HelpTOCNode Title="JAMCRC Properties" Url="html/c7dcb4a1-85e9-0012-29a2-2f483c2d9fc1.htm" />
+      <HelpTOCNode Title="JAMCRC Methods" Url="html/e35775b4-85fa-8f12-9e15-152d76acdbb0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf78088f-0bdc-4d88-a86b-e76cac3b4fb0" Title="KERMIT Class" Url="html/0bd58cd6-e699-9356-0d9e-e4e5e4087f69.htm">
+      <HelpTOCNode Title="KERMIT Constructor " Url="html/98431738-6f2a-a6ec-d7f4-ee92300c5fda.htm" />
+      <HelpTOCNode Title="KERMIT Properties" Url="html/710bc5e3-9300-e478-ddff-45d2f5c67739.htm" />
+      <HelpTOCNode Title="KERMIT Methods" Url="html/36e2de89-ad60-1c8c-371f-bd9fe4f5f27c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="118a3123-3606-4d83-90e0-a9e777b5679b" Title="MODBUS Class" Url="html/2b9c9550-c0b4-d23b-c2ab-c26c955520bb.htm">
+      <HelpTOCNode Title="MODBUS Constructor " Url="html/799a1322-1c29-a3c4-ce9d-17ad9c4841e7.htm" />
+      <HelpTOCNode Title="MODBUS Properties" Url="html/e25e9902-dcde-3092-aa87-bf56c6ee3140.htm" />
+      <HelpTOCNode Title="MODBUS Methods" Url="html/bf245413-96b1-e69d-43c3-59b3acb504ff.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2c83eb52-c17f-459a-bf37-13cd4e6e139d" Title="X25 Class" Url="html/f49877f9-b61f-e4e4-ab1b-2460143238de.htm">
+      <HelpTOCNode Title="X25 Constructor " Url="html/5386b820-d279-7648-55d3-03cb138d26b4.htm" />
+      <HelpTOCNode Title="X25 Properties" Url="html/74e45b0f-75f8-2b4f-6996-f8a1087fb418.htm" />
+      <HelpTOCNode Title="X25 Methods" Url="html/d884c580-a8f2-32d0-5038-4f059fc9a10f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ff539715-276f-4c39-bb41-766d21c5316a" Title="XFER Class" Url="html/b4966036-eb5e-4297-b50f-96f79c23c359.htm">
+      <HelpTOCNode Title="XFER Constructor " Url="html/278fe4a7-2ffe-f764-dc53-dc08a32b389c.htm" />
+      <HelpTOCNode Title="XFER Properties" Url="html/fb5b8800-c3f5-1673-4654-ce9134593bd9.htm" />
+      <HelpTOCNode Title="XFER Methods" Url="html/c09eae32-227a-0c33-c70a-fecbc3c1bb3e.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="94f37844-05e6-4ece-9300-1167d7b86aeb" Title="XMODEM Class" Url="html/5326021f-695a-7a07-b686-4a399de666f1.htm">
+      <HelpTOCNode Title="XMODEM Constructor " Url="html/2d15de23-d5cc-eacd-ff3c-83ab1410e397.htm" />
+      <HelpTOCNode Title="XMODEM Properties" Url="html/837f2cf3-0b8f-25f4-eaef-e02c4d220216.htm" />
+      <HelpTOCNode Title="XMODEM Methods" Url="html/11c1cf1e-6c65-4efb-4df6-8e2eec469732.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f28c6b63-8f51-47e6-a4ee-637b1ca37770" Title="System.Data.HashFunction.Utilities" Url="html/b060d51a-6182-e101-2a98-6f71dda74213.htm">
+    <HelpTOCNode Id="f0c477c3-1908-476e-985a-eaba15cec766" Title="UInt128 Structure" Url="html/947c67a3-d935-e7fd-7de4-3b1acbdd91b2.htm">
+      <HelpTOCNode Id="62efbbd7-dbd0-41b7-aebc-ebbe012ee4f3" Title="UInt128 Properties" Url="html/e8806d90-6c1c-2332-9fd8-5dcdc46873e1.htm">
+        <HelpTOCNode Title="High Property " Url="html/f19cf66b-15fe-16f6-a2c5-eba5a69d0d2a.htm" />
+        <HelpTOCNode Title="Low Property " Url="html/9464824d-15ad-42ba-eb6a-56bc11b2cd2c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e2cad5c7-7512-4558-8c1a-291b9d516bcd" Title="UInt128 Methods" Url="html/d0a46295-ca18-8aa4-bca2-0257e4b139ad.htm">
+        <HelpTOCNode Title="Add Method " Url="html/4c47f5df-202f-720d-43a8-c736f1ba1a33.htm" />
+        <HelpTOCNode Id="26495a62-6091-4004-b4c9-d240b79c9ded" Title="CompareTo Method " Url="html/340722f6-5844-d10f-1323-bf21f2e6f533.htm">
+          <HelpTOCNode Title="CompareTo Method (Object)" Url="html/2cec9260-db41-d5fc-e773-0a5d19f006c2.htm" />
+          <HelpTOCNode Title="CompareTo Method (UInt128)" Url="html/0b80583b-04d6-493f-d8a3-d4398f6d9e4c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Decrement Method " Url="html/2b5e5cd7-5651-2cce-ee0c-bb81c0832565.htm" />
+        <HelpTOCNode Id="ce2f62a0-2b62-4619-83b2-b0717194f42b" Title="Equals Method " Url="html/2a0c8b18-03b2-46b6-3834-b6eb21d80fb6.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/10e127f7-bc1f-6fb3-dc45-d3b653ad1e5b.htm" />
+          <HelpTOCNode Title="Equals Method (UInt128)" Url="html/0a05c2d6-4295-a2f6-8db7-102f72718fc2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/65b01df0-f0ff-5775-c22e-71f46f5ab28d.htm" />
+        <HelpTOCNode Title="Increment Method " Url="html/b52810ed-1f6f-dd09-0851-4ae10f7fa95d.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/125dd647-a095-af54-8890-8ae851e6722f.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/0e7ede94-bdcc-f49c-2405-71026d7c33f6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8da34347-99a1-4777-b3ad-b743a8408865" Title="UInt128 Operators and Type Conversions" Url="html/12dfec26-2bea-53e6-b562-c29d8da7f111.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/4a0d1473-7978-2e07-6a65-d767feb01942.htm" />
+        <HelpTOCNode Title="Decrement Operator " Url="html/979b13ad-d831-7399-68db-675e9031aad8.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/7cfa1b4e-8b5d-8a3d-f820-3838a8702175.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/b9f1c1e4-e988-cce5-07fc-d69e8a2c60db.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/46e15a71-0d01-62e1-448c-ad1c7ecf7db3.htm" />
+        <HelpTOCNode Id="fde15b01-3785-49cc-9e35-14cb0b6bf3c6" Title="Implicit Conversion Operators" Url="html/82b73ac9-592d-0216-1f83-e631e0209aaa.htm">
+          <HelpTOCNode Title="Implicit Conversion (UInt16 to UInt128)" Url="html/ca4de135-dfb7-7ad2-6603-bc6b3a04ddd8.htm" />
+          <HelpTOCNode Title="Implicit Conversion (UInt32 to UInt128)" Url="html/4f94bd79-9949-0c29-afe8-082c5809bcdd.htm" />
+          <HelpTOCNode Title="Implicit Conversion (UInt64 to UInt128)" Url="html/ab4170ce-5244-2cbd-be47-6a347d3b7b9a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Increment Operator " Url="html/fba29331-bc16-2a28-5eac-15cf8245ddca.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/2d8f6716-f287-58b0-cd48-f2d5c494f321.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/1792c5c8-6b66-f203-bd29-6cb6038deecd.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/01acf471-44bb-3db6-ec14-38a6c78cca15.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/f374d2a7-c46a-9bcc-aba3-c59c26f8b112.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a66e041f-24a2-4e99-9662-64ab559ab230" Title="System.Data.HashFunction.Utilities.UnifiedData" Url="html/ae70b335-9b82-2a37-16fb-55c4b417f7a1.htm">
+    <HelpTOCNode Id="bb580a5f-1f1e-455a-a4a6-b443ad4f0a8a" Title="UnifiedData Class" Url="html/a99d258f-07b8-3a9e-95c3-34005b401e4d.htm">
+      <HelpTOCNode Title="UnifiedData Constructor " Url="html/0e0cb49d-44e1-6954-d293-4259ac8ff6ad.htm" />
+      <HelpTOCNode Id="e46f4c4b-d43f-4d30-8fa0-5030a4f996ac" Title="UnifiedData Properties" Url="html/55334ea2-66a7-eac2-9c8c-2836e26312d9.htm">
+        <HelpTOCNode Title="BufferSize Property " Url="html/c054e67b-df7b-2c43-b6d1-657e25acae38.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/9947cde1-91b3-f0e2-da94-0bda908b41e0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e983791c-75fb-4352-aa38-20490bd934fc" Title="UnifiedData Methods" Url="html/7bde0739-e806-401a-d371-7cbc091e520a.htm">
+        <HelpTOCNode Title="ForEachGroup Method " Url="html/953d585d-d2dd-759f-82e5-bc8effc4baad.htm" />
+        <HelpTOCNode Title="ForEachGroupAsync Method " Url="html/82527ac4-1918-2915-3f8d-8ed5e3cf112c.htm" />
+        <HelpTOCNode Title="ForEachRead Method " Url="html/3b765452-77a1-6b82-138a-316c393fc060.htm" />
+        <HelpTOCNode Title="ForEachReadAsync Method " Url="html/7343b25f-c00f-96ef-fa90-a44f243a767c.htm" />
+        <HelpTOCNode Title="ToArray Method " Url="html/ee8e6854-39ac-deb5-7021-0a1258b60a34.htm" />
+        <HelpTOCNode Title="ToArrayAsync Method " Url="html/e0547ac8-c242-3aa0-81ca-010bd4d4cc9a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
